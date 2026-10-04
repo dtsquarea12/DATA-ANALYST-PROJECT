@@ -1,0 +1,243 @@
+country,month,grade,price_local,currency,unit,source_url,confidence,note
+UAE,2025-12,Super 98,2.70,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2025-12,Special 95,2.58,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2025-12,E-Plus 91,2.51,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2025-12,Diesel,2.85,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-01,Super 98,2.53,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-01,Special 95,2.42,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-01,E-Plus 91,2.34,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-01,Diesel,2.55,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-02,Super 98,2.45,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-02,Special 95,2.33,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-02,E-Plus 91,2.26,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-02,Diesel,2.52,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-03,Super 98,2.59,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-03,Special 95,2.48,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-03,E-Plus 91,2.40,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-03,Diesel,2.72,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-04,Super 98,3.39,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-04,Special 95,3.28,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-04,E-Plus 91,3.20,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-04,Diesel,4.69,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-05,Super 98,3.66,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-05,Special 95,3.55,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-05,E-Plus 91,3.48,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-05,Diesel,4.69,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-06,Super 98,3.95,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-06,Special 95,3.83,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-06,E-Plus 91,3.76,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-06,Diesel,4.33,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-07,Super 98,3.40,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-07,Special 95,3.29,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-07,E-Plus 91,3.21,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-07,Diesel,3.60,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-08,Super 98,3.60,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-08,Special 95,3.49,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-08,E-Plus 91,3.41,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-08,Diesel,3.80,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-09,Super 98,3.80,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-09,Special 95,3.69,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-09,E-Plus 91,3.61,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-09,Diesel,4.30,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-10,Super 98,4.40,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-10,Special 95,4.28,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-10,E-Plus 91,4.21,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+UAE,2026-10,Diesel,4.80,AED,per litre,https://gulfnews.com/gold-forex/historical-fuel-rates,verified-2-sources,Gulf News history table + monthly announcement articles (Gulf News/Khaleej Times/Emirates 24|7/DubiCars)
+Saudi Arabia,2025-12,Gasoline 91,2.18,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2025-12,Gasoline 95,2.33,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2025-12,Gasoline 98,,SAR,per litre,https://gulfnews.com/business/energy/saudi-aramco-to-launch-98-octane-fuel-for-performance-cars-1.500398937,MISSING,Gasoline 98 not sold until Jan 2026 launch - not applicable
+Saudi Arabia,2025-12,Diesel,1.66,SAR,per litre,https://www.agbi.com/oil-and-gas/2026/01/saudi-companies-face-cost-increase-as-aramco-ups-diesel-price/,verified-2-sources,2025 price; raised to 1.79 on 1 Jan 2026
+Saudi Arabia,2026-01,Gasoline 91,2.18,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-01,Gasoline 95,2.33,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-01,Gasoline 98,2.88,SAR,per litre,https://saudigazette.com.sa/article/658087,verified-2-sources,launch price; Saudi Gazette headline + halacarly
+Saudi Arabia,2026-01,Diesel,1.79,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,"annual diesel review, effective 1 Jan 2026"
+Saudi Arabia,2026-02,Gasoline 91,2.18,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-02,Gasoline 95,2.33,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-02,Gasoline 98,2.88,SAR,per litre,https://www.arabwheels.sa/blog/en/saudi-fuel-prices-march-2026/,verified-2-sources,
+Saudi Arabia,2026-02,Diesel,1.79,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,"annual diesel review, effective 1 Jan 2026"
+Saudi Arabia,2026-03,Gasoline 91,2.18,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-03,Gasoline 95,2.33,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-03,Gasoline 98,2.94,SAR,per litre,https://www.arabwheels.sa/blog/en/saudi-fuel-prices-march-2026/,verified-2-sources,arabwheels + KSA Expats post; arabwheels April article wrongly says 2.88
+Saudi Arabia,2026-03,Diesel,1.79,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,"annual diesel review, effective 1 Jan 2026"
+Saudi Arabia,2026-04,Gasoline 91,2.18,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-04,Gasoline 95,2.33,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-04,Gasoline 98,3.83,SAR,per litre,https://thesauditimes.net/en/aramco-announces-april-2026-fuel-prices-as-global-oil-markets-fluctuate/,verified-2-sources,"Saudi Times, Bayut, arabwheels; arabwheels May/June articles say 3.38 (typo)"
+Saudi Arabia,2026-04,Diesel,1.79,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,"annual diesel review, effective 1 Jan 2026"
+Saudi Arabia,2026-05,Gasoline 91,2.18,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-05,Gasoline 95,2.33,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-05,Gasoline 98,4.51,SAR,per litre,https://www.arabwheels.sa/blog/en/saudi-fuel-prices-may-2026-eplus-98-update/,verified-2-sources,arabwheels + syarah
+Saudi Arabia,2026-05,Diesel,1.79,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,"annual diesel review, effective 1 Jan 2026"
+Saudi Arabia,2026-06,Gasoline 91,2.18,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-06,Gasoline 95,2.33,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-06,Gasoline 98,4.51,SAR,per litre,https://www.arabwheels.sa/blog/en/saudi-fuel-prices-june-2026-aramco-update/,verified-2-sources,arabwheels + syarah
+Saudi Arabia,2026-06,Diesel,1.79,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,"annual diesel review, effective 1 Jan 2026"
+Saudi Arabia,2026-07,Gasoline 91,2.18,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-07,Gasoline 95,2.33,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-07,Gasoline 98,3.93,SAR,per litre,https://www.arabwheels.sa/blog/en/saudi-fuel-prices-july-2026-aramco-update/,verified-2-sources,arabwheels + ksaexpats GCC comparison
+Saudi Arabia,2026-07,Diesel,1.79,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,"annual diesel review, effective 1 Jan 2026"
+Saudi Arabia,2026-08,Gasoline 91,2.18,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-08,Gasoline 95,2.33,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-08,Gasoline 98,4.49,SAR,per litre,https://www.arabwheels.sa/blog/en/saudi-fuel-prices-august-2026/,verified-2-sources,arabwheels + X post quoting Aramco update
+Saudi Arabia,2026-08,Diesel,1.79,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,"annual diesel review, effective 1 Jan 2026"
+Saudi Arabia,2026-09,Gasoline 91,2.18,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-09,Gasoline 95,2.33,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,capped since July 2021
+Saudi Arabia,2026-09,Gasoline 98,4.64,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,Aramco official page + arabwheels + motory
+Saudi Arabia,2026-09,Diesel,1.79,SAR,per litre,https://www.aramco.com/en/what-we-do/energy-products/retail-fuels,verified-2-sources,"annual diesel review, effective 1 Jan 2026"
+Saudi Arabia,2026-10,Gasoline 91,2.18,SAR,per litre,https://ksaexpats.com/saudi-arabia-fuel-prices/,single-source,as of 1 Oct; mid-month Aramco update pending
+Saudi Arabia,2026-10,Gasoline 95,2.33,SAR,per litre,https://ksaexpats.com/saudi-arabia-fuel-prices/,single-source,as of 1 Oct; mid-month Aramco update pending
+Saudi Arabia,2026-10,Gasoline 98,4.64,SAR,per litre,https://ksaexpats.com/saudi-arabia-fuel-prices/,single-source,as of 1 Oct; Aramco monthly update (~10-11 Oct) not yet published - provisional
+Saudi Arabia,2026-10,Diesel,1.79,SAR,per litre,https://ksaexpats.com/saudi-arabia-fuel-prices/,single-source,"annual diesel review, effective 1 Jan 2026"
+Qatar,2025-12,Premium 91,2.00,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2025-12,Super 95,2.05,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2025-12,Diesel,2.05,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-01,Premium 91,1.95,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-01,Super 95,2.00,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-01,Diesel,2.00,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-02,Premium 91,1.80,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-02,Super 95,1.85,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-02,Diesel,1.90,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-03,Premium 91,1.85,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-03,Super 95,1.90,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-03,Diesel,2.05,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-04,Premium 91,1.85,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-04,Super 95,2.05,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-04,Diesel,2.05,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-05,Premium 91,1.90,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-05,Super 95,2.10,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-05,Diesel,2.05,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-06,Premium 91,2.00,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-06,Super 95,2.10,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-06,Diesel,2.05,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-07,Premium 91,2.05,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-07,Super 95,2.10,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-07,Diesel,2.05,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-08,Premium 91,2.00,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-08,Super 95,2.10,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-08,Diesel,2.05,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-09,Premium 91,2.00,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-09,Super 95,2.10,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-09,Diesel,2.05,QAR,per litre,https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-10,Premium 91,1.95,QAR,per litre,http://thepeninsulaqatar.com/article/30/09/2026/qatarenergy-announces-fuel-prices-for-october-2026,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-10,Super 95,2.10,QAR,per litre,http://thepeninsulaqatar.com/article/30/09/2026/qatarenergy-announces-fuel-prices-for-october-2026,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Qatar,2026-10,Diesel,2.05,QAR,per litre,http://thepeninsulaqatar.com/article/30/09/2026/qatarenergy-announces-fuel-prices-for-october-2026,verified-2-sources,QatarEnergy history PDF + Peninsula/Zawya/Qatar Tribune monthly articles
+Kuwait,2025-12,Premium 91,0.085,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,frozen
+Kuwait,2025-12,Super 95,0.105,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,frozen
+Kuwait,2025-12,Ultra 98,0.200,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,200 fils since Jan 2025; Q1 2026 unchanged
+Kuwait,2025-12,Diesel,0.115,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,frozen
+Kuwait,2026-01,Premium 91,0.085,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,frozen
+Kuwait,2026-01,Super 95,0.105,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,frozen
+Kuwait,2026-01,Ultra 98,0.200,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,200 fils since Jan 2025; Q1 2026 unchanged
+Kuwait,2026-01,Diesel,0.115,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,frozen
+Kuwait,2026-02,Premium 91,0.085,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,frozen
+Kuwait,2026-02,Super 95,0.105,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,frozen
+Kuwait,2026-02,Ultra 98,0.200,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,200 fils since Jan 2025; Q1 2026 unchanged
+Kuwait,2026-02,Diesel,0.115,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,frozen
+Kuwait,2026-03,Premium 91,0.085,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,frozen
+Kuwait,2026-03,Super 95,0.105,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,frozen
+Kuwait,2026-03,Ultra 98,0.200,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,200 fils since Jan 2025; Q1 2026 unchanged
+Kuwait,2026-03,Diesel,0.115,KWD,per litre,https://www.arabtimesonline.com/news/gasoline-prices-in-kuwait-to-remain-unchanged-until-march-31-2026/,verified-2-sources,frozen
+Kuwait,2026-04,Premium 91,0.085,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-04,Super 95,0.105,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-04,Ultra 98,0.225,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,"reported retrospectively on 30 Jun by Al Rai, Al Jarida, Al Seyassah, Arab Times; no contemporaneous April announcement found; yallamotor April page shows 0.200 (judged stale)"
+Kuwait,2026-04,Diesel,0.115,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-05,Premium 91,0.085,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-05,Super 95,0.105,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-05,Ultra 98,0.225,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,"reported retrospectively on 30 Jun by Al Rai, Al Jarida, Al Seyassah, Arab Times; no contemporaneous April announcement found; yallamotor April page shows 0.200 (judged stale)"
+Kuwait,2026-05,Diesel,0.115,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-06,Premium 91,0.085,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-06,Super 95,0.105,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-06,Ultra 98,0.225,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,"reported retrospectively on 30 Jun by Al Rai, Al Jarida, Al Seyassah, Arab Times; no contemporaneous April announcement found; yallamotor April page shows 0.200 (judged stale)"
+Kuwait,2026-06,Diesel,0.115,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-07,Premium 91,0.085,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-07,Super 95,0.105,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-07,Ultra 98,0.275,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,raised 50 fils effective 1 Jul 2026
+Kuwait,2026-07,Diesel,0.115,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-08,Premium 91,0.085,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-08,Super 95,0.105,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-08,Ultra 98,0.275,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,raised 50 fils effective 1 Jul 2026
+Kuwait,2026-08,Diesel,0.115,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-09,Premium 91,0.085,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-09,Super 95,0.105,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-09,Ultra 98,0.275,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,raised 50 fils effective 1 Jul 2026
+Kuwait,2026-09,Diesel,0.115,KWD,per litre,https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/,verified-2-sources,frozen
+Kuwait,2026-10,Premium 91,,KWD,per litre,,MISSING,Q4 2026 (1 Oct-31 Dec) announcement not found; Q3 values were 0.085/0.105/0.275/0.115
+Kuwait,2026-10,Super 95,,KWD,per litre,,MISSING,Q4 2026 (1 Oct-31 Dec) announcement not found; Q3 values were 0.085/0.105/0.275/0.115
+Kuwait,2026-10,Ultra 98,,KWD,per litre,,MISSING,Q4 2026 (1 Oct-31 Dec) announcement not found; Q3 values were 0.085/0.105/0.275/0.115
+Kuwait,2026-10,Diesel,,KWD,per litre,,MISSING,Q4 2026 (1 Oct-31 Dec) announcement not found; Q3 values were 0.085/0.105/0.275/0.115
+Bahrain,2025-12,Jayyid 91,0.140,BHD,per litre,https://www.gdnonline.com/Details/1372128/Fuel-prices-increased-under-new-mechanism,verified-2-sources,prices in force 1-29 Dec 2025; from 30 Dec new prices 0.220/0.235/0.265/0.200 applied; pre-reform Super 98 price not confirmed; diesel 180 fils from attaqa only
+Bahrain,2025-12,Mumtaz 95,0.200,BHD,per litre,https://www.gdnonline.com/Details/1372128/Fuel-prices-increased-under-new-mechanism,verified-2-sources,prices in force 1-29 Dec 2025; from 30 Dec new prices 0.220/0.235/0.265/0.200 applied; pre-reform Super 98 price not confirmed; diesel 180 fils from attaqa only
+Bahrain,2025-12,Super 98,,BHD,per litre,https://www.gdnonline.com/Details/1372128/Fuel-prices-increased-under-new-mechanism,MISSING,prices in force 1-29 Dec 2025; from 30 Dec new prices 0.220/0.235/0.265/0.200 applied; pre-reform Super 98 price not confirmed; diesel 180 fils from attaqa only
+Bahrain,2025-12,Diesel,0.180,BHD,per litre,https://www.gdnonline.com/Details/1372128/Fuel-prices-increased-under-new-mechanism,single-source,prices in force 1-29 Dec 2025; from 30 Dec new prices 0.220/0.235/0.265/0.200 applied; pre-reform Super 98 price not confirmed; diesel 180 fils from attaqa only
+Bahrain,2026-01,Jayyid 91,0.220,BHD,per litre,https://www.gdnonline.com/Details/1372125/New-fuel-prices-to-come-into-effect-tomorrow,verified-2-sources,effective 30 Dec 2025
+Bahrain,2026-01,Mumtaz 95,0.235,BHD,per litre,https://www.gdnonline.com/Details/1372125/New-fuel-prices-to-come-into-effect-tomorrow,verified-2-sources,effective 30 Dec 2025
+Bahrain,2026-01,Super 98,0.265,BHD,per litre,https://www.gdnonline.com/Details/1372125/New-fuel-prices-to-come-into-effect-tomorrow,verified-2-sources,effective 30 Dec 2025
+Bahrain,2026-01,Diesel,0.200,BHD,per litre,https://www.gdnonline.com/Details/1372125/New-fuel-prices-to-come-into-effect-tomorrow,verified-2-sources,effective 30 Dec 2025
+Bahrain,2026-02,Jayyid 91,0.218,BHD,per litre,https://www.newsofbahrain.com/bahrain/129660.html,single-source,"inferred from April articles ('previous' prices, last set 2 Feb 2026); GDN Feb announcement page could not be opened"
+Bahrain,2026-02,Mumtaz 95,0.235,BHD,per litre,https://www.newsofbahrain.com/bahrain/129660.html,single-source,"inferred from April articles ('previous' prices, last set 2 Feb 2026); GDN Feb announcement page could not be opened"
+Bahrain,2026-02,Super 98,0.265,BHD,per litre,https://www.newsofbahrain.com/bahrain/129660.html,single-source,"inferred from April articles ('previous' prices, last set 2 Feb 2026); GDN Feb announcement page could not be opened"
+Bahrain,2026-02,Diesel,0.200,BHD,per litre,https://www.newsofbahrain.com/bahrain/129660.html,single-source,"inferred from April articles ('previous' prices, last set 2 Feb 2026); GDN Feb announcement page could not be opened"
+Bahrain,2026-03,Jayyid 91,0.218,BHD,per litre,https://www.newsofbahrain.com/bahrain/129660.html,verified-2-sources,given as pre-April prices by News of Bahrain and Bahrain Confidential; no separate March announcement found
+Bahrain,2026-03,Mumtaz 95,0.235,BHD,per litre,https://www.newsofbahrain.com/bahrain/129660.html,verified-2-sources,given as pre-April prices by News of Bahrain and Bahrain Confidential; no separate March announcement found
+Bahrain,2026-03,Super 98,0.265,BHD,per litre,https://www.newsofbahrain.com/bahrain/129660.html,verified-2-sources,given as pre-April prices by News of Bahrain and Bahrain Confidential; no separate March announcement found
+Bahrain,2026-03,Diesel,0.200,BHD,per litre,https://www.newsofbahrain.com/bahrain/129660.html,verified-2-sources,given as pre-April prices by News of Bahrain and Bahrain Confidential; no separate March announcement found
+Bahrain,2026-04,Jayyid 91,0.223,BHD,per litre,https://www.zawya.com/en/business/energy/bahrain-announces-new-fuel-prices-352661,verified-2-sources,effective 2 Apr
+Bahrain,2026-04,Mumtaz 95,0.253,BHD,per litre,https://www.zawya.com/en/business/energy/bahrain-announces-new-fuel-prices-352661,verified-2-sources,effective 2 Apr
+Bahrain,2026-04,Super 98,0.314,BHD,per litre,https://www.zawya.com/en/business/energy/bahrain-announces-new-fuel-prices-352661,verified-2-sources,effective 2 Apr
+Bahrain,2026-04,Diesel,0.220,BHD,per litre,https://www.zawya.com/en/business/energy/bahrain-announces-new-fuel-prices-352661,verified-2-sources,effective 2 Apr
+Bahrain,2026-05,Jayyid 91,0.233,BHD,per litre,https://www.gdnonline.com/Details/1393367,verified-2-sources,effective 2 May
+Bahrain,2026-05,Mumtaz 95,0.269,BHD,per litre,https://www.gdnonline.com/Details/1393367,verified-2-sources,effective 2 May
+Bahrain,2026-05,Super 98,0.362,BHD,per litre,https://www.gdnonline.com/Details/1393367,verified-2-sources,effective 2 May
+Bahrain,2026-05,Diesel,0.229,BHD,per litre,https://www.gdnonline.com/Details/1393367,verified-2-sources,effective 2 May
+Bahrain,2026-06,Jayyid 91,0.233,BHD,per litre,https://www.gdnonline.com/Details/1396425,verified-2-sources,effective 2 Jun
+Bahrain,2026-06,Mumtaz 95,0.269,BHD,per litre,https://www.gdnonline.com/Details/1396425,verified-2-sources,effective 2 Jun
+Bahrain,2026-06,Super 98,0.362,BHD,per litre,https://www.gdnonline.com/Details/1396425,verified-2-sources,effective 2 Jun
+Bahrain,2026-06,Diesel,0.229,BHD,per litre,https://www.gdnonline.com/Details/1396425,verified-2-sources,effective 2 Jun
+Bahrain,2026-07,Jayyid 91,0.222,BHD,per litre,https://www.gdnonline.com/Details/1399416,verified-2-sources,effective 2 Jul
+Bahrain,2026-07,Mumtaz 95,0.247,BHD,per litre,https://www.gdnonline.com/Details/1399416,verified-2-sources,effective 2 Jul
+Bahrain,2026-07,Super 98,0.362,BHD,per litre,https://www.gdnonline.com/Details/1399416,verified-2-sources,effective 2 Jul
+Bahrain,2026-07,Diesel,0.229,BHD,per litre,https://www.gdnonline.com/Details/1399416,verified-2-sources,effective 2 Jul
+Bahrain,2026-08,Jayyid 91,0.222,BHD,per litre,https://www.gulf-insider.com/august-fuel-prices-announced/,single-source,effective 2 Aug; Gulf Insider (95 also matches Trading Economics USD figure)
+Bahrain,2026-08,Mumtaz 95,0.247,BHD,per litre,https://www.gulf-insider.com/august-fuel-prices-announced/,verified-2-sources,effective 2 Aug; Gulf Insider (95 also matches Trading Economics USD figure)
+Bahrain,2026-08,Super 98,0.362,BHD,per litre,https://www.gulf-insider.com/august-fuel-prices-announced/,single-source,effective 2 Aug; Gulf Insider (95 also matches Trading Economics USD figure)
+Bahrain,2026-08,Diesel,0.229,BHD,per litre,https://www.gulf-insider.com/august-fuel-prices-announced/,single-source,effective 2 Aug; Gulf Insider (95 also matches Trading Economics USD figure)
+Bahrain,2026-09,Jayyid 91,0.225,BHD,per litre,https://www.gdnonline.com/Details/1405061,verified-2-sources,effective 2 Sep; GDN + Zawya
+Bahrain,2026-09,Mumtaz 95,0.247,BHD,per litre,https://www.gdnonline.com/Details/1405061,verified-2-sources,effective 2 Sep; GDN + Zawya
+Bahrain,2026-09,Super 98,0.380,BHD,per litre,https://www.gdnonline.com/Details/1405061,verified-2-sources,effective 2 Sep; GDN + Zawya
+Bahrain,2026-09,Diesel,0.229,BHD,per litre,https://www.gdnonline.com/Details/1405061,verified-2-sources,effective 2 Sep; GDN + Zawya
+Bahrain,2026-10,Jayyid 91,0.235,BHD,per litre,https://www.gdnonline.com/Details/1408330,single-source,effective 2 Oct; GDN only
+Bahrain,2026-10,Mumtaz 95,0.277,BHD,per litre,https://www.gdnonline.com/Details/1408330,single-source,effective 2 Oct; GDN only
+Bahrain,2026-10,Super 98,0.410,BHD,per litre,https://www.gdnonline.com/Details/1408330,single-source,effective 2 Oct; GDN only
+Bahrain,2026-10,Diesel,0.260,BHD,per litre,https://www.gdnonline.com/Details/1408330,single-source,effective 2 Oct; GDN only
+Iran,2025-12,Gasoline tier 1 (quota 60 L/month),15000,IRR,per litre,https://niacouncil.org/iran-launches-three-tier-gasoline-pricing-as-economic-pressures-and-energy-imbalances-mount/,verified-2-sources,unchanged
+Iran,2025-12,Gasoline tier 2 (quota 100 L/month),30000,IRR,per litre,https://niacouncil.org/iran-launches-three-tier-gasoline-pricing-as-economic-pressures-and-energy-imbalances-mount/,verified-2-sources,price unchanged; quota-cut dates approximate
+Iran,2025-12,Gasoline tier 3 (above quota),50000,IRR,per litre,https://niacouncil.org/iran-launches-three-tier-gasoline-pricing-as-economic-pressures-and-energy-imbalances-mount/,verified-2-sources,third tier introduced 13 Dec 2025 (above 160 L/month); before that no third tier
+Iran,2026-01,Gasoline tier 1 (quota 60 L/month),15000,IRR,per litre,https://niacouncil.org/iran-launches-three-tier-gasoline-pricing-as-economic-pressures-and-energy-imbalances-mount/,verified-2-sources,unchanged
+Iran,2026-01,Gasoline tier 2 (quota 100 L/month),30000,IRR,per litre,https://niacouncil.org/iran-launches-three-tier-gasoline-pricing-as-economic-pressures-and-energy-imbalances-mount/,verified-2-sources,price unchanged; quota-cut dates approximate
+Iran,2026-01,Gasoline tier 3 (above quota),50000,IRR,per litre,https://niacouncil.org/iran-launches-three-tier-gasoline-pricing-as-economic-pressures-and-energy-imbalances-mount/,verified-2-sources,above tier 1+2 quota; also applies to all fuel for imported/new/government cars
+Iran,2026-02,Gasoline tier 1 (quota 60 L/month),15000,IRR,per litre,https://niacouncil.org/iran-launches-three-tier-gasoline-pricing-as-economic-pressures-and-energy-imbalances-mount/,verified-2-sources,unchanged
+Iran,2026-02,Gasoline tier 2 (quota 100 L/month),30000,IRR,per litre,https://niacouncil.org/iran-launches-three-tier-gasoline-pricing-as-economic-pressures-and-energy-imbalances-mount/,verified-2-sources,price unchanged; quota-cut dates approximate
+Iran,2026-02,Gasoline tier 3 (above quota),50000,IRR,per litre,https://niacouncil.org/iran-launches-three-tier-gasoline-pricing-as-economic-pressures-and-energy-imbalances-mount/,verified-2-sources,above tier 1+2 quota; also applies to all fuel for imported/new/government cars
+Iran,2026-03,Gasoline tier 1 (quota 60 L/month),15000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,unchanged
+Iran,2026-03,"Gasoline tier 2 (quota 100 L, cut to 70 L from ~21 Mar/month)",30000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,price unchanged; quota-cut dates approximate
+Iran,2026-03,Gasoline tier 3 (above quota),50000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,above tier 1+2 quota; also applies to all fuel for imported/new/government cars
+Iran,2026-04,Gasoline tier 1 (quota 60 L/month),15000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,unchanged
+Iran,2026-04,Gasoline tier 2 (quota 70 L/month),30000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,price unchanged; quota-cut dates approximate
+Iran,2026-04,Gasoline tier 3 (above quota),50000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,above tier 1+2 quota; also applies to all fuel for imported/new/government cars
+Iran,2026-05,Gasoline tier 1 (quota 60 L/month),15000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,unchanged
+Iran,2026-05,Gasoline tier 2 (quota 70 L/month),30000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,price unchanged; quota-cut dates approximate
+Iran,2026-05,Gasoline tier 3 (above quota),50000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,above tier 1+2 quota; also applies to all fuel for imported/new/government cars
+Iran,2026-06,Gasoline tier 1 (quota 60 L/month),15000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,unchanged
+Iran,2026-06,Gasoline tier 2 (quota 70 L/month),30000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,price unchanged; quota-cut dates approximate
+Iran,2026-06,Gasoline tier 3 (above quota),50000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,above tier 1+2 quota; also applies to all fuel for imported/new/government cars
+Iran,2026-07,Gasoline tier 1 (quota 60 L/month),15000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,unchanged
+Iran,2026-07,"Gasoline tier 2 (quota 70 L, cut to 50 L late Jul/month)",30000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,price unchanged; quota-cut dates approximate
+Iran,2026-07,Gasoline tier 3 (above quota),50000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,above tier 1+2 quota; also applies to all fuel for imported/new/government cars
+Iran,2026-08,Gasoline tier 1 (quota 60 L/month),15000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,unchanged
+Iran,2026-08,Gasoline tier 2 (quota 50 L/month),30000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,price unchanged; quota-cut dates approximate
+Iran,2026-08,Gasoline tier 3 (above quota),50000,IRR,per litre,https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions,verified-2-sources,above tier 1+2 quota; also applies to all fuel for imported/new/government cars
+Iran,2026-09,Gasoline tier 1 (quota 60 L/month),15000,IRR,per litre,https://www.iranintl.com/en/202609089835,verified-2-sources,unchanged
+Iran,2026-09,Gasoline tier 2 (quota 50 L/month),30000,IRR,per litre,https://www.iranintl.com/en/202609089835,verified-2-sources,price unchanged; quota-cut dates approximate
+Iran,2026-09,Gasoline tier 3 (above quota),100000,IRR,per litre,https://www.iranintl.com/en/202609089835,verified-2-sources,"raised from 50,000 effective 8 Sep 2026 (50,000 on 1-7 Sep); applies above 110 L/month"
+Iran,2026-10,Gasoline tier 1 (quota 60 L/month),15000,IRR,per litre,https://www.iranintl.com/en/202609089835,verified-2-sources,unchanged
+Iran,2026-10,Gasoline tier 2 (quota 50 L/month),30000,IRR,per litre,https://www.iranintl.com/en/202609089835,verified-2-sources,price unchanged; quota-cut dates approximate
+Iran,2026-10,Gasoline tier 3 (above quota),100000,IRR,per litre,https://www.iranintl.com/en/202609089835,verified-2-sources,above 110 L/month

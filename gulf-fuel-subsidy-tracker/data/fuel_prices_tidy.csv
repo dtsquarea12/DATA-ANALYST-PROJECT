@@ -1,0 +1,292 @@
+country,group,continent,month,period,fuel,price_usd_per_litre,basis
+UAE,Gulf,Middle East,2026-01,pre-war,gasoline,0.659,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-02,pre-war,gasoline,0.6344,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-03,since war,gasoline,0.6753,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-04,since war,gasoline,0.8931,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-05,since war,gasoline,0.9666,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-06,since war,gasoline,1.0429,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-07,since war,gasoline,0.8958,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-08,since war,gasoline,0.9503,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-09,since war,gasoline,1.0048,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-10,since war,gasoline,1.1654,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-01,pre-war,diesel,0.6943,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-02,pre-war,diesel,0.6862,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-03,since war,diesel,0.7406,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-04,since war,diesel,1.2771,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-05,since war,diesel,1.2771,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-06,since war,diesel,1.179,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-07,since war,diesel,0.9803,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-08,since war,diesel,1.0347,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-09,since war,diesel,1.1709,"Official monthly price, AED 3.6725 per USD"
+UAE,Gulf,Middle East,2026-10,since war,diesel,1.307,"Official monthly price, AED 3.6725 per USD"
+Saudi Arabia,Gulf,Middle East,2026-01,pre-war,gasoline,0.6213,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-02,pre-war,gasoline,0.6213,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-03,since war,gasoline,0.6213,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-04,since war,gasoline,0.6213,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-05,since war,gasoline,0.6213,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-06,since war,gasoline,0.6213,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-07,since war,gasoline,0.6213,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-08,since war,gasoline,0.6213,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-09,since war,gasoline,0.6213,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-10,since war,gasoline,0.6213,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-01,pre-war,diesel,0.4773,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-02,pre-war,diesel,0.4773,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-03,since war,diesel,0.4773,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-04,since war,diesel,0.4773,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-05,since war,diesel,0.4773,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-06,since war,diesel,0.4773,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-07,since war,diesel,0.4773,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-08,since war,diesel,0.4773,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-09,since war,diesel,0.4773,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Saudi Arabia,Gulf,Middle East,2026-10,since war,diesel,0.4773,"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"
+Qatar,Gulf,Middle East,2026-01,pre-war,gasoline,0.5495,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-02,pre-war,gasoline,0.5082,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-03,since war,gasoline,0.522,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-04,since war,gasoline,0.5632,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-05,since war,gasoline,0.5769,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-06,since war,gasoline,0.5769,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-07,since war,gasoline,0.5769,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-08,since war,gasoline,0.5769,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-09,since war,gasoline,0.5769,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-10,since war,gasoline,0.5769,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-01,pre-war,diesel,0.5495,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-02,pre-war,diesel,0.522,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-03,since war,diesel,0.5632,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-04,since war,diesel,0.5632,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-05,since war,diesel,0.5632,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-06,since war,diesel,0.5632,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-07,since war,diesel,0.5632,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-08,since war,diesel,0.5632,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-09,since war,diesel,0.5632,"QatarEnergy monthly price, QAR 3.64 per USD"
+Qatar,Gulf,Middle East,2026-10,since war,diesel,0.5632,"QatarEnergy monthly price, QAR 3.64 per USD"
+Kuwait,Gulf,Middle East,2026-01,pre-war,gasoline,0.3404,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-02,pre-war,gasoline,0.3404,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-03,since war,gasoline,0.3404,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-04,since war,gasoline,0.3404,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-05,since war,gasoline,0.3404,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-06,since war,gasoline,0.3404,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-07,since war,gasoline,0.3404,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-08,since war,gasoline,0.3404,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-09,since war,gasoline,0.3404,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-01,pre-war,diesel,0.3728,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-02,pre-war,diesel,0.3728,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-03,since war,diesel,0.3728,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-04,since war,diesel,0.3728,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-05,since war,diesel,0.3728,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-06,since war,diesel,0.3728,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-07,since war,diesel,0.3728,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-08,since war,diesel,0.3728,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Kuwait,Gulf,Middle East,2026-09,since war,diesel,0.3728,"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"
+Bahrain,Gulf,Middle East,2026-01,pre-war,gasoline,0.625,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-02,pre-war,gasoline,0.625,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-03,since war,gasoline,0.625,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-04,since war,gasoline,0.6729,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-05,since war,gasoline,0.7154,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-06,since war,gasoline,0.7154,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-07,since war,gasoline,0.6569,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-08,since war,gasoline,0.6569,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-09,since war,gasoline,0.6569,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-10,since war,gasoline,0.7367,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-01,pre-war,diesel,0.5319,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-02,pre-war,diesel,0.5319,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-03,since war,diesel,0.5319,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-04,since war,diesel,0.5851,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-05,since war,diesel,0.609,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-06,since war,diesel,0.609,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-07,since war,diesel,0.609,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-08,since war,diesel,0.609,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-09,since war,diesel,0.609,"Official monthly price, BHD 0.376 per USD"
+Bahrain,Gulf,Middle East,2026-10,since war,diesel,0.6915,"Official monthly price, BHD 0.376 per USD"
+Iran,Gulf,Middle East,2026-02,pre-war,gasoline,0.0184,Tier-2 price at open-market rial rate; shown only for months with a dated rate
+Iran,Gulf,Middle East,2026-08,since war,gasoline,0.015,Tier-2 price at open-market rial rate; shown only for months with a dated rate
+Iran,Gulf,Middle East,2026-09,since war,gasoline,0.0133,Tier-2 price at open-market rial rate; shown only for months with a dated rate
+Iran,Gulf,Middle East,2026-10,since war,gasoline,0.0117,Tier-2 price at open-market rial rate; shown only for months with a dated rate
+United States,Comparison,North America,2026-01,pre-war,gasoline,0.742,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-02,pre-war,gasoline,0.768,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-03,since war,gasoline,0.961,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-04,since war,gasoline,1.084,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-05,since war,gasoline,1.183,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-06,since war,gasoline,1.07,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-07,since war,gasoline,1.039,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-08,since war,gasoline,1.072,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-09,since war,gasoline,1.15,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-01,pre-war,diesel,0.931,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-02,pre-war,diesel,0.983,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-03,since war,diesel,1.3,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-04,since war,diesel,1.453,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-05,since war,diesel,1.479,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-06,since war,diesel,1.327,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-07,since war,diesel,1.309,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-08,since war,diesel,1.443,"EIA monthly average, regular / on-highway diesel"
+United States,Comparison,North America,2026-09,since war,diesel,1.662,"EIA monthly average, regular / on-highway diesel"
+Canada,Comparison,North America,2026-01,pre-war,gasoline,0.982,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-02,pre-war,gasoline,1.039,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-03,since war,gasoline,1.334,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-04,since war,gasoline,1.376,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-05,since war,gasoline,1.289,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-06,since war,gasoline,1.189,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-07,since war,gasoline,1.312,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-08,since war,gasoline,1.325,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-09,since war,gasoline,1.354,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-01,pre-war,diesel,1.189,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-02,pre-war,diesel,1.24,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-03,since war,diesel,1.727,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-04,since war,diesel,1.612,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-05,since war,diesel,1.502,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-06,since war,diesel,1.353,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-07,since war,diesel,1.633,Kalibrate national average at month-end
+Canada,Comparison,North America,2026-08,since war,diesel,1.702,Kalibrate national average at month-end
+United Kingdom,Comparison,Europe,2026-01,pre-war,gasoline,1.8,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-02,pre-war,gasoline,1.788,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-03,since war,gasoline,1.871,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-04,since war,gasoline,2.107,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-05,since war,gasoline,2.124,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-06,since war,gasoline,2.069,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-07,since war,gasoline,2.036,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-08,since war,gasoline,2.185,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-09,since war,gasoline,2.275,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-01,pre-war,diesel,1.925,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-02,pre-war,diesel,1.917,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-03,since war,diesel,2.117,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-04,since war,diesel,2.552,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-05,since war,diesel,2.525,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-06,since war,diesel,2.35,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-07,since war,diesel,2.242,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-08,since war,diesel,2.464,"DESNZ weekly prices, monthly mean"
+United Kingdom,Comparison,Europe,2026-09,since war,diesel,2.584,"DESNZ weekly prices, monthly mean"
+Germany,Comparison,Europe,2026-01,pre-war,gasoline,2.04,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-02,pre-war,gasoline,2.082,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-03,since war,gasoline,2.34,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-04,since war,gasoline,2.465,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-05,since war,gasoline,2.316,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-06,since war,gasoline,2.152,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-07,since war,gasoline,2.397,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-08,since war,gasoline,2.486,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-09,since war,gasoline,2.61,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-01,pre-war,diesel,1.985,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-02,pre-war,diesel,2.037,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-03,since war,diesel,2.504,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-04,since war,diesel,2.645,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-05,since war,diesel,2.326,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-06,since war,diesel,2.092,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-07,since war,diesel,2.395,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-08,since war,diesel,2.576,"ADAC monthly average, Super E10"
+Germany,Comparison,Europe,2026-09,since war,diesel,2.748,"ADAC monthly average, Super E10"
+France,Comparison,Europe,2026-01,pre-war,gasoline,1.99,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-02,pre-war,gasoline,2.02,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-03,since war,gasoline,2.195,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-04,since war,gasoline,2.33,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-05,since war,gasoline,2.379,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-06,since war,gasoline,2.227,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-07,since war,gasoline,2.25,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-08,since war,gasoline,2.328,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-09,since war,gasoline,2.443,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-01,pre-war,diesel,1.951,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-02,pre-war,diesel,2.011,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-03,since war,diesel,2.376,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-04,since war,diesel,2.627,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-05,since war,diesel,2.498,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-06,since war,diesel,2.263,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-07,since war,diesel,2.345,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-08,since war,diesel,2.569,"Monthly barometer, SP95-E10"
+France,Comparison,Europe,2026-09,since war,diesel,2.677,"Monthly barometer, SP95-E10"
+India,Comparison,Asia,2026-01,pre-war,gasoline,1.045,Delhi administered price
+India,Comparison,Asia,2026-02,pre-war,gasoline,1.044,Delhi administered price
+India,Comparison,Asia,2026-03,since war,gasoline,1.02,Delhi administered price
+India,Comparison,Asia,2026-04,since war,gasoline,1.015,Delhi administered price
+India,Comparison,Asia,2026-05,since war,gasoline,1.022,Delhi administered price
+India,Comparison,Asia,2026-06,since war,gasoline,1.075,Delhi administered price
+India,Comparison,Asia,2026-07,since war,gasoline,1.065,Delhi administered price
+India,Comparison,Asia,2026-08,since war,gasoline,1.07,Delhi administered price
+India,Comparison,Asia,2026-09,since war,gasoline,1.07,Delhi administered price
+India,Comparison,Asia,2026-01,pre-war,diesel,0.966,Delhi administered price
+India,Comparison,Asia,2026-02,pre-war,diesel,0.966,Delhi administered price
+India,Comparison,Asia,2026-03,since war,diesel,0.944,Delhi administered price
+India,Comparison,Asia,2026-04,since war,diesel,0.939,Delhi administered price
+India,Comparison,Asia,2026-05,since war,diesel,0.948,Delhi administered price
+India,Comparison,Asia,2026-06,since war,diesel,1.002,Delhi administered price
+India,Comparison,Asia,2026-07,since war,diesel,0.993,Delhi administered price
+India,Comparison,Asia,2026-08,since war,diesel,0.998,Delhi administered price
+India,Comparison,Asia,2026-09,since war,diesel,0.997,Delhi administered price
+China,Comparison,Asia,2026-02,pre-war,gasoline,1.054,Point-in-time readings only (95-octane)
+China,Comparison,Asia,2026-03,since war,gasoline,1.191,Point-in-time readings only (95-octane)
+China,Comparison,Asia,2026-09,since war,gasoline,1.381,Point-in-time readings only (95-octane)
+China,Comparison,Asia,2026-02,pre-war,diesel,0.927,Point-in-time readings only (95-octane)
+China,Comparison,Asia,2026-10,since war,diesel,1.241,Point-in-time readings only (95-octane)
+Japan,Comparison,Asia,2026-01,pre-war,gasoline,0.99,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-02,pre-war,gasoline,1.007,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-03,since war,gasoline,1.083,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-04,since war,gasoline,1.058,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-05,since war,gasoline,1.07,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-06,since war,gasoline,1.056,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-07,since war,gasoline,1.046,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-08,since war,gasoline,1.071,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-09,since war,gasoline,1.089,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-01,pre-war,diesel,0.915,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-02,pre-war,diesel,0.932,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-03,since war,diesel,1.008,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-04,since war,diesel,0.991,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-05,since war,diesel,1.003,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-06,since war,diesel,0.989,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-07,since war,diesel,0.98,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-08,since war,diesel,1.004,METI survey monthly average; Sep is the 28 Sep reading
+Japan,Comparison,Asia,2026-09,since war,diesel,1.02,METI survey monthly average; Sep is the 28 Sep reading
+Nigeria,Comparison,Africa,2026-01,pre-war,gasoline,0.73,NBS national average Jan-May; Sep is a Lagos/Abuja reading
+Nigeria,Comparison,Africa,2026-02,pre-war,gasoline,0.774,NBS national average Jan-May; Sep is a Lagos/Abuja reading
+Nigeria,Comparison,Africa,2026-03,since war,gasoline,0.938,NBS national average Jan-May; Sep is a Lagos/Abuja reading
+Nigeria,Comparison,Africa,2026-04,since war,gasoline,1.125,NBS national average Jan-May; Sep is a Lagos/Abuja reading
+Nigeria,Comparison,Africa,2026-05,since war,gasoline,1.167,NBS national average Jan-May; Sep is a Lagos/Abuja reading
+Nigeria,Comparison,Africa,2026-09,since war,gasoline,1.055,NBS national average Jan-May; Sep is a Lagos/Abuja reading
+South Africa,Comparison,Africa,2026-01,pre-war,gasoline,1.272,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-02,pre-war,gasoline,1.255,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-03,since war,gasoline,1.213,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-04,since war,gasoline,1.409,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-05,since war,gasoline,1.615,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-06,since war,gasoline,1.71,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-07,since war,gasoline,1.585,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-08,since war,gasoline,1.58,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-09,since war,gasoline,1.662,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-01,pre-war,diesel,1.129,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-02,pre-war,diesel,1.119,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-03,since war,diesel,1.108,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-04,since war,diesel,1.563,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-05,since war,diesel,1.89,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-06,since war,diesel,1.702,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-07,since war,diesel,1.506,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-08,since war,diesel,1.616,Regulated inland 95 ULP; diesel is the wholesale list price
+South Africa,Comparison,Africa,2026-09,since war,diesel,1.798,Regulated inland 95 ULP; diesel is the wholesale list price
+Brazil,Comparison,South America,2026-01,pre-war,gasoline,1.181,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-02,pre-war,gasoline,1.21,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-03,since war,gasoline,1.258,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-04,since war,gasoline,1.336,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-05,since war,gasoline,1.33,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-06,since war,gasoline,1.289,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-07,since war,gasoline,1.282,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-08,since war,gasoline,1.267,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-09,since war,gasoline,1.282,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-01,pre-war,diesel,1.143,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-02,pre-war,diesel,1.172,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-03,since war,diesel,1.353,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-04,since war,diesel,1.477,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-05,since war,diesel,1.438,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-06,since war,diesel,1.379,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-07,since war,diesel,1.36,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-08,since war,diesel,1.339,ANP national average; Sep is the week of 20-26 Sep
+Brazil,Comparison,South America,2026-09,since war,diesel,1.428,ANP national average; Sep is the week of 20-26 Sep
+Australia,Comparison,Oceania,2026-01,pre-war,gasoline,1.076,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-02,pre-war,gasoline,1.205,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-03,since war,gasoline,1.804,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-04,since war,gasoline,1.283,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-05,since war,gasoline,1.308,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-06,since war,gasoline,1.064,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-07,since war,gasoline,1.348,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-08,since war,gasoline,1.459,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-09,since war,gasoline,1.682,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-02,pre-war,diesel,1.245,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-03,since war,diesel,2.261,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-04,since war,diesel,1.752,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-05,since war,diesel,1.664,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-06,since war,diesel,1.218,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-07,since war,diesel,1.621,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-08,since war,diesel,1.776,"ACCC five-city average, single day near month-end"
+Australia,Comparison,Oceania,2026-09,since war,diesel,2.019,"ACCC five-city average, single day near month-end"

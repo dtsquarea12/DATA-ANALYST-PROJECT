@@ -1,0 +1,327 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style>body{margin:0}</style></head><body><title>Gulf Fuel Subsidy Tracker</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@500;600&display=swap">
+<style>
+/* Layout: one column, filters above everything they control, summary tiles before charts, method and sources last. */
+:root{
+  --bg:#f4f5f3; --surface:#fcfcfb; --ink:#0f1614; --ink2:#4b5350; --muted:#868b87; --grid:#e2e4df; --axis:#c2c6c0;
+  --border:rgba(15,22,20,.12); --accent:#0d5c63; --accent-soft:#dcebea; --chip:#eceeea;
+  --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a; --s4:#eda100; --s5:#e87ba4; --s6:#008300;
+  --pre:#a9ada7; --post:#2a78d6; --ctx:#b4b8b2;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --cond:"IBM Plex Sans Condensed","IBM Plex Sans",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0e1211; --surface:#181c1b; --ink:#f3f5f3; --ink2:#c0c6c2; --muted:#8a908c; --grid:#2a2f2d; --axis:#3a403d;
+  --border:rgba(255,255,255,.12); --accent:#6cc5cb; --accent-soft:#17383b; --chip:#232827;
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70; --s4:#c98500; --s5:#d55181; --s6:#008300;
+  --pre:#6b716d; --post:#3987e5; --ctx:#5a605c; color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#0e1211; --surface:#181c1b; --ink:#f3f5f3; --ink2:#c0c6c2; --muted:#8a908c; --grid:#2a2f2d; --axis:#3a403d;
+  --border:rgba(255,255,255,.12); --accent:#6cc5cb; --accent-soft:#17383b; --chip:#232827;
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70; --s4:#c98500; --s5:#d55181; --s6:#008300;
+  --pre:#6b716d; --post:#3987e5; --ctx:#5a605c; color-scheme:dark }
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.5}
+.wrap{max-width:1120px;margin:0 auto;padding-inline:20px;padding-block:28px 56px;display:flex;flex-direction:column;gap:22px}
+header .eyebrow{font-family:var(--cond);font-size:12px;letter-spacing:.09em;text-transform:uppercase;color:var(--accent);font-weight:600}
+h1{font-family:var(--cond);font-weight:600;font-size:clamp(26px,4.4vw,38px);line-height:1.12;margin:6px 0 8px;text-wrap:balance}
+header p{margin:0;color:var(--ink2);max-width:68ch}
+.meta{margin-top:10px;font-size:13px;color:var(--muted)}
+h2{font-family:var(--cond);font-weight:600;font-size:19px;margin:0;text-wrap:balance}
+.sub{color:var(--ink2);font-size:13.5px;margin:2px 0 0;max-width:80ch}
+.panel{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:18px;min-width:0}
+.filters{display:flex;flex-direction:column;gap:12px}
+.frow{display:flex;flex-wrap:wrap;gap:10px 22px;align-items:flex-end}
+.fg{display:flex;flex-direction:column;gap:5px;min-width:0}
+.fl{font-family:var(--cond);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.seg{display:inline-flex;flex-wrap:wrap;border:1px solid var(--border);border-radius:5px;overflow:hidden}
+.seg button{font:inherit;font-size:13px;padding:6px 11px;border:0;background:transparent;color:var(--ink2);cursor:pointer;border-right:1px solid var(--border)}
+.seg button:last-child{border-right:0}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--surface);font-weight:500}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:inherit;font-size:12.5px;padding:4px 10px;border-radius:999px;border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.chip[aria-pressed="true"]{background:var(--chip);color:var(--ink);border-color:transparent}
+.chip:disabled{opacity:.4;cursor:not-allowed}
+.chip .dot{width:8px;height:8px;border-radius:50%;background:var(--ctx)}
+.chip.preset{border-style:dashed;color:var(--accent)}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px}
+.kpi{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:14px 16px;min-width:0}
+.kpi .k{font-family:var(--cond);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.kpi .v{font-family:var(--cond);font-size:30px;font-weight:600;line-height:1.15;margin-top:4px}
+.kpi .v small{font-size:14px;font-weight:500;color:var(--ink2)}
+.kpi .d{font-size:12.5px;color:var(--ink2);margin-top:4px}
+.find{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px 26px;margin-top:12px}
+.find div{font-size:14px;color:var(--ink2);border-top:2px solid var(--accent);padding-top:8px}
+.find b{color:var(--ink);font-weight:600}
+.chart{position:relative;margin-top:12px}
+.chart svg{display:block;width:100%;height:auto;overflow:visible}
+svg text{font-family:var(--sans);fill:var(--muted);font-size:11.5px;font-variant-numeric:tabular-nums}
+svg text.lab{fill:var(--ink2)} svg text.strong{fill:var(--ink);font-weight:600}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:12.5px;color:var(--ink2);margin-top:10px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.sw{width:14px;height:3px;border-radius:2px;display:inline-block}
+.sw.box{height:9px;width:12px}
+.tip{position:absolute;pointer-events:none;background:var(--surface);border:1px solid var(--border);border-radius:5px;padding:8px 10px;font-size:12px;box-shadow:0 4px 14px rgba(0,0,0,.14);min-width:150px;max-width:240px;z-index:5;color:var(--ink)}
+.tip h4{margin:0 0 4px;font-size:12px;font-weight:600}
+.tip .r{display:flex;justify-content:space-between;gap:12px;font-variant-numeric:tabular-nums;color:var(--ink2)}
+.tip .r i{width:8px;height:8px;border-radius:50%;display:inline-block;margin-right:5px}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:22px}
+.scroll{overflow-x:auto;margin-top:12px}
+table{border-collapse:collapse;width:100%;font-size:13px;font-variant-numeric:tabular-nums}
+th{font-family:var(--cond);font-size:11.5px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);text-align:right;padding:6px 10px;border-bottom:1px solid var(--axis);white-space:nowrap;font-weight:600}
+td{padding:7px 10px;border-bottom:1px solid var(--grid);text-align:right;white-space:nowrap}
+th:first-child,td:first-child{text-align:left} td.note{text-align:left;white-space:normal;min-width:220px;color:var(--ink2);font-size:12.5px}
+td .tag{font-size:11px;padding:1px 7px;border-radius:999px;background:var(--accent-soft);color:var(--ink);margin-left:6px}
+.method{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px 30px;margin-top:12px;font-size:14px;color:var(--ink2)}
+.method h3{font-family:var(--cond);font-size:14px;margin:0 0 4px;color:var(--ink);font-weight:600}
+.method p,.method ul{margin:0} .method ul{padding-left:18px} .method li{margin-bottom:4px}
+.formula{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.5px;background:var(--chip);padding:8px 10px;border-radius:4px;color:var(--ink);margin:6px 0;overflow-x:auto}
+a{color:var(--accent)}
+.src{columns:2 320px;column-gap:30px;font-size:13px;margin:12px 0 0;padding-left:18px;color:var(--ink2)} .src li{margin-bottom:5px;break-inside:avoid;overflow-wrap:anywhere}
+footer{font-size:12.5px;color:var(--muted)}
+</style>
+
+<div class="wrap">
+<header>
+  <div class="eyebrow">Fuel price analysis · 2026 Iran war</div>
+  <h1>Who is paying for cheap fuel in the Gulf?</h1>
+  <p>Pump prices in six Middle East countries against a market reference price and twelve comparison countries, before and after the war began on 28 February 2026. The gap between what drivers pay and what the fuel is worth is the subsidy.</p>
+  <div class="meta">Analysis by Toheeb Adeboye · Data to 4 October 2026 · Prices in US dollars at the monthly exchange rate</div>
+</header>
+
+<section class="panel filters" aria-label="Filters">
+  <div class="frow">
+    <div class="fg"><span class="fl">Fuel</span><div class="seg" id="f-fuel"></div></div>
+    <div class="fg"><span class="fl">Compare pre-war with</span><div class="seg" id="f-after"></div></div>
+    <div class="fg"><span class="fl">Reference price</span><div class="seg" id="f-bench"></div></div>
+    <div class="fg"><span class="fl">Unit</span><div class="seg" id="f-unit"></div></div>
+  </div>
+  <div class="fg"><span class="fl">Region</span><div class="chips" id="f-region"></div></div>
+  <div class="fg"><span class="fl">Country</span><div class="chips" id="f-country"></div></div>
+</section>
+
+<section class="kpis" id="kpis" aria-label="Key figures"></section>
+
+<section class="panel">
+  <h2>What the data shows</h2>
+  <p class="sub">Gasoline, 95 octane. Subsidy totals compare the January to February average with the average since March.</p>
+  <div class="find">
+    <div><b>Crude rose 65%. Saudi and Kuwaiti pump prices rose 0%.</b> Brent averaged $70.89 in February and $116.80 in September. Saudi Arabia still charges SAR 2.33 and Kuwait 105 fils, the same as before the war.</div>
+    <div><b>The UAE passed the shock on.</b> Its price resets monthly with the world market and is up 80% on its pre-war average. At AED 4.28 ($1.17 a litre) in October, UAE drivers pay about what Americans do ($1.15 in September).</div>
+    <div><b>The subsidy grew without any policy change.</b> For the five GCC states the gasoline gap went from about $4bn a year at pre-war prices to about $16bn a year since March. Saudi Arabia accounts for $12bn of it.</div>
+    <div><b>Iran is a different case.</b> Petrol costs one to four US cents a litre at the open-market exchange rate. The price gap implies roughly $44bn a year on gasoline alone, the least certain figure here.</div>
+  </div>
+</section>
+
+<section class="panel">
+  <h2 id="t-line">Pump price by month</h2>
+  <p class="sub">Gulf countries in colour, comparison countries in grey. The dashed line is the reference price before tax.</p>
+  <div class="chart" id="c-line"></div>
+  <div class="legend" id="l-line"></div>
+</section>
+
+<div class="two">
+<section class="panel">
+  <h2>Before and after, by country</h2>
+  <p class="sub" id="s-bars"></p>
+  <div class="legend"><span><i class="sw box" style="background:var(--pre)"></i>Pre-war (Jan to Feb average)</span><span><i class="sw box" style="background:var(--post)"></i><span id="lg-after"></span></span></div>
+  <div class="chart" id="c-bars"></div>
+</section>
+<section class="panel">
+  <h2>Subsidy gap at the pump</h2>
+  <p class="sub" id="s-gap"></p>
+  <div class="legend"><span><i class="sw box" style="background:var(--pre)"></i>Pre-war</span><span><i class="sw box" style="background:var(--post)"></i><span id="lg-after2"></span></span></div>
+  <div class="chart" id="c-gap"></div>
+  <div class="scroll"><table id="t-gap"></table></div>
+</section>
+</div>
+
+<section class="panel">
+  <h2>All figures</h2>
+  <p class="sub">Every number behind the charts, for the fuel and filters selected.</p>
+  <div class="scroll"><table id="t-all"></table></div>
+</section>
+
+<section class="panel">
+  <h2>Method and limits</h2>
+  <div class="method">
+    <div><h3>How the subsidy is measured</h3>
+      <p>This is the price-gap approach used by the IEA and the IMF. A subsidy exists when the pump price is below what the fuel would fetch on the open market.</p>
+      <div class="formula">gap per litre = reference price × (1 + VAT) − pump price<br>annual subsidy = gap per litre × litres sold per year</div>
+      <p>Pre-war is the average of January and February 2026. The war began on 28 February.</p></div>
+    <div><h3>Two reference prices</h3>
+      <ul><li><b>Regional market:</b> the UAE pump price before VAT. The UAE deregulated in 2015, so its price is what a Gulf driver pays with no state support. It tracked Singapore spot gasoline plus distribution costs within a few cents from May to August. By construction the UAE gap is zero.</li>
+      <li><b>International spot:</b> EIA US Gulf Coast spot price plus $0.185 a litre for distribution, the midpoint of the IMF range of $0.15 to $0.22. It gives higher estimates, because US spot ran above Asian spot this year. Available to September.</li></ul></div>
+    <div><h3>What to keep in mind</h3>
+      <ul><li>Annual totals use 2023 sales volumes (OAPEC) and one grade per country. Treat them as orders of magnitude.</li>
+      <li>Diesel totals apply the pump price to all gasoil use, including industry, so they overstate.</li>
+      <li>Iran uses the middle quota tier (30,000 rials) at the open-market rate, and only months with a dated rate. Its price change is shown in rials, where it has not moved. Volumes include fuel that is smuggled out.</li>
+      <li>China, Australia and Canada are single-day readings, not monthly averages. Nigeria has no national figure after May. Kuwait's fourth-quarter price is not yet published.</li>
+      <li>Grades differ: 95 octane in the Gulf and Europe, regular in North America.</li></ul></div>
+  </div>
+</section>
+
+<section class="panel">
+  <h2>Sources</h2>
+  <ul class="src">
+    <li>UAE: <a href="https://gulfnews.com/gold-forex/historical-fuel-rates">Gulf News fuel price history</a>, <a href="https://www.emirates247.com/uae/uae-fuel-prices-for-october-2026-announced/6171">Emirates 24|7, October 2026</a></li>
+    <li>Saudi Arabia: <a href="https://www.aramco.com/en/what-we-do/energy-products/retail-fuels">Aramco retail fuels</a>, <a href="https://www.arabnews.jp/en/business/article_50366/">2021 price cap directive</a></li>
+    <li>Qatar: <a href="https://www.qatarenergy.qa/en/Documents/Fuel%20Prices.pdf">QatarEnergy price history</a></li>
+    <li>Kuwait: <a href="https://www.arabtimesonline.com/news/new-fuel-prices-take-effect-july-1-in-kuwait/">Arab Times</a>, <a href="https://www.alraimedia.com/article/1771206">Al Rai</a></li>
+    <li>Bahrain: <a href="https://www.gdnonline.com/Details/1372128/Fuel-prices-increased-under-new-mechanism">Gulf Daily News</a>, <a href="https://www.zawya.com/en/business/energy/bahrain-announces-september-fuel-prices-475196">Zawya</a></li>
+    <li>Iran: <a href="https://www.iranintl.com/en/202609089835">Iran International</a>, <a href="https://www.mees.com/2026/9/11/news-in-brief/iran-cuts-gasoline-subsidy/45927d70-add6-11f1-a682-372c335c33b9">MEES</a>, <a href="https://www.trend.az/iran/4229880.html">Trend (exchange rates)</a></li>
+    <li>United States: <a href="https://www.eia.gov/petroleum/gasdiesel/">EIA gasoline and diesel update</a></li>
+    <li>United Kingdom: <a href="https://www.gov.uk/government/statistics/weekly-road-fuel-prices">DESNZ weekly road fuel prices</a></li>
+    <li>Germany: <a href="https://www.adac.de/verkehr/tanken-kraftstoff-antrieb/deutschland/kraftstoffpreisentwicklung/">ADAC</a> · France: <a href="https://prix-carburant.eu/barometre-mensuel-2026-09">prix-carburant.eu</a></li>
+    <li>Canada: <a href="https://kalibrate.com/insights/blog/">Kalibrate</a> · Brazil: <a href="https://ineep.org.br/">ANP via INEEP</a> · Japan: <a href="https://pps-net.org/oilstand">METI survey</a></li>
+    <li>India: <a href="https://www.millenniumpost.in/big-stories/petrol-hits-rs-102-in-delhi-after-fourth-hike-in-11-days-661559">Delhi prices</a> · China: <a href="https://www.globalpetrolprices.com/China/gasoline_prices/">GlobalPetrolPrices</a></li>
+    <li>Nigeria: <a href="https://www.channelstv.com/2026/06/24/petrol-price-rises-by-55-to-n1596-ltr-in-may-nbs/">NBS price watch</a> · South Africa: <a href="https://fuelsindustry.org.za/consumer-information/fuel-prices-current-past/">Fuels Industry Association</a> · Australia: <a href="https://www.accc.gov.au/">ACCC weekly reports</a></li>
+    <li>Benchmarks: <a href="https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RBRTE&f=M">EIA Brent</a>, <a href="https://www.eia.gov/dnav/pet/pet_pri_spt_s1_w.htm">EIA spot prices</a>, <a href="https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Pink-Sheet-October-2026.pdf">World Bank Pink Sheet</a></li>
+    <li>Method: <a href="https://www.iea.org/topics/fossil-fuel-subsidies">IEA fossil fuel subsidies</a>, <a href="https://www.imf.org/-/media/files/publications/wp/2023/english/wpiea2023169-print-pdf.pdf">IMF WP/23/169</a></li>
+    <li>Volumes: <a href="https://oapecorg.org/media/2b5842d2-7148-49cb-81ad-54f2b11d6bdb/-465237118/Annual%20Statistical%20Report/2025/Statistical%20Report%202024%20final%20E.pdf">OAPEC Annual Statistical Report 2024</a> · War timeline: <a href="https://www.britannica.com/event/2026-Iran-war">Britannica</a>, <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10521/">House of Commons Library</a></li>
+  </ul>
+</section>
+<footer>Independent analysis of public data. Estimates, not official statistics.</footer>
+</div>
+
+<script>
+const D={"months":["2026-01","2026-02","2026-03","2026-04","2026-05","2026-06","2026-07","2026-08","2026-09","2026-10"],"countries":{"AE":{"name":"UAE","group":"Gulf","continent":"Middle East","gasoline":[0.659,0.6344,0.6753,0.8931,0.9666,1.0429,0.8958,0.9503,1.0048,1.1654],"diesel":[0.6943,0.6862,0.7406,1.2771,1.2771,1.179,0.9803,1.0347,1.1709,1.307],"vat":0.05,"vol":{"gasoline":11.37,"diesel":4.09},"pop":10.99,"grade":"Special 95","regime":"Market-linked, reset monthly","basis":"Official monthly price, AED 3.6725 per USD"},"SA":{"name":"Saudi Arabia","group":"Gulf","continent":"Middle East","gasoline":[0.6213,0.6213,0.6213,0.6213,0.6213,0.6213,0.6213,0.6213,0.6213,0.6213],"diesel":[0.4773,0.4773,0.4773,0.4773,0.4773,0.4773,0.4773,0.4773,0.4773,0.4773],"vat":0.15,"vol":{"gasoline":29.55,"diesel":35.33},"pop":35.3,"grade":"Gasoline 95","regime":"Capped by royal directive since July 2021","basis":"Aramco price, SAR 3.75 per USD. October is the 1 Oct reading"},"QA":{"name":"Qatar","group":"Gulf","continent":"Middle East","gasoline":[0.5495,0.5082,0.522,0.5632,0.5769,0.5769,0.5769,0.5769,0.5769,0.5769],"diesel":[0.5495,0.522,0.5632,0.5632,0.5632,0.5632,0.5632,0.5632,0.5632,0.5632],"vat":0.0,"vol":{"gasoline":2.83,"diesel":1.99},"pop":2.86,"grade":"Super 95","regime":"Set monthly; has not passed QAR 2.10 during the war","basis":"QatarEnergy monthly price, QAR 3.64 per USD"},"KW":{"name":"Kuwait","group":"Gulf","continent":"Middle East","gasoline":[0.3404,0.3404,0.3404,0.3404,0.3404,0.3404,0.3404,0.3404,0.3404,null],"diesel":[0.3728,0.3728,0.3728,0.3728,0.3728,0.3728,0.3728,0.3728,0.3728,null],"vat":0.0,"vol":{"gasoline":5.0,"diesel":3.11},"pop":4.9,"grade":"Super 95","regime":"Frozen each quarter by the subsidies committee","basis":"Quarterly price, KWD 0.3085 per USD. Q4 decision not yet found"},"BH":{"name":"Bahrain","group":"Gulf","continent":"Middle East","gasoline":[0.625,0.625,0.625,0.6729,0.7154,0.7154,0.6569,0.6569,0.6569,0.7367],"diesel":[0.5319,0.5319,0.5319,0.5851,0.609,0.609,0.609,0.609,0.609,0.6915],"vat":0.0,"vol":{"gasoline":1.32,"diesel":0.22},"pop":1.59,"grade":"Mumtaz 95","regime":"Monthly committee pricing since 30 Dec 2025","basis":"Official monthly price, BHD 0.376 per USD"},"IR":{"name":"Iran","group":"Gulf","continent":"Middle East","gasoline":[null,0.0184,null,null,null,null,null,0.015,0.0133,0.0117],"diesel":[null,null,null,null,null,null,null,null,null,null],"vat":0.0,"vol":{"gasoline":45.26,"diesel":null},"pop":91.57,"grade":"Tier 2 quota (30,000 rials)","regime":"Three-tier quota: 15,000 / 30,000 / 100,000 rials","basis":"Tier-2 price at open-market rial rate; shown only for months with a dated rate"},"US":{"name":"United States","group":"Comparison","continent":"North America","gasoline":[0.742,0.768,0.961,1.084,1.183,1.07,1.039,1.072,1.15,null],"diesel":[0.931,0.983,1.3,1.453,1.479,1.327,1.309,1.443,1.662,null],"basis":"EIA monthly average, regular / on-highway diesel"},"CA":{"name":"Canada","group":"Comparison","continent":"North America","gasoline":[0.982,1.039,1.334,1.376,1.289,1.189,1.312,1.325,1.354,null],"diesel":[1.189,1.24,1.727,1.612,1.502,1.353,1.633,1.702,null,null],"basis":"Kalibrate national average at month-end"},"GB":{"name":"United Kingdom","group":"Comparison","continent":"Europe","gasoline":[1.8,1.788,1.871,2.107,2.124,2.069,2.036,2.185,2.275,null],"diesel":[1.925,1.917,2.117,2.552,2.525,2.35,2.242,2.464,2.584,null],"basis":"DESNZ weekly prices, monthly mean"},"DE":{"name":"Germany","group":"Comparison","continent":"Europe","gasoline":[2.04,2.082,2.34,2.465,2.316,2.152,2.397,2.486,2.61,null],"diesel":[1.985,2.037,2.504,2.645,2.326,2.092,2.395,2.576,2.748,null],"basis":"ADAC monthly average, Super E10"},"FR":{"name":"France","group":"Comparison","continent":"Europe","gasoline":[1.99,2.02,2.195,2.33,2.379,2.227,2.25,2.328,2.443,null],"diesel":[1.951,2.011,2.376,2.627,2.498,2.263,2.345,2.569,2.677,null],"basis":"Monthly barometer, SP95-E10"},"IN":{"name":"India","group":"Comparison","continent":"Asia","gasoline":[1.045,1.044,1.02,1.015,1.022,1.075,1.065,1.07,1.07,null],"diesel":[0.966,0.966,0.944,0.939,0.948,1.002,0.993,0.998,0.997,null],"basis":"Delhi administered price"},"CN":{"name":"China","group":"Comparison","continent":"Asia","gasoline":[null,1.054,1.191,null,null,null,null,null,1.381,null],"diesel":[null,0.927,null,null,null,null,null,null,null,1.241],"basis":"Point-in-time readings only (95-octane)"},"JP":{"name":"Japan","group":"Comparison","continent":"Asia","gasoline":[0.99,1.007,1.083,1.058,1.07,1.056,1.046,1.071,1.089,null],"diesel":[0.915,0.932,1.008,0.991,1.003,0.989,0.98,1.004,1.02,null],"basis":"METI survey monthly average; Sep is the 28 Sep reading"},"NG":{"name":"Nigeria","group":"Comparison","continent":"Africa","gasoline":[0.73,0.774,0.938,1.125,1.167,null,null,null,1.055,null],"diesel":[null,null,null,null,null,null,null,null,null,null],"basis":"NBS national average Jan-May; Sep is a Lagos/Abuja reading"},"ZA":{"name":"South Africa","group":"Comparison","continent":"Africa","gasoline":[1.272,1.255,1.213,1.409,1.615,1.71,1.585,1.58,1.662,null],"diesel":[1.129,1.119,1.108,1.563,1.89,1.702,1.506,1.616,1.798,null],"basis":"Regulated inland 95 ULP; diesel is the wholesale list price"},"BR":{"name":"Brazil","group":"Comparison","continent":"South America","gasoline":[1.181,1.21,1.258,1.336,1.33,1.289,1.282,1.267,1.282,null],"diesel":[1.143,1.172,1.353,1.477,1.438,1.379,1.36,1.339,1.428,null],"basis":"ANP national average; Sep is the week of 20-26 Sep"},"AU":{"name":"Australia","group":"Comparison","continent":"Oceania","gasoline":[1.076,1.205,1.804,1.283,1.308,1.064,1.348,1.459,1.682,null],"diesel":[null,1.245,2.261,1.752,1.664,1.218,1.621,1.776,2.019,null],"basis":"ACCC five-city average, single day near month-end"}},"bench":{"brent":[66.6,70.89,103.13,117.29,107.14,85.4,83.76,91.08,116.8,null],"spot":{"gasoline":[0.542,0.522,0.758,0.856,0.922,0.796,0.866,0.878,0.988,null],"diesel":[0.558,0.608,1.012,1.034,1.02,0.887,1.023,1.112,1.287,null]},"margin":0.185}};
+const MN=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct"];
+const GULF=["AE","SA","QA","KW","BH","IR"], COL={AE:"--s1",SA:"--s2",QA:"--s3",KW:"--s4",BH:"--s5",IR:"--s6"};
+const CODES=Object.keys(D.countries), C=D.countries;
+const S={fuel:"gasoline",after:"latest",bench:"regional",unit:"L",sel:new Set(CODES)};
+const $=id=>document.getElementById(id);
+const avg=a=>{a=a.filter(v=>v!=null);return a.length?a.reduce((x,y)=>x+y,0)/a.length:null};
+const lastIdx=a=>{for(let i=a.length-1;i>=2;i--)if(a[i]!=null)return i;return -1};
+const uf=()=>S.unit==="L"?1:3.78541, ul=()=>S.unit==="L"?"litre":"gallon";
+const money=v=>v==null?"n/a":(v<0?"−$":"$")+Math.abs(v*uf()).toFixed(2);
+const pct=v=>v==null?"n/a":(v>=0?"+":"−")+Math.abs(v).toFixed(0)+"%";
+const P=c=>C[c][S.fuel];
+const has=c=>P(c).some(v=>v!=null);
+function refEx(i){ if(S.bench==="regional"){const v=C.AE[S.fuel][i];return v==null?null:v/1.05} const s=D.bench.spot[S.fuel][i];return s==null?null:s+D.bench.margin }
+const gapS=c=>P(c).map((p,i)=>{const r=refEx(i);return p==null||r==null?null:r*(1+C[c].vat)-p});
+const pre=a=>avg(a.slice(0,2));
+const aft=a=>{ if(S.after==="avg")return avg(a.slice(2)); const i=lastIdx(a);return i<0?null:a[i] };
+const aftLabel=a=>{ if(S.after==="avg")return "Mar onward avg"; const i=lastIdx(a);return i<0?"":MN[i]+" 2026" };
+const active=()=>CODES.filter(c=>S.sel.has(c)&&has(c));
+const chg=c=>{ if(c==="IR")return has(c)?0:null; const a=pre(P(c)),b=aft(P(c));return a==null||b==null?null:(b/a-1)*100};
+const bn=v=>"$"+(Math.abs(v)<0.05?0:v).toFixed(1)+"bn";
+const esc=s=>String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;");
+
+/* ---------- filters ---------- */
+function seg(id,key,opts){ const el=$(id); el.innerHTML=""; opts.forEach(([v,t])=>{const b=document.createElement("button");b.type="button";b.id=id+"-"+v;b.textContent=t;b.setAttribute("aria-pressed",S[key]===v);b.onclick=()=>{S[key]=v;render()};el.appendChild(b)}) }
+function chips(){
+  const r=$("f-region"); r.innerHTML="";
+  const mk=(txt,fn,cls,on)=>{const b=document.createElement("button");b.type="button";b.className="chip "+(cls||"");b.textContent=txt;if(on!=null)b.setAttribute("aria-pressed",on);b.onclick=()=>{fn();render()};return b};
+  r.appendChild(mk("All countries",()=>{S.sel=new Set(CODES)},"preset"));
+  r.appendChild(mk("Gulf only",()=>{S.sel=new Set(GULF)},"preset"));
+  r.appendChild(mk("Gulf and United States",()=>{S.sel=new Set([...GULF,"US"])},"preset"));
+  [...new Set(CODES.map(c=>C[c].continent))].forEach(k=>{const m=CODES.filter(c=>C[c].continent===k), on=m.every(c=>S.sel.has(c));
+    r.appendChild(mk(k,()=>{m.forEach(c=>on?S.sel.delete(c):S.sel.add(c))},"",on))});
+  const e=$("f-country"); e.innerHTML="";
+  CODES.forEach(c=>{const b=mk("",()=>{S.sel.has(c)?S.sel.delete(c):S.sel.add(c)},"",S.sel.has(c)&&has(c));b.id="chip-"+c;
+    b.innerHTML='<i class="dot" style="background:var('+(COL[c]||"--ctx")+')"></i>'+esc(C[c].name); if(!has(c)){b.disabled=true;b.title="No "+S.fuel+" price collected"} e.appendChild(b)});
+}
+
+/* ---------- tooltip ---------- */
+function tipFor(host){ let t=host.querySelector(".tip"); if(!t){t=document.createElement("div");t.className="tip";t.hidden=true;host.appendChild(t)} return t }
+function placeTip(host,t,ev){ const r=host.getBoundingClientRect(); let x=ev.clientX-r.left+14,y=ev.clientY-r.top+12; t.hidden=false; if(x+t.offsetWidth>r.width)x=Math.max(0,ev.clientX-r.left-t.offsetWidth-14); t.style.left=x+"px"; t.style.top=y+"px" }
+
+/* ---------- KPIs ---------- */
+function kpis(){
+  const act=active(), g=act.filter(c=>C[c].group==="Gulf"), o=act.filter(c=>C[c].group!=="Gulf");
+  const m=(list,f)=>avg(list.map(f));
+  const gA=m(g,c=>aft(P(c))), oA=m(o,c=>aft(P(c)));
+  
+  const med=l=>{l=l.map(chg).filter(v=>v!=null).sort((a,b)=>a-b);if(!l.length)return null;const k=l.length>>1;return l.length%2?l[k]:(l[k-1]+l[k])/2};
+  const gp=m(g,c=>pre(gapS(c))), ga=m(g,c=>aft(gapS(c)));
+  let tp=0,ta=0,n=0,ir=null; g.forEach(c=>{const v=C[c].vol[S.fuel],a=pre(gapS(c)),b=aft(gapS(c)); if(v&&b!=null){ta+=b*v;tp+=(a||0)*v;n++;if(c==="IR")ir=b*v}});
+  const b=D.bench.brent, tiles=[
+    ["Brent crude","$"+b[8].toFixed(0)+" <small>a barrel</small>","September average, up "+((b[8]/b[1]-1)*100).toFixed(0)+"% from $"+b[1].toFixed(0)+" in February"],
+    ["Gulf pump price",g.length?money(gA)+" <small>a "+ul()+"</small>":"n/a",o.length&&g.length?"Comparison countries pay "+money(oA)+", "+(oA/gA).toFixed(1)+" times as much":"Average of the Gulf countries selected"],
+    ["Pump price change",g.length?pct(med(g))+" <small>Gulf</small>":"n/a",o.length?"Median since pre-war. Comparison countries: "+pct(med(o)):"Median change since pre-war"],
+    ["Subsidy gap",g.length?money(ga)+" <small>a "+ul()+"</small>":"n/a","Gulf average. It was "+money(gp)+" before the war"],
+    ["Annual subsidy, estimated",n?bn(ta):"n/a",n?"Yearly rate, "+n+" Gulf "+(n>1?"countries":"country")+(ir!=null&&n>1?", of which Iran "+bn(ir):"")+". Pre-war rate: "+bn(tp):"Select a Gulf country"]];
+  $("kpis").innerHTML=tiles.map(t=>'<div class="kpi"><div class="k">'+t[0]+'</div><div class="v">'+t[1]+'</div><div class="d">'+t[2]+'</div></div>').join("");
+}
+
+/* ---------- line chart ---------- */
+const EV=[[1.46,"War begins, 28 Feb"],[2.77,"Ceasefire, 8 Apr"],[5.77,"Ceasefire ends, 8 Jul"]];
+function line(){
+  const host=$("c-line"), W=Math.max(300,host.clientWidth), small=W<560, H=small?340:430, m={l:40,r:small?92:128,t:30,b:26};
+  const act=active(), f=uf(), ref=MN.map((_,i)=>refEx(i));
+  let max=0; act.forEach(c=>P(c).forEach(v=>{if(v!=null&&v>max)max=v})); ref.forEach(v=>{if(v!=null&&v>max)max=v}); max*=f;
+  const step=max>6?2:max>3?1:max>1.5?0.5:0.25, top=Math.ceil(max/step)*step||1;
+  const x=i=>m.l+(W-m.l-m.r)*i/9, y=v=>m.t+(H-m.t-m.b)*(1-v*f/top);
+  let s='<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="Monthly pump prices by country">';
+  for(let v=0;v<=top+1e-9;v+=step){const yy=m.t+(H-m.t-m.b)*(1-v/top); s+='<line x1="'+m.l+'" x2="'+(W-m.r)+'" y1="'+yy+'" y2="'+yy+'" stroke="var(--'+(v===0?"axis":"grid")+')" stroke-width="1"/><text x="'+(m.l-6)+'" y="'+(yy+4)+'" text-anchor="end">$'+v.toFixed(2)+'</text>'}
+  MN.forEach((n,i)=>{ if(!small||i%2===0) s+='<text x="'+x(i)+'" y="'+(H-6)+'" text-anchor="middle">'+n+'</text>'});
+  EV.forEach((e,k)=>{ s+='<line x1="'+x(e[0])+'" x2="'+x(e[0])+'" y1="'+(m.t-6)+'" y2="'+(H-m.b)+'" stroke="var(--'+(k?"axis":"ink2")+')" stroke-width="1" stroke-dasharray="'+(k?"2 3":"none")+'"/>'; if(!small||k===0) s+='<text class="'+(k?"":"strong")+'" x="'+(x(e[0])+4)+'" y="'+(m.t-10)+'">'+e[1]+'</text>'});
+  const path=(arr,stroke,w,dash)=>{ let d="",pts=[]; arr.forEach((v,i)=>{if(v!=null)pts.push([x(i),y(v),i])}); if(!pts.length)return ""; let o="";
+    for(let k=1;k<pts.length;k++){const gap=pts[k][2]-pts[k-1][2]>1; o+='<line x1="'+pts[k-1][0]+'" y1="'+pts[k-1][1]+'" x2="'+pts[k][0]+'" y2="'+pts[k][1]+'" stroke="'+stroke+'" stroke-width="'+w+'" stroke-linecap="round"'+(gap||dash?' stroke-dasharray="'+(dash||"2 4")+'"':'')+'/>'}
+    if(pts.length<arr.length&&!dash) pts.forEach(p=>{o+='<circle cx="'+p[0]+'" cy="'+p[1]+'" r="2.6" fill="'+stroke+'" stroke="var(--surface)" stroke-width="1"/>'}); return o };
+  const ctx=act.filter(c=>!COL[c]), gl=act.filter(c=>COL[c]);
+  ctx.forEach(c=>{s+='<g data-c="'+c+'">'+path(P(c),"var(--ctx)",1.4)+'</g>'});
+  s+=path(ref,"var(--ink)",1.6,"5 4");
+  gl.forEach(c=>{s+='<g data-c="'+c+'">'+path(P(c),"var("+COL[c]+")",2.2)+'</g>'});
+  // end labels with de-collision
+  const labs=act.map(c=>{const a=P(c);let i=a.length-1;while(i>=0&&a[i]==null)i--;return {c,i,px:x(i),py:y(a[i]),ly:y(a[i])}}).sort((a,b)=>a.py-b.py);
+  for(let k=1;k<labs.length;k++) if(labs[k].ly<labs[k-1].ly+12.5) labs[k].ly=labs[k-1].ly+12.5;
+  const ov=labs.length?labs[labs.length-1].ly-(H-m.b):0; if(ov>0){labs[labs.length-1].ly-=ov; for(let k=labs.length-2;k>=0;k--) if(labs[k].ly>labs[k+1].ly-12.5) labs[k].ly=labs[k+1].ly-12.5}
+  const lx=W-m.r+14;
+  labs.forEach(l=>{const g=!!COL[l.c], col=g?"var("+COL[l.c]+")":"var(--ctx)"; s+='<line x1="'+(l.px+3)+'" y1="'+l.py+'" x2="'+(lx-3)+'" y2="'+l.ly+'" stroke="'+col+'" stroke-width="1" opacity=".55"/><circle cx="'+l.px+'" cy="'+l.py+'" r="'+(g?3.4:2.4)+'" fill="'+col+'" stroke="var(--surface)" stroke-width="1.5"/><text class="'+(g?"strong":"lab")+'" x="'+lx+'" y="'+(l.ly+4)+'">'+esc(small?l.c:C[l.c].name)+'</text>'});
+  s+='<line id="xh" y1="'+m.t+'" y2="'+(H-m.b)+'" stroke="var(--ink2)" stroke-width="1" visibility="hidden"/><rect id="hit" x="'+m.l+'" y="'+m.t+'" width="'+(W-m.l-m.r)+'" height="'+(H-m.t-m.b)+'" fill="transparent"/></svg>';
+  host.innerHTML=s; const t=tipFor(host), xh=host.querySelector("#xh"), hit=host.querySelector("#hit");
+  const move=ev=>{ const r=hit.getBoundingClientRect(); const i=Math.max(0,Math.min(9,Math.round((ev.clientX-r.left)/r.width*9)));
+    xh.setAttribute("x1",x(i));xh.setAttribute("x2",x(i));xh.setAttribute("visibility","visible");
+    const rows=act.map(c=>[c,P(c)[i]]).filter(r=>r[1]!=null).sort((a,b)=>b[1]-a[1]);
+    t.innerHTML='<h4>'+MN[i]+' 2026 · '+S.fuel+', per '+ul()+'</h4>'+(ref[i]!=null?'<div class="r"><span>Reference, before tax</span><b>'+money(ref[i])+'</b></div>':'')+rows.map(r=>'<div class="r"><span><i style="background:var('+(COL[r[0]]||"--ctx")+')"></i>'+esc(C[r[0]].name)+'</span><span>'+money(r[1])+'</span></div>').join("")+(rows.length?"":'<div class="r">No readings this month</div>');
+    placeTip(host,t,ev) };
+  hit.addEventListener("pointermove",move); hit.addEventListener("pointerdown",move);
+  hit.addEventListener("pointerleave",()=>{t.hidden=true;xh.setAttribute("visibility","hidden")});
+  $("l-line").innerHTML=gl.map(c=>'<span><i class="sw" style="background:var('+COL[c]+')"></i>'+esc(C[c].name)+'</span>').join("")+(ctx.length?'<span><i class="sw" style="background:var(--ctx)"></i>Comparison countries</span>':"")+'<span><i class="sw" style="background:repeating-linear-gradient(90deg,var(--ink) 0 4px,transparent 4px 7px)"></i>Reference price before tax</span><span>Dots mark single readings where months are missing</span>';
+  $("t-line").textContent=(S.fuel==="gasoline"?"Gasoline":"Diesel")+" pump price by month, US dollars per "+ul();
+}
+
+/* ---------- paired horizontal bars ---------- */
+function bars(hostId,rows,fmt){
+  const host=$(hostId), W=Math.max(280,host.clientWidth), lw=W<420?92:118, rw=50, rh=34, H=rows.length*rh+8;
+  if(!rows.length){host.innerHTML='<p class="sub">Nothing to show for this selection.</p>';return}
+  const vals=rows.flatMap(r=>[r.a,r.b]).filter(v=>v!=null), lo=Math.min(0,...vals), hi=Math.max(...vals,0.01);
+  const x=v=>lw+(W-lw-rw)*(v-lo)/(hi-lo), x0=x(0);
+  let s='<svg viewBox="0 0 '+W+' '+H+'" role="img">';
+  rows.forEach((r,k)=>{const y=k*rh+6; s+='<g data-k="'+k+'"><rect x="0" y="'+(y-4)+'" width="'+W+'" height="'+rh+'" fill="transparent"/><text class="'+(r.gulf?"strong":"lab")+'" x="'+(lw-8)+'" y="'+(y+15)+'" text-anchor="end">'+esc(r.name)+'</text>';
+    [[r.a,"--pre",0],[r.b,"--post",11]].forEach(([v,col,dy])=>{ if(v==null){s+='<text x="'+(x0+4)+'" y="'+(y+dy+9)+'">no reading</text>';return}
+      const xa=Math.min(x0,x(v)), w=Math.max(1.5,Math.abs(x(v)-x0)); s+='<rect x="'+xa+'" y="'+(y+dy)+'" width="'+w+'" height="9" rx="2" fill="var('+col+')"/><text class="'+(dy?"strong":"")+'" x="'+(Math.max(x0,x(v))+5)+'" y="'+(y+dy+9)+'">'+fmt(v)+'</text>'});
+    s+='</g>'});
+  s+='<line x1="'+x0+'" x2="'+x0+'" y1="0" y2="'+H+'" stroke="var(--axis)" stroke-width="1"/></svg>';
+  host.innerHTML=s; const t=tipFor(host);
+  host.querySelectorAll("g[data-k]").forEach(g=>{const r=rows[+g.dataset.k]; const show=ev=>{t.innerHTML='<h4>'+esc(r.name)+'</h4><div class="r"><span>Pre-war</span><span>'+fmt(r.a)+'</span></div><div class="r"><span>'+esc(r.bl)+'</span><span>'+fmt(r.b)+'</span></div>'+(r.extra||""); placeTip(host,t,ev)};
+    g.addEventListener("pointermove",show); g.addEventListener("pointerdown",show); g.addEventListener("pointerleave",()=>{t.hidden=true})});
+}
+function charts(){
+  const act=active(), fname=S.fuel==="gasoline"?"Gasoline":"Diesel";
+  const rows=act.map(c=>{const a=pre(P(c)),b=aft(P(c));return {name:C[c].name,gulf:C[c].group==="Gulf",a,b,bl:aftLabel(P(c)),extra:'<div class="r"><span>Change'+(c==="IR"?" in rials":"")+'</span><span>'+pct(chg(c))+'</span></div>'}}).sort((p,q)=>(q.b??-1)-(p.b??-1));
+  bars("c-bars",rows,money);
+  $("s-bars").textContent=fname+", US dollars per "+ul()+", most expensive first. Gulf countries in bold.";
+  const al=S.after==="avg"?"Average since March":"Latest month available"; $("lg-after").textContent=al; $("lg-after2").textContent=al;
+  const g=act.filter(c=>C[c].group==="Gulf");
+  const gr=g.map(c=>{const s=gapS(c),a=pre(s),b=aft(s);return {c,name:C[c].name,gulf:true,a,b,bl:aftLabel(s),extra:'<div class="r"><span>Pricing</span><span>'+esc(C[c].regime)+'</span></div>'}}).sort((p,q)=>(q.b??-9)-(p.b??-9));
+  bars("c-gap",gr,money);
+  $("s-gap").textContent="Reference price minus pump price, US dollars per "+ul()+". "+(S.bench==="regional"?"Reference: UAE market price before VAT.":"Reference: US Gulf Coast spot plus distribution.");
+  $("t-gap").innerHTML='<tr><th>Country</th><th>Sold per year</th><th>Pre-war rate</th><th>Rate now</th></tr>'+gr.map(r=>{const v=C[r.c].vol[S.fuel];return '<tr><td>'+esc(r.name)+'</td><td>'+(v?v.toFixed(1)+"bn L":"n/a")+'</td><td>'+(v&&r.a!=null?bn(r.a*v):"n/a")+'</td><td><b>'+(v&&r.b!=null?bn(r.b*v):"n/a")+'</b></td></tr>'}).join("");
+  $("t-all").innerHTML='<tr><th>Country</th><th>Region</th><th>Pre-war</th><th>After</th><th>Period</th><th>Change</th><th>Subsidy gap</th><th style="text-align:left">Basis</th></tr>'+
+    act.map(c=>{const a=pre(P(c)),b=aft(P(c)),gs=C[c].group==="Gulf"?aft(gapS(c)):null;return [b??-1,'<tr><td>'+esc(C[c].name)+(C[c].group==="Gulf"?'<span class="tag">Gulf</span>':"")+'</td><td>'+C[c].continent+'</td><td>'+money(a)+'</td><td>'+money(b)+'</td><td>'+aftLabel(P(c))+'</td><td>'+pct(chg(c))+(c==="IR"?" in rials":"")+'</td><td>'+(C[c].group==="Gulf"?money(gs):"")+'</td><td class="note">'+esc((C[c].grade?C[c].grade+". ":"")+C[c].basis)+'</td></tr>']}).sort((p,q)=>q[0]-p[0]).map(r=>r[1]).join("");
+}
+function render(){
+  seg("f-fuel","fuel",[["gasoline","Gasoline"],["diesel","Diesel"]]);
+  seg("f-after","after",[["latest","Latest month"],["avg","Average since March"]]);
+  seg("f-bench","bench",[["regional","Regional market"],["international","International spot"]]);
+  seg("f-unit","unit",[["L","Per litre"],["G","Per US gallon"]]);
+  chips(); kpis(); line(); charts();
+}
+let rt; window.addEventListener("resize",()=>{clearTimeout(rt);rt=setTimeout(()=>{line();charts()},120)});
+render();
+</script>
+</body></html>

@@ -1,0 +1,12 @@
+country,fuel,gap_prewar_regional_usd_l,gap_sincewar_regional_usd_l,gap_prewar_international_usd_l,gap_sincewar_international_usd_l,annual_volume_bn_litres_2023,annualised_subsidy_regional_usd_bn,annualised_subsidy_international_usd_bn
+UAE,gasoline,0.0,-0.0,0.106,0.185,11.37,-0.0,2.11
+Saudi Arabia,gasoline,0.087,0.418,0.203,0.588,29.55,12.36,17.37
+Qatar,gasoline,0.087,0.336,0.188,0.484,2.83,0.95,1.37
+Kuwait,gasoline,0.276,0.534,0.377,0.711,5.0,2.67,3.55
+Bahrain,gasoline,-0.009,0.225,0.092,0.38,1.32,0.3,0.5
+Iran,gasoline,0.586,0.977,0.689,1.104,45.26,44.23,49.96
+UAE,diesel,0.0,0.0,0.116,0.206,4.09,0.0,0.84
+Saudi Arabia,diesel,0.279,0.75,0.406,0.947,35.33,26.51,33.46
+Qatar,diesel,0.122,0.504,0.232,0.675,1.99,1.0,1.34
+Kuwait,diesel,0.285,0.669,0.395,0.866,3.11,2.08,2.69
+Bahrain,diesel,0.125,0.461,0.236,0.644,0.22,0.1,0.14
