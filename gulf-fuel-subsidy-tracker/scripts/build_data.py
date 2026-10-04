@@ -1,5 +1,11 @@
+"""Build the tidy dataset and subsidy estimates for the Gulf Fuel Subsidy Tracker.
+
+Run from the project folder:  python scripts/build_data.py
+Outputs go to data/processed/.
+"""
 import json, csv, os
-os.makedirs("data",exist_ok=True)
+OUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","data","processed")
+os.makedirs(OUT,exist_ok=True)
 M=["2026-01","2026-02","2026-03","2026-04","2026-05","2026-06","2026-07","2026-08","2026-09","2026-10"]
 N=None
 def usd(local,fx): return [None if v is None else round(v/fx,4) for v in local]
@@ -43,15 +49,15 @@ add("AU","Australia","Comparison","Oceania",[1.076,1.205,1.804,1.283,1.308,1.064
 B=dict(brent=[66.60,70.89,103.13,117.29,107.14,85.40,83.76,91.08,116.8,N],
        spot=dict(gasoline=[.542,.522,.758,.856,.922,.796,.866,.878,.988,N],diesel=[.558,.608,1.012,1.034,1.020,.887,1.023,1.112,1.287,N]),
        margin=0.185)
-json.dump(dict(months=M,countries=C,bench=B),open("data/data.json","w"),separators=(",",":"))
+json.dump(dict(months=M,countries=C,bench=B),open(os.path.join(OUT,"data.json"),"w"),separators=(",",":"))
 # tidy CSV
-with open("data/fuel_prices_tidy.csv","w",newline="") as f:
+with open(os.path.join(OUT,"fuel_prices_tidy.csv"),"w",newline="") as f:
     w=csv.writer(f); w.writerow(["country","group","continent","month","period","fuel","price_usd_per_litre","basis"])
     for k,c in C.items():
         for fuel in ("gasoline","diesel"):
             for m,v in zip(M,c[fuel]):
                 if v is not None: w.writerow([c["name"],c["group"],c["continent"],m,"pre-war" if m<"2026-03" else "since war",fuel,v,c["basis"]])
-with open("data/benchmarks.csv","w",newline="") as f:
+with open(os.path.join(OUT,"benchmarks.csv"),"w",newline="") as f:
     w=csv.writer(f); w.writerow(["month","brent_usd_per_bbl","usgc_gasoline_spot_usd_per_litre","usgc_diesel_spot_usd_per_litre"])
     for i,m in enumerate(M): w.writerow([m,B["brent"][i],B["spot"]["gasoline"][i],B["spot"]["diesel"][i]])
 # ---- checks / KPIs ----
@@ -76,5 +82,5 @@ for fuel in ("gasoline","diesel"):
             if vol: line+=f" | $bn/yr REG post {round(avg(gr[2:])*vol,1)} INT post {round(avg(gi[2:])*vol,1)} pre REG {round(avg(gr[:2])*vol,1)}"
             out.append([c["name"],fuel,round(avg(gr[:2]),3),round(avg(gr[2:]),3),round(avg(gi[:2]),3) if avg(gi[:2]) is not None else "",round(avg(gi[2:]),3),vol or "",round(avg(gr[2:])*vol,2) if vol else "",round(avg(gi[2:])*vol,2) if vol else ""])
         print(line)
-with open("data/subsidy_estimates.csv","w",newline="") as f:
-    w=csv.writer(f); w.writerow(["country","fuel","gap_prewar_regional_usd_l","gap_sincewar_regional_usd_l","gap_prewar_international_usd_l","gap_sincewar_international_usd_l","annual_volume_bn_litres_2023","annualised_subsidy_regional_usd_bn","annualised_subsidy_international_usd_bn"]); w.writerows(out)
+with open(os.path.join(OUT,"subsidy_estimates.csv"),"w",newline="") as f:
+    w=csv.writer(f); w.writerow(["country","fuel","gap_prewar_regional_usd_l","gap_sincewar_regional_usd_l","gap_prewar_international_usd_l","gap_sincewar_international_usd_l","annual_volume_bn_litres_2023","annualised_subsidy_regional_usd_bn","annualised_subsidy_international_usd_bn"]); w.writerows([[0.0 if isinstance(v,float) and abs(v)<0.005 else v for v in r] for r in out])

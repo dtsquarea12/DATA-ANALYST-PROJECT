@@ -1,5 +1,5 @@
 country,fuel,gap_prewar_regional_usd_l,gap_sincewar_regional_usd_l,gap_prewar_international_usd_l,gap_sincewar_international_usd_l,annual_volume_bn_litres_2023,annualised_subsidy_regional_usd_bn,annualised_subsidy_international_usd_bn
-UAE,gasoline,0.0,-0.0,0.106,0.185,11.37,-0.0,2.11
+UAE,gasoline,0.0,0.0,0.106,0.185,11.37,0.0,2.11
 Saudi Arabia,gasoline,0.087,0.418,0.203,0.588,29.55,12.36,17.37
 Qatar,gasoline,0.087,0.336,0.188,0.484,2.83,0.95,1.37
 Kuwait,gasoline,0.276,0.534,0.377,0.711,5.0,2.67,3.55
