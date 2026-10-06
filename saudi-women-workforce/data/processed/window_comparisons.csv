@@ -1,0 +1,7 @@
+window,sex,start_quarter,end_quarter,participation_start,participation_end,participation_change_pts,employment_ratio_start,employment_ratio_end,employment_ratio_change_pts,unemployment_rate_start,unemployment_rate_end,unemployment_rate_change_pts,unemployed_share_start,unemployed_share_end,unemployment_rate_end_if_participation_unchanged
+two years,Female,2024-Q2,2026-Q2,35.4,33.7,-1.7,30.8,30.5,-0.3,12.8,9.6,-3.2,4.6,3.2,13.8
+two years,Male,2024-Q2,2026-Q2,66.3,63.9,-2.4,63.6,60.8,-2.8,4.0,4.8,0.8,2.7,3.1,8.3
+one year,Female,2025-Q2,2026-Q2,34.5,33.7,-0.8,30.6,30.5,-0.1,11.3,9.6,-1.7,3.9,3.2,11.6
+one year,Male,2025-Q2,2026-Q2,64.0,63.9,-0.1,61.3,60.8,-0.5,4.3,4.8,0.5,2.7,3.1,5.0
+since 2025 redesign,Female,2025-Q1,2026-Q2,36.3,33.7,-2.6,32.5,30.5,-2.0,10.5,9.6,-0.9,3.8,3.2,16.0
+since 2025 redesign,Male,2025-Q1,2026-Q2,66.4,63.9,-2.5,63.8,60.8,-3.0,4.0,4.8,0.8,2.6,3.1,8.4
