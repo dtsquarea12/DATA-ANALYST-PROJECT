@@ -1,0 +1,158 @@
+country,region,gcc_member,network,median_download_mbps,published_rank,index_month,source,url
+United Arab Emirates,Middle East and North Africa,yes,mobile,644.66,1,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+United Arab Emirates,Middle East and North Africa,yes,fixed,384.51,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Qatar,Middle East and North Africa,yes,mobile,576.06,2,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Qatar,Middle East and North Africa,yes,fixed,211.97,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Kuwait,Middle East and North Africa,yes,mobile,372.76,3,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Kuwait,Middle East and North Africa,yes,fixed,230.24,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Bahrain,Middle East and North Africa,yes,mobile,274.94,4,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Bahrain,Middle East and North Africa,yes,fixed,145.88,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Brazil,Americas,no,mobile,265.79,5,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Brazil,Americas,no,fixed,221.53,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+South Korea,Asia-Pacific,no,mobile,265.20,6,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+South Korea,Asia-Pacific,no,fixed,257.76,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Brunei,Asia-Pacific,no,mobile,253.69,7,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Brunei,Asia-Pacific,no,fixed,90.29,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Saudi Arabia,Middle East and North Africa,yes,mobile,226.53,8,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Saudi Arabia,Middle East and North Africa,yes,fixed,167.93,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Bulgaria,Europe,no,mobile,221.03,9,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Bulgaria,Europe,no,fixed,94.44,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+United States,Americas,no,mobile,213.29,10,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+United States,Americas,no,fixed,309.80,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Vietnam,Asia-Pacific,no,mobile,200.54,11,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Vietnam,Asia-Pacific,no,fixed,281.72,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Singapore,Asia-Pacific,no,mobile,197.89,12,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Singapore,Asia-Pacific,no,fixed,425.46,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Denmark,Europe,no,mobile,192.16,13,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Denmark,Europe,no,fixed,291.60,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Estonia,Europe,no,mobile,188.58,14,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Estonia,Europe,no,fixed,95.32,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Cambodia,Asia-Pacific,no,mobile,181.12,15,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Cambodia,Asia-Pacific,no,fixed,53.08,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Netherlands,Europe,no,mobile,178.00,16,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Netherlands,Europe,no,fixed,237.66,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Luxembourg,Europe,no,mobile,173.19,17,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Luxembourg,Europe,no,fixed,221.23,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Oman,Middle East and North Africa,yes,mobile,169.87,18,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Oman,Middle East and North Africa,yes,fixed,96.05,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Norway,Europe,no,mobile,167.28,19,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Norway,Europe,no,fixed,177.11,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+North Macedonia,Europe,no,mobile,166.15,20,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+North Macedonia,Europe,no,fixed,56.88,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Serbia,Europe,no,mobile,164.60,21,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Serbia,Europe,no,fixed,102.35,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Finland,Europe,no,mobile,164.00,22,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Finland,Europe,no,fixed,180.47,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Sweden,Europe,no,mobile,161.70,23,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Sweden,Europe,no,fixed,213.29,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Georgia,Europe,no,mobile,161.23,24,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Georgia,Europe,no,fixed,44.73,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Latvia,Europe,no,mobile,157.04,25,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Latvia,Europe,no,fixed,146.87,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+China,Asia-Pacific,no,mobile,156.98,26,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+China,Asia-Pacific,no,fixed,206.91,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Malaysia,Asia-Pacific,no,mobile,153.20,27,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Malaysia,Asia-Pacific,no,fixed,168.07,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+France,Europe,no,mobile,152.50,28,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+France,Europe,no,fixed,352.35,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Kosovo,Europe,no,mobile,151.95,29,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Kosovo,Europe,no,fixed,89.32,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Slovenia,Europe,no,mobile,145.54,30,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Slovenia,Europe,no,fixed,200.99,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Greece,Europe,no,mobile,144.40,31,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Greece,Europe,no,fixed,94.29,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Croatia,Europe,no,mobile,138.90,32,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Croatia,Europe,no,fixed,136.75,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Thailand,Asia-Pacific,no,mobile,137.98,33,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Thailand,Asia-Pacific,no,fixed,279.65,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Portugal,Europe,no,mobile,137.64,34,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Portugal,Europe,no,fixed,243.84,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Belgium,Europe,no,mobile,134.77,35,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Belgium,Europe,no,fixed,140.97,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Lithuania,Europe,no,mobile,134.23,36,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Lithuania,Europe,no,fixed,218.67,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+India,Asia-Pacific,no,mobile,126.73,37,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+India,Asia-Pacific,no,fixed,60.85,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Switzerland,Europe,no,mobile,124.08,38,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Switzerland,Europe,no,fixed,292.56,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Poland,Europe,no,mobile,122.33,39,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Poland,Europe,no,fixed,223.25,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+New Zealand,Asia-Pacific,no,mobile,122.18,40,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+New Zealand,Asia-Pacific,no,fixed,201.91,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Jordan,Middle East and North Africa,no,mobile,45.86,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Jordan,Middle East and North Africa,no,fixed,194.10,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Lebanon,Middle East and North Africa,no,mobile,40.62,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Lebanon,Middle East and North Africa,no,fixed,19.90,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Iraq,Middle East and North Africa,no,mobile,64.74,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Iraq,Middle East and North Africa,no,fixed,44.19,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Egypt,Middle East and North Africa,no,mobile,49.42,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Egypt,Middle East and North Africa,no,fixed,92.50,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Morocco,Middle East and North Africa,no,mobile,77.54,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Morocco,Middle East and North Africa,no,fixed,56.22,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Tunisia,Middle East and North Africa,no,mobile,52.84,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Tunisia,Middle East and North Africa,no,fixed,20.24,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Algeria,Middle East and North Africa,no,mobile,64.05,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Algeria,Middle East and North Africa,no,fixed,59.95,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Libya,Middle East and North Africa,no,mobile,22.89,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Libya,Middle East and North Africa,no,fixed,11.65,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Turkey,Middle East and North Africa,no,mobile,110.40,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Turkey,Middle East and North Africa,no,fixed,80.02,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Israel,Middle East and North Africa,no,mobile,65.96,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Israel,Middle East and North Africa,no,fixed,281.29,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Iran,Middle East and North Africa,no,mobile,57.23,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Iran,Middle East and North Africa,no,fixed,26.00,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Nigeria,Sub-Saharan Africa,no,mobile,50.53,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Nigeria,Sub-Saharan Africa,no,fixed,36.81,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+South Africa,Sub-Saharan Africa,no,mobile,68.09,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+South Africa,Sub-Saharan Africa,no,fixed,48.90,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Kenya,Sub-Saharan Africa,no,mobile,48.78,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Kenya,Sub-Saharan Africa,no,fixed,16.48,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Germany,Europe,no,mobile,74.58,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Germany,Europe,no,fixed,103.72,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+United Kingdom,Europe,no,mobile,75.91,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+United Kingdom,Europe,no,fixed,172.24,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Italy,Europe,no,mobile,92.81,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Italy,Europe,no,fixed,117.11,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Spain,Europe,no,mobile,92.32,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Spain,Europe,no,fixed,277.98,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Ireland,Europe,no,mobile,79.12,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Ireland,Europe,no,fixed,220.71,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Romania,Europe,no,mobile,87.32,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Romania,Europe,no,fixed,283.06,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Hungary,Europe,no,mobile,93.03,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Hungary,Europe,no,fixed,251.72,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Japan,Asia-Pacific,no,mobile,70.28,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Japan,Asia-Pacific,no,fixed,255.27,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Australia,Asia-Pacific,no,mobile,116.84,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Australia,Asia-Pacific,no,fixed,154.09,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Indonesia,Asia-Pacific,no,mobile,62.09,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Indonesia,Asia-Pacific,no,fixed,45.91,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Philippines,Asia-Pacific,no,mobile,58.24,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Philippines,Asia-Pacific,no,fixed,109.86,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Pakistan,Asia-Pacific,no,mobile,26.46,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Pakistan,Asia-Pacific,no,fixed,17.90,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Bangladesh,Asia-Pacific,no,mobile,42.45,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Bangladesh,Asia-Pacific,no,fixed,66.02,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Hong Kong,Asia-Pacific,no,mobile,89.43,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Hong Kong,Asia-Pacific,no,fixed,352.40,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Taiwan,Asia-Pacific,no,mobile,117.38,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Taiwan,Asia-Pacific,no,fixed,270.85,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Canada,Americas,no,mobile,110.92,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Canada,Americas,no,fixed,277.70,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Chile,Americas,no,mobile,82.21,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Chile,Americas,no,fixed,334.99,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Mexico,Americas,no,mobile,44.08,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Mexico,Americas,no,fixed,104.25,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Argentina,Americas,no,mobile,62.64,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Argentina,Americas,no,fixed,111.54,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Colombia,Americas,no,mobile,45.09,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Colombia,Americas,no,fixed,214.30,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Peru,Americas,no,mobile,40.02,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+Peru,Americas,no,fixed,258.37,,2026-03,Wikipedia table of Ookla Speedtest Global Index,https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+United Arab Emirates,Middle East and North Africa,yes,mobile,644.66,,2026-03,VoxBooster internet speed statistics 2026,https://voxbooster.com/blog/internet-speed-statistics-2026/
+United Arab Emirates,Middle East and North Africa,yes,fixed,384.51,,2026-03,VoxBooster internet speed statistics 2026,https://voxbooster.com/blog/internet-speed-statistics-2026/
+Qatar,Middle East and North Africa,yes,mobile,576.06,,2026-03,VoxBooster internet speed statistics 2026,https://voxbooster.com/blog/internet-speed-statistics-2026/
+Kuwait,Middle East and North Africa,yes,mobile,372.76,,2026-03,VoxBooster internet speed statistics 2026,https://voxbooster.com/blog/internet-speed-statistics-2026/
+South Korea,Asia-Pacific,no,mobile,265.20,,2026-03,VoxBooster internet speed statistics 2026,https://voxbooster.com/blog/internet-speed-statistics-2026/
+Singapore,Asia-Pacific,no,fixed,425.46,,2026-03,VoxBooster internet speed statistics 2026,https://voxbooster.com/blog/internet-speed-statistics-2026/
+France,Europe,no,fixed,352.35,,2026-03,VoxBooster internet speed statistics 2026,https://voxbooster.com/blog/internet-speed-statistics-2026/

@@ -1,0 +1,151 @@
+country,network,region,gcc_member,index_month,median_download_mbps,published_rank,n_sources,verification
+Singapore,fixed,Asia-Pacific,no,2026-03,425.46,,2,two-sources
+United Arab Emirates,fixed,Middle East and North Africa,yes,2026-03,384.51,,2,two-sources
+Hong Kong,fixed,Asia-Pacific,no,2026-03,352.4,,1,single-source
+France,fixed,Europe,no,2026-03,352.35,,2,two-sources
+Chile,fixed,Americas,no,2026-03,334.99,,1,single-source
+United States,fixed,Americas,no,2026-03,309.8,,1,single-source
+Switzerland,fixed,Europe,no,2026-03,292.56,,1,single-source
+Denmark,fixed,Europe,no,2026-03,291.6,,1,single-source
+Romania,fixed,Europe,no,2026-03,283.06,,1,single-source
+Vietnam,fixed,Asia-Pacific,no,2026-03,281.72,,1,single-source
+Israel,fixed,Middle East and North Africa,no,2026-03,281.29,,1,single-source
+Thailand,fixed,Asia-Pacific,no,2026-03,279.65,,1,single-source
+Spain,fixed,Europe,no,2026-03,277.98,,1,single-source
+Canada,fixed,Americas,no,2026-03,277.7,,1,single-source
+Taiwan,fixed,Asia-Pacific,no,2026-03,270.85,,1,single-source
+Peru,fixed,Americas,no,2026-03,258.37,,1,single-source
+South Korea,fixed,Asia-Pacific,no,2026-03,257.76,,1,single-source
+Japan,fixed,Asia-Pacific,no,2026-03,255.27,,1,single-source
+Hungary,fixed,Europe,no,2026-03,251.72,,1,single-source
+Portugal,fixed,Europe,no,2026-03,243.84,,1,single-source
+Netherlands,fixed,Europe,no,2026-03,237.66,,1,single-source
+Kuwait,fixed,Middle East and North Africa,yes,2026-03,230.24,,1,single-source
+Poland,fixed,Europe,no,2026-03,223.25,,1,single-source
+Brazil,fixed,Americas,no,2026-03,221.53,,1,single-source
+Luxembourg,fixed,Europe,no,2026-03,221.23,,1,single-source
+Ireland,fixed,Europe,no,2026-03,220.71,,1,single-source
+Lithuania,fixed,Europe,no,2026-03,218.67,,1,single-source
+Colombia,fixed,Americas,no,2026-03,214.3,,1,single-source
+Sweden,fixed,Europe,no,2026-03,213.29,,1,single-source
+Qatar,fixed,Middle East and North Africa,yes,2026-03,211.97,,1,single-source
+China,fixed,Asia-Pacific,no,2026-03,206.91,,1,single-source
+New Zealand,fixed,Asia-Pacific,no,2026-03,201.91,,1,single-source
+Slovenia,fixed,Europe,no,2026-03,200.99,,1,single-source
+Jordan,fixed,Middle East and North Africa,no,2026-03,194.1,,1,single-source
+Finland,fixed,Europe,no,2026-03,180.47,,1,single-source
+Norway,fixed,Europe,no,2026-03,177.11,,1,single-source
+United Kingdom,fixed,Europe,no,2026-03,172.24,,1,single-source
+Malaysia,fixed,Asia-Pacific,no,2026-03,168.07,,1,single-source
+Saudi Arabia,fixed,Middle East and North Africa,yes,2026-03,167.93,,1,single-source
+Australia,fixed,Asia-Pacific,no,2026-03,154.09,,1,single-source
+Latvia,fixed,Europe,no,2026-03,146.87,,1,single-source
+Bahrain,fixed,Middle East and North Africa,yes,2026-03,145.88,,1,single-source
+Belgium,fixed,Europe,no,2026-03,140.97,,1,single-source
+Croatia,fixed,Europe,no,2026-03,136.75,,1,single-source
+Italy,fixed,Europe,no,2026-03,117.11,,1,single-source
+Argentina,fixed,Americas,no,2026-03,111.54,,1,single-source
+Philippines,fixed,Asia-Pacific,no,2026-03,109.86,,1,single-source
+Mexico,fixed,Americas,no,2026-03,104.25,,1,single-source
+Germany,fixed,Europe,no,2026-03,103.72,,1,single-source
+Serbia,fixed,Europe,no,2026-03,102.35,,1,single-source
+Oman,fixed,Middle East and North Africa,yes,2026-03,96.05,,1,single-source
+Estonia,fixed,Europe,no,2026-03,95.32,,1,single-source
+Bulgaria,fixed,Europe,no,2026-03,94.44,,1,single-source
+Greece,fixed,Europe,no,2026-03,94.29,,1,single-source
+Egypt,fixed,Middle East and North Africa,no,2026-03,92.5,,1,single-source
+Brunei,fixed,Asia-Pacific,no,2026-03,90.29,,1,single-source
+Kosovo,fixed,Europe,no,2026-03,89.32,,1,single-source
+Turkey,fixed,Middle East and North Africa,no,2026-03,80.02,,1,single-source
+Bangladesh,fixed,Asia-Pacific,no,2026-03,66.02,,1,single-source
+India,fixed,Asia-Pacific,no,2026-03,60.85,,1,single-source
+Algeria,fixed,Middle East and North Africa,no,2026-03,59.95,,1,single-source
+North Macedonia,fixed,Europe,no,2026-03,56.88,,1,single-source
+Morocco,fixed,Middle East and North Africa,no,2026-03,56.22,,1,single-source
+Cambodia,fixed,Asia-Pacific,no,2026-03,53.08,,1,single-source
+South Africa,fixed,Sub-Saharan Africa,no,2026-03,48.9,,1,single-source
+Indonesia,fixed,Asia-Pacific,no,2026-03,45.91,,1,single-source
+Georgia,fixed,Europe,no,2026-03,44.73,,1,single-source
+Iraq,fixed,Middle East and North Africa,no,2026-03,44.19,,1,single-source
+Nigeria,fixed,Sub-Saharan Africa,no,2026-03,36.81,,1,single-source
+Iran,fixed,Middle East and North Africa,no,2026-03,26.0,,1,single-source
+Tunisia,fixed,Middle East and North Africa,no,2026-03,20.24,,1,single-source
+Lebanon,fixed,Middle East and North Africa,no,2026-03,19.9,,1,single-source
+Pakistan,fixed,Asia-Pacific,no,2026-03,17.9,,1,single-source
+Kenya,fixed,Sub-Saharan Africa,no,2026-03,16.48,,1,single-source
+Libya,fixed,Middle East and North Africa,no,2026-03,11.65,,1,single-source
+United Arab Emirates,mobile,Middle East and North Africa,yes,2026-03,644.66,1.0,2,two-sources
+Qatar,mobile,Middle East and North Africa,yes,2026-03,576.06,2.0,2,two-sources
+Kuwait,mobile,Middle East and North Africa,yes,2026-03,372.76,3.0,2,two-sources
+Bahrain,mobile,Middle East and North Africa,yes,2026-03,274.94,4.0,1,single-source
+Brazil,mobile,Americas,no,2026-03,265.79,5.0,1,single-source
+South Korea,mobile,Asia-Pacific,no,2026-03,265.2,6.0,2,two-sources
+Brunei,mobile,Asia-Pacific,no,2026-03,253.69,7.0,1,single-source
+Saudi Arabia,mobile,Middle East and North Africa,yes,2026-03,226.53,8.0,1,single-source
+Bulgaria,mobile,Europe,no,2026-03,221.03,9.0,1,single-source
+United States,mobile,Americas,no,2026-03,213.29,10.0,1,single-source
+Vietnam,mobile,Asia-Pacific,no,2026-03,200.54,11.0,1,single-source
+Singapore,mobile,Asia-Pacific,no,2026-03,197.89,12.0,1,single-source
+Denmark,mobile,Europe,no,2026-03,192.16,13.0,1,single-source
+Estonia,mobile,Europe,no,2026-03,188.58,14.0,1,single-source
+Cambodia,mobile,Asia-Pacific,no,2026-03,181.12,15.0,1,single-source
+Netherlands,mobile,Europe,no,2026-03,178.0,16.0,1,single-source
+Luxembourg,mobile,Europe,no,2026-03,173.19,17.0,1,single-source
+Oman,mobile,Middle East and North Africa,yes,2026-03,169.87,18.0,1,single-source
+Norway,mobile,Europe,no,2026-03,167.28,19.0,1,single-source
+North Macedonia,mobile,Europe,no,2026-03,166.15,20.0,1,single-source
+Serbia,mobile,Europe,no,2026-03,164.6,21.0,1,single-source
+Finland,mobile,Europe,no,2026-03,164.0,22.0,1,single-source
+Sweden,mobile,Europe,no,2026-03,161.7,23.0,1,single-source
+Georgia,mobile,Europe,no,2026-03,161.23,24.0,1,single-source
+Latvia,mobile,Europe,no,2026-03,157.04,25.0,1,single-source
+China,mobile,Asia-Pacific,no,2026-03,156.98,26.0,1,single-source
+Malaysia,mobile,Asia-Pacific,no,2026-03,153.2,27.0,1,single-source
+France,mobile,Europe,no,2026-03,152.5,28.0,1,single-source
+Kosovo,mobile,Europe,no,2026-03,151.95,29.0,1,single-source
+Slovenia,mobile,Europe,no,2026-03,145.54,30.0,1,single-source
+Greece,mobile,Europe,no,2026-03,144.4,31.0,1,single-source
+Croatia,mobile,Europe,no,2026-03,138.9,32.0,1,single-source
+Thailand,mobile,Asia-Pacific,no,2026-03,137.98,33.0,1,single-source
+Portugal,mobile,Europe,no,2026-03,137.64,34.0,1,single-source
+Belgium,mobile,Europe,no,2026-03,134.77,35.0,1,single-source
+Lithuania,mobile,Europe,no,2026-03,134.23,36.0,1,single-source
+India,mobile,Asia-Pacific,no,2026-03,126.73,37.0,1,single-source
+Switzerland,mobile,Europe,no,2026-03,124.08,38.0,1,single-source
+Poland,mobile,Europe,no,2026-03,122.33,39.0,1,single-source
+New Zealand,mobile,Asia-Pacific,no,2026-03,122.18,40.0,1,single-source
+Taiwan,mobile,Asia-Pacific,no,2026-03,117.38,,1,single-source
+Australia,mobile,Asia-Pacific,no,2026-03,116.84,,1,single-source
+Canada,mobile,Americas,no,2026-03,110.92,,1,single-source
+Turkey,mobile,Middle East and North Africa,no,2026-03,110.4,,1,single-source
+Hungary,mobile,Europe,no,2026-03,93.03,,1,single-source
+Italy,mobile,Europe,no,2026-03,92.81,,1,single-source
+Spain,mobile,Europe,no,2026-03,92.32,,1,single-source
+Hong Kong,mobile,Asia-Pacific,no,2026-03,89.43,,1,single-source
+Romania,mobile,Europe,no,2026-03,87.32,,1,single-source
+Chile,mobile,Americas,no,2026-03,82.21,,1,single-source
+Ireland,mobile,Europe,no,2026-03,79.12,,1,single-source
+Morocco,mobile,Middle East and North Africa,no,2026-03,77.54,,1,single-source
+United Kingdom,mobile,Europe,no,2026-03,75.91,,1,single-source
+Germany,mobile,Europe,no,2026-03,74.58,,1,single-source
+Japan,mobile,Asia-Pacific,no,2026-03,70.28,,1,single-source
+South Africa,mobile,Sub-Saharan Africa,no,2026-03,68.09,,1,single-source
+Israel,mobile,Middle East and North Africa,no,2026-03,65.96,,1,single-source
+Iraq,mobile,Middle East and North Africa,no,2026-03,64.74,,1,single-source
+Algeria,mobile,Middle East and North Africa,no,2026-03,64.05,,1,single-source
+Argentina,mobile,Americas,no,2026-03,62.64,,1,single-source
+Indonesia,mobile,Asia-Pacific,no,2026-03,62.09,,1,single-source
+Philippines,mobile,Asia-Pacific,no,2026-03,58.24,,1,single-source
+Iran,mobile,Middle East and North Africa,no,2026-03,57.23,,1,single-source
+Tunisia,mobile,Middle East and North Africa,no,2026-03,52.84,,1,single-source
+Nigeria,mobile,Sub-Saharan Africa,no,2026-03,50.53,,1,single-source
+Egypt,mobile,Middle East and North Africa,no,2026-03,49.42,,1,single-source
+Kenya,mobile,Sub-Saharan Africa,no,2026-03,48.78,,1,single-source
+Jordan,mobile,Middle East and North Africa,no,2026-03,45.86,,1,single-source
+Colombia,mobile,Americas,no,2026-03,45.09,,1,single-source
+Mexico,mobile,Americas,no,2026-03,44.08,,1,single-source
+Bangladesh,mobile,Asia-Pacific,no,2026-03,42.45,,1,single-source
+Lebanon,mobile,Middle East and North Africa,no,2026-03,40.62,,1,single-source
+Peru,mobile,Americas,no,2026-03,40.02,,1,single-source
+Pakistan,mobile,Asia-Pacific,no,2026-03,26.46,,1,single-source
+Libya,mobile,Middle East and North Africa,no,2026-03,22.89,,1,single-source

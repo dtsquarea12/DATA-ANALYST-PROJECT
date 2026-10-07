@@ -1,0 +1,8 @@
+group,countries,median_mobile_mbps,median_fixed_mbps,min_mobile_mbps,max_mobile_mbps,countries_mobile_faster
+GCC states,6,323.85,189.95,169.87,644.66,6
+Americas (countries collected),8,72.42,239.95,40.02,265.79,1
+Asia-Pacific (countries collected),18,124.46,184.99,26.46,265.2,6
+Europe (countries collected),29,145.54,180.47,74.58,221.03,9
+Middle East and North Africa (countries collected),17,65.96,92.5,22.89,644.66,14
+Sub-Saharan Africa (countries collected),3,50.53,36.81,48.78,68.09,3
+All countries collected,75,124.08,168.07,22.89,644.66,33
