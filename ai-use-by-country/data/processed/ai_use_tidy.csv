@@ -1,0 +1,589 @@
+economy,period,ai_diffusion_pct,documents,publishers,verification,earlier_report_value,region,sub_region,shared_value_group,own_estimate
+Argentina,2025-H1,17.8,2,1,two-reports,,Americas,Americas,,yes
+Argentina,2025-H2,19.6,2,1,two-reports,,Americas,Americas,,yes
+Argentina,2026-Q1,21.9,2,1,two-reports,,Americas,Americas,,yes
+Argentina,2026-Q2,23.4,1,1,single-document,,Americas,Americas,,yes
+Bolivia,2025-H1,10.9,2,1,two-reports,,Americas,Americas,,yes
+Bolivia,2025-H2,11.6,2,1,two-reports,,Americas,Americas,,yes
+Bolivia,2026-Q1,12.7,2,1,two-reports,,Americas,Americas,,yes
+Bolivia,2026-Q2,13.3,1,1,single-document,,Americas,Americas,,yes
+Brazil,2025-H1,15.6,2,1,two-reports,,Americas,Americas,,yes
+Brazil,2025-H2,17.1,2,1,two-reports,,Americas,Americas,,yes
+Brazil,2026-Q1,19.1,2,1,two-reports,,Americas,Americas,,yes
+Brazil,2026-Q2,20.2,1,1,single-document,,Americas,Americas,,yes
+Canada,2025-H1,33.5,2,1,two-reports,,Americas,Americas,,yes
+Canada,2025-H2,35.0,2,1,two-reports,,Americas,Americas,,yes
+Canada,2026-Q1,37.3,2,1,two-reports,,Americas,Americas,,yes
+Canada,2026-Q2,38.5,1,1,single-document,,Americas,Americas,,yes
+Chile,2025-H1,19.6,2,1,two-reports,,Americas,Americas,,yes
+Chile,2025-H2,20.8,2,1,two-reports,,Americas,Americas,,yes
+Chile,2026-Q1,22.7,2,1,two-reports,,Americas,Americas,,yes
+Chile,2026-Q2,24.0,1,1,single-document,,Americas,Americas,,yes
+Colombia,2025-H1,20.4,2,1,two-reports,,Americas,Americas,,yes
+Colombia,2025-H2,22.0,2,1,two-reports,,Americas,Americas,,yes
+Colombia,2026-Q1,24.5,2,1,two-reports,,Americas,Americas,,yes
+Colombia,2026-Q2,25.9,1,1,single-document,,Americas,Americas,,yes
+Costa Rica,2025-H1,25.1,2,1,two-reports,,Americas,Americas,,yes
+Costa Rica,2025-H2,26.5,2,1,two-reports,,Americas,Americas,,yes
+Costa Rica,2026-Q1,28.5,2,1,two-reports,,Americas,Americas,,yes
+Costa Rica,2026-Q2,29.7,1,1,single-document,,Americas,Americas,,yes
+Cuba,2025-H1,5.7,2,1,two-reports,,Americas,Americas,,yes
+Cuba,2025-H2,6.1,2,1,two-reports,,Americas,Americas,,yes
+Cuba,2026-Q1,6.7,2,1,two-reports,,Americas,Americas,,yes
+Cuba,2026-Q2,6.8,1,1,single-document,,Americas,Americas,,yes
+Dominican Republic,2025-H1,22.0,2,1,two-reports,,Americas,Americas,,yes
+Dominican Republic,2025-H2,22.7,2,1,two-reports,,Americas,Americas,,yes
+Dominican Republic,2026-Q1,24.8,2,1,two-reports,,Americas,Americas,,yes
+Dominican Republic,2026-Q2,25.8,1,1,single-document,,Americas,Americas,,yes
+Ecuador,2025-H1,17.0,2,1,two-reports,,Americas,Americas,,yes
+Ecuador,2025-H2,17.7,2,1,two-reports,,Americas,Americas,,yes
+Ecuador,2026-Q1,19.5,2,1,two-reports,,Americas,Americas,,yes
+Ecuador,2026-Q2,20.3,1,1,single-document,,Americas,Americas,,yes
+El Salvador,2025-H1,14.6,2,1,two-reports,,Americas,Americas,,yes
+El Salvador,2025-H2,16.2,2,1,two-reports,,Americas,Americas,,yes
+El Salvador,2026-Q1,18.3,2,1,two-reports,,Americas,Americas,,yes
+El Salvador,2026-Q2,20.1,1,1,single-document,,Americas,Americas,,yes
+French Guiana,2025-H1,8.3,2,1,two-reports,,Americas,Americas,group 2,no
+French Guiana,2025-H2,9.0,2,1,two-reports,,Americas,Americas,group 2,no
+French Guiana,2026-Q1,10.3,2,1,two-reports,,Americas,Americas,group 2,no
+French Guiana,2026-Q2,11.3,1,1,single-document,,Americas,Americas,group 2,no
+Guatemala,2025-H1,13.7,2,1,two-reports,,Americas,Americas,,yes
+Guatemala,2025-H2,14.8,2,1,two-reports,,Americas,Americas,,yes
+Guatemala,2026-Q1,16.4,2,1,two-reports,,Americas,Americas,,yes
+Guatemala,2026-Q2,17.3,1,1,single-document,,Americas,Americas,,yes
+Guyana,2025-H1,8.3,2,1,two-reports,,Americas,Americas,group 2,no
+Guyana,2025-H2,9.0,2,1,two-reports,,Americas,Americas,group 2,no
+Guyana,2026-Q1,10.3,2,1,two-reports,,Americas,Americas,group 2,no
+Guyana,2026-Q2,11.3,1,1,single-document,,Americas,Americas,group 2,no
+Haiti,2025-H1,7.1,2,1,two-reports,,Americas,Americas,,yes
+Haiti,2025-H2,7.6,2,1,two-reports,,Americas,Americas,,yes
+Haiti,2026-Q1,8.5,2,1,two-reports,,Americas,Americas,,yes
+Haiti,2026-Q2,8.9,1,1,single-document,,Americas,Americas,,yes
+Honduras,2025-H1,12.4,2,1,two-reports,,Americas,Americas,,yes
+Honduras,2025-H2,13.1,2,1,two-reports,,Americas,Americas,,yes
+Honduras,2026-Q1,14.0,2,1,two-reports,,Americas,Americas,,yes
+Honduras,2026-Q2,14.5,1,1,single-document,,Americas,Americas,,yes
+Jamaica,2025-H1,22.2,2,1,two-reports,,Americas,Americas,,yes
+Jamaica,2025-H2,22.1,2,1,two-reports,,Americas,Americas,,yes
+Jamaica,2026-Q1,24.0,2,1,two-reports,,Americas,Americas,,yes
+Jamaica,2026-Q2,25.0,1,1,single-document,,Americas,Americas,,yes
+Mexico,2025-H1,16.7,2,1,two-reports,,Americas,Americas,,yes
+Mexico,2025-H2,17.8,2,1,two-reports,,Americas,Americas,,yes
+Mexico,2026-Q1,20.1,2,1,two-reports,,Americas,Americas,,yes
+Mexico,2026-Q2,21.4,1,1,single-document,,Americas,Americas,,yes
+Nicaragua,2025-H1,10.0,2,1,two-reports,,Americas,Americas,,yes
+Nicaragua,2025-H2,10.7,2,1,two-reports,,Americas,Americas,,yes
+Nicaragua,2026-Q1,11.8,2,1,two-reports,,Americas,Americas,,yes
+Nicaragua,2026-Q2,12.5,1,1,single-document,,Americas,Americas,,yes
+Panama,2025-H1,20.3,2,1,two-reports,,Americas,Americas,,yes
+Panama,2025-H2,21.5,2,1,two-reports,,Americas,Americas,,yes
+Panama,2026-Q1,23.3,2,1,two-reports,,Americas,Americas,,yes
+Panama,2026-Q2,24.2,1,1,single-document,,Americas,Americas,,yes
+Paraguay,2025-H1,10.1,2,1,two-reports,,Americas,Americas,,yes
+Paraguay,2025-H2,11.0,2,1,two-reports,,Americas,Americas,,yes
+Paraguay,2026-Q1,12.2,2,1,two-reports,,Americas,Americas,,yes
+Paraguay,2026-Q2,12.6,1,1,single-document,,Americas,Americas,,yes
+Peru,2025-H1,13.4,2,1,two-reports,,Americas,Americas,,yes
+Peru,2025-H2,14.7,2,1,two-reports,,Americas,Americas,,yes
+Peru,2026-Q1,16.4,2,1,two-reports,,Americas,Americas,,yes
+Peru,2026-Q2,17.3,1,1,single-document,,Americas,Americas,,yes
+Suriname,2025-H1,8.3,2,1,two-reports,,Americas,Americas,group 2,no
+Suriname,2025-H2,9.0,2,1,two-reports,,Americas,Americas,group 2,no
+Suriname,2026-Q1,10.3,2,1,two-reports,,Americas,Americas,group 2,no
+Suriname,2026-Q2,11.3,1,1,single-document,,Americas,Americas,group 2,no
+United States,2025-H1,26.3,2,1,two-reports,,Americas,Americas,,yes
+United States,2025-H2,28.3,2,1,two-reports,,Americas,Americas,,yes
+United States,2026-Q1,31.3,4,2,two-publishers,,Americas,Americas,,yes
+United States,2026-Q2,33.0,2,2,two-publishers,,Americas,Americas,,yes
+Uruguay,2025-H1,20.9,2,1,two-reports,,Americas,Americas,,yes
+Uruguay,2025-H2,22.5,2,1,two-reports,,Americas,Americas,,yes
+Uruguay,2026-Q1,24.6,2,1,two-reports,,Americas,Americas,,yes
+Uruguay,2026-Q2,25.7,1,1,single-document,,Americas,Americas,,yes
+Venezuela,2025-H1,8.3,2,1,two-reports,,Americas,Americas,group 2,no
+Venezuela,2025-H2,9.0,2,1,two-reports,,Americas,Americas,group 2,no
+Venezuela,2026-Q1,10.3,2,1,two-reports,,Americas,Americas,group 2,no
+Venezuela,2026-Q2,11.3,1,1,single-document,,Americas,Americas,group 2,no
+Afghanistan,2025-H1,5.1,2,1,two-reports,,Asia,Asia,group 6,no
+Afghanistan,2025-H2,5.6,2,1,two-reports,,Asia,Asia,group 6,no
+Afghanistan,2026-Q1,6.1,2,1,two-reports,,Asia,Asia,group 6,no
+Afghanistan,2026-Q2,6.3,1,1,single-document,,Asia,Asia,group 6,no
+Armenia,2025-H1,6.2,2,1,two-reports,,Asia,Asia,,yes
+Armenia,2025-H2,6.6,2,1,two-reports,,Asia,Asia,,yes
+Armenia,2026-Q1,7.4,2,1,two-reports,,Asia,Asia,,yes
+Armenia,2026-Q2,7.7,1,1,single-document,,Asia,Asia,,yes
+Azerbaijan,2025-H1,14.2,2,1,two-reports,,Asia,Asia,,yes
+Azerbaijan,2025-H2,15.5,2,1,two-reports,,Asia,Asia,,yes
+Azerbaijan,2026-Q1,17.7,2,1,two-reports,,Asia,Asia,,yes
+Azerbaijan,2026-Q2,18.7,1,1,single-document,,Asia,Asia,,yes
+Bangladesh,2025-H1,6.5,2,1,two-reports,,Asia,Asia,,yes
+Bangladesh,2025-H2,7.1,2,1,two-reports,,Asia,Asia,,yes
+Bangladesh,2026-Q1,7.8,2,1,two-reports,,Asia,Asia,,yes
+Bangladesh,2026-Q2,8.0,1,1,single-document,,Asia,Asia,,yes
+Cambodia,2025-H1,4.6,2,1,two-reports,,Asia,Asia,,yes
+Cambodia,2025-H2,5.1,2,1,two-reports,,Asia,Asia,,yes
+Cambodia,2026-Q1,5.8,2,1,revised,5.8,Asia,Asia,,yes
+Cambodia,2026-Q2,6.1,1,1,single-document,,Asia,Asia,,yes
+China,2025-H1,15.4,3,2,two-publishers,,Asia,Asia,,yes
+China,2025-H2,16.3,3,2,two-publishers,,Asia,Asia,,yes
+China,2026-Q1,16.4,3,2,two-publishers,,Asia,Asia,,yes
+China,2026-Q2,17.5,2,2,two-publishers,,Asia,Asia,,yes
+Georgia,2025-H1,17.3,2,1,two-reports,,Asia,Asia,,yes
+Georgia,2025-H2,18.2,2,1,two-reports,,Asia,Asia,,yes
+Georgia,2026-Q1,20.5,2,1,two-reports,,Asia,Asia,,yes
+Georgia,2026-Q2,21.6,1,1,single-document,,Asia,Asia,,yes
+India,2025-H1,14.2,2,1,two-reports,,Asia,Asia,,yes
+India,2025-H2,15.7,2,1,two-reports,,Asia,Asia,,yes
+India,2026-Q1,17.6,2,1,two-reports,,Asia,Asia,,yes
+India,2026-Q2,18.5,2,2,two-publishers,,Asia,Asia,,yes
+Indonesia,2025-H1,11.7,2,1,two-reports,,Asia,Asia,,yes
+Indonesia,2025-H2,12.7,2,1,two-reports,,Asia,Asia,,yes
+Indonesia,2026-Q1,14.1,2,1,two-reports,,Asia,Asia,,yes
+Indonesia,2026-Q2,14.8,1,1,single-document,,Asia,Asia,,yes
+Japan,2025-H1,16.7,2,1,two-reports,,Asia,Asia,,yes
+Japan,2025-H2,19.1,2,1,two-reports,,Asia,Asia,,yes
+Japan,2026-Q1,22.5,3,2,two-publishers,,Asia,Asia,,yes
+Japan,2026-Q2,24.7,1,1,single-document,,Asia,Asia,,yes
+Kazakhstan,2025-H1,12.7,2,1,two-reports,,Asia,Asia,,yes
+Kazakhstan,2025-H2,13.7,2,1,two-reports,,Asia,Asia,,yes
+Kazakhstan,2026-Q1,15.9,2,1,two-reports,,Asia,Asia,,yes
+Kazakhstan,2026-Q2,16.9,1,1,single-document,,Asia,Asia,,yes
+Kyrgyzstan,2025-H1,7.6,2,1,two-reports,,Asia,Asia,,yes
+Kyrgyzstan,2025-H2,8.2,2,1,two-reports,,Asia,Asia,,yes
+Kyrgyzstan,2026-Q1,9.5,2,1,two-reports,,Asia,Asia,,yes
+Kyrgyzstan,2026-Q2,10.0,1,1,single-document,,Asia,Asia,,yes
+Laos,2025-H1,6.0,2,1,two-reports,,Asia,Asia,,yes
+Laos,2025-H2,6.7,2,1,two-reports,,Asia,Asia,,yes
+Laos,2026-Q1,7.8,2,1,two-reports,,Asia,Asia,,yes
+Laos,2026-Q2,8.4,1,1,single-document,,Asia,Asia,,yes
+Malaysia,2025-H1,18.3,2,1,two-reports,,Asia,Asia,,yes
+Malaysia,2025-H2,19.7,2,1,two-reports,,Asia,Asia,,yes
+Malaysia,2026-Q1,21.8,2,1,two-reports,,Asia,Asia,,yes
+Malaysia,2026-Q2,22.6,1,1,single-document,,Asia,Asia,,yes
+Mongolia,2025-H1,12.6,2,1,two-reports,,Asia,Asia,,yes
+Mongolia,2025-H2,14.3,2,1,two-reports,,Asia,Asia,,yes
+Mongolia,2026-Q1,16.7,2,1,two-reports,,Asia,Asia,,yes
+Mongolia,2026-Q2,17.9,1,1,single-document,,Asia,Asia,,yes
+Myanmar,2025-H1,8.4,2,1,two-reports,,Asia,Asia,,yes
+Myanmar,2025-H2,9.1,2,1,two-reports,,Asia,Asia,,yes
+Myanmar,2026-Q1,10.0,2,1,two-reports,,Asia,Asia,,yes
+Myanmar,2026-Q2,10.4,1,1,single-document,,Asia,Asia,,yes
+Nepal,2025-H1,12.3,2,1,two-reports,,Asia,Asia,,yes
+Nepal,2025-H2,13.0,2,1,two-reports,,Asia,Asia,,yes
+Nepal,2026-Q1,14.2,2,1,two-reports,,Asia,Asia,,yes
+Nepal,2026-Q2,14.6,1,1,single-document,,Asia,Asia,,yes
+Pakistan,2025-H1,9.7,2,1,two-reports,,Asia,Asia,,yes
+Pakistan,2025-H2,10.3,2,1,two-reports,,Asia,Asia,,yes
+Pakistan,2026-Q1,11.4,2,1,two-reports,,Asia,Asia,,yes
+Pakistan,2026-Q2,11.9,1,1,single-document,,Asia,Asia,,yes
+Philippines,2025-H1,17.1,2,1,two-reports,,Asia,Asia,,yes
+Philippines,2025-H2,18.3,2,1,two-reports,,Asia,Asia,,yes
+Philippines,2026-Q1,20.1,2,1,two-reports,,Asia,Asia,,yes
+Philippines,2026-Q2,20.7,1,1,single-document,,Asia,Asia,,yes
+Singapore,2025-H1,58.6,2,1,two-reports,,Asia,Asia,,yes
+Singapore,2025-H2,60.9,2,1,two-reports,,Asia,Asia,,yes
+Singapore,2026-Q1,63.4,2,1,two-reports,,Asia,Asia,,yes
+Singapore,2026-Q2,64.3,5,4,two-publishers,,Asia,Asia,,yes
+South Korea,2025-H1,25.9,2,1,two-reports,,Asia,Asia,,yes
+South Korea,2025-H2,30.7,2,1,two-reports,,Asia,Asia,,yes
+South Korea,2026-Q1,37.1,2,1,two-reports,,Asia,Asia,,yes
+South Korea,2026-Q2,40.6,2,2,two-publishers,,Asia,Asia,,yes
+Sri Lanka,2025-H1,6.2,2,1,two-reports,,Asia,Asia,,yes
+Sri Lanka,2025-H2,6.6,2,1,two-reports,,Asia,Asia,,yes
+Sri Lanka,2026-Q1,7.3,2,1,two-reports,,Asia,Asia,,yes
+Sri Lanka,2026-Q2,7.6,1,1,single-document,,Asia,Asia,,yes
+Taiwan,2025-H1,26.4,2,1,two-reports,,Asia,Asia,,yes
+Taiwan,2025-H2,28.4,2,1,two-reports,,Asia,Asia,,yes
+Taiwan,2026-Q1,31.8,2,1,two-reports,,Asia,Asia,,yes
+Taiwan,2026-Q2,33.8,1,1,single-document,,Asia,Asia,,yes
+Tajikistan,2025-H1,5.1,2,1,two-reports,,Asia,Asia,group 6,no
+Tajikistan,2025-H2,5.6,2,1,two-reports,,Asia,Asia,group 6,no
+Tajikistan,2026-Q1,6.1,2,1,two-reports,,Asia,Asia,group 6,no
+Tajikistan,2026-Q2,6.3,1,1,single-document,,Asia,Asia,group 6,no
+Thailand,2025-H1,9.1,2,1,two-reports,,Asia,Asia,,yes
+Thailand,2025-H2,10.7,2,1,two-reports,,Asia,Asia,,yes
+Thailand,2026-Q1,12.4,2,1,two-reports,,Asia,Asia,,yes
+Thailand,2026-Q2,13.4,1,1,single-document,,Asia,Asia,,yes
+Turkmenistan,2025-H1,5.1,2,1,two-reports,,Asia,Asia,group 6,no
+Turkmenistan,2025-H2,5.6,2,1,two-reports,,Asia,Asia,group 6,no
+Turkmenistan,2026-Q1,6.1,2,1,two-reports,,Asia,Asia,group 6,no
+Turkmenistan,2026-Q2,6.3,1,1,single-document,,Asia,Asia,group 6,no
+Uzbekistan,2025-H1,5.7,2,1,two-reports,,Asia,Asia,,yes
+Uzbekistan,2025-H2,6.3,2,1,two-reports,,Asia,Asia,,yes
+Uzbekistan,2026-Q1,7.2,2,1,two-reports,,Asia,Asia,,yes
+Uzbekistan,2026-Q2,7.6,1,1,single-document,,Asia,Asia,,yes
+Vietnam,2025-H1,21.2,2,1,two-reports,,Asia,Asia,,yes
+Vietnam,2025-H2,23.5,2,1,two-reports,,Asia,Asia,,yes
+Vietnam,2026-Q1,26.5,2,1,two-reports,,Asia,Asia,,yes
+Vietnam,2026-Q2,27.9,1,1,single-document,,Asia,Asia,,yes
+Albania,2025-H1,15.8,2,1,two-reports,,Europe,Europe,,yes
+Albania,2025-H2,16.5,2,1,two-reports,,Europe,Europe,,yes
+Albania,2026-Q1,18.5,2,1,two-reports,,Europe,Europe,,yes
+Albania,2026-Q2,19.2,1,1,single-document,,Europe,Europe,,yes
+Austria,2025-H1,29.1,2,1,two-reports,,Europe,Europe,,yes
+Austria,2025-H2,31.4,2,1,two-reports,,Europe,Europe,,yes
+Austria,2026-Q1,34.1,2,1,two-reports,,Europe,Europe,,yes
+Austria,2026-Q2,35.4,1,1,single-document,,Europe,Europe,,yes
+Belarus,2025-H1,7.6,2,1,two-reports,,Europe,Europe,,yes
+Belarus,2025-H2,8.4,2,1,two-reports,,Europe,Europe,,yes
+Belarus,2026-Q1,9.6,2,1,two-reports,,Europe,Europe,,yes
+Belarus,2026-Q2,10.3,1,1,single-document,,Europe,Europe,,yes
+Belgium,2025-H1,33.5,2,1,two-reports,,Europe,Europe,,yes
+Belgium,2025-H2,36.0,2,1,two-reports,,Europe,Europe,,yes
+Belgium,2026-Q1,39.0,2,1,two-reports,,Europe,Europe,,yes
+Belgium,2026-Q2,40.3,1,1,single-document,,Europe,Europe,,yes
+Bosnia and Herzegovina,2025-H1,18.2,2,1,two-reports,,Europe,Europe,,yes
+Bosnia and Herzegovina,2025-H2,19.5,2,1,two-reports,,Europe,Europe,,yes
+Bosnia and Herzegovina,2026-Q1,22.1,2,1,two-reports,,Europe,Europe,,yes
+Bosnia and Herzegovina,2026-Q2,23.2,1,1,single-document,,Europe,Europe,,yes
+Bulgaria,2025-H1,25.4,2,1,two-reports,,Europe,Europe,,yes
+Bulgaria,2025-H2,27.3,2,1,two-reports,,Europe,Europe,,yes
+Bulgaria,2026-Q1,29.7,2,1,two-reports,,Europe,Europe,,yes
+Bulgaria,2026-Q2,30.7,1,1,single-document,,Europe,Europe,,yes
+Croatia,2025-H1,21.8,2,1,two-reports,,Europe,Europe,,yes
+Croatia,2025-H2,23.7,2,1,two-reports,,Europe,Europe,,yes
+Croatia,2026-Q1,26.1,2,1,two-reports,,Europe,Europe,,yes
+Croatia,2026-Q2,27.2,1,1,single-document,,Europe,Europe,,yes
+Czech Republic,2025-H1,26.0,2,1,two-reports,,Europe,Europe,,yes
+Czech Republic,2025-H2,27.8,2,1,two-reports,,Europe,Europe,,yes
+Czech Republic,2026-Q1,30.1,2,1,two-reports,,Europe,Europe,,yes
+Czech Republic,2026-Q2,31.2,1,1,single-document,,Europe,Europe,,yes
+Denmark,2025-H1,26.6,2,1,two-reports,,Europe,Europe,,yes
+Denmark,2025-H2,28.7,2,1,two-reports,,Europe,Europe,,yes
+Denmark,2026-Q1,31.2,2,1,two-reports,,Europe,Europe,,yes
+Denmark,2026-Q2,32.4,1,1,single-document,,Europe,Europe,,yes
+Finland,2025-H1,25.6,2,1,two-reports,,Europe,Europe,,yes
+Finland,2025-H2,27.3,2,1,two-reports,,Europe,Europe,,yes
+Finland,2026-Q1,29.5,2,1,two-reports,,Europe,Europe,,yes
+Finland,2026-Q2,30.6,1,1,single-document,,Europe,Europe,,yes
+France,2025-H1,40.9,2,1,two-reports,,Europe,Europe,,yes
+France,2025-H2,44.0,2,1,two-reports,,Europe,Europe,,yes
+France,2026-Q1,47.8,2,1,two-reports,,Europe,Europe,,yes
+France,2026-Q2,49.6,4,3,two-publishers,,Europe,Europe,,yes
+Germany,2025-H1,26.5,2,1,two-reports,,Europe,Europe,,yes
+Germany,2025-H2,28.6,2,1,two-reports,,Europe,Europe,,yes
+Germany,2026-Q1,31.1,2,1,two-reports,,Europe,Europe,,yes
+Germany,2026-Q2,32.3,1,1,single-document,,Europe,Europe,,yes
+Greece,2025-H1,17.7,2,1,two-reports,,Europe,Europe,,yes
+Greece,2025-H2,19.1,2,1,two-reports,,Europe,Europe,,yes
+Greece,2026-Q1,20.8,2,1,two-reports,,Europe,Europe,,yes
+Greece,2026-Q2,21.5,1,1,single-document,,Europe,Europe,,yes
+Hungary,2025-H1,27.9,2,1,two-reports,,Europe,Europe,,yes
+Hungary,2025-H2,29.8,2,1,two-reports,,Europe,Europe,,yes
+Hungary,2026-Q1,32.2,2,1,two-reports,,Europe,Europe,,yes
+Hungary,2026-Q2,33.3,1,1,single-document,,Europe,Europe,,yes
+Ireland,2025-H1,41.7,2,1,two-reports,,Europe,Europe,,yes
+Ireland,2025-H2,44.6,2,1,two-reports,,Europe,Europe,,yes
+Ireland,2026-Q1,48.4,2,1,two-reports,,Europe,Europe,,yes
+Ireland,2026-Q2,49.9,4,3,two-publishers,,Europe,Europe,,yes
+Italy,2025-H1,25.8,2,1,two-reports,,Europe,Europe,,yes
+Italy,2025-H2,27.8,2,1,two-reports,,Europe,Europe,,yes
+Italy,2026-Q1,30.2,2,1,two-reports,,Europe,Europe,,yes
+Italy,2026-Q2,31.4,2,2,two-publishers,,Europe,Europe,,yes
+Lithuania,2025-H1,21.0,2,1,two-reports,,Europe,Europe,,yes
+Lithuania,2025-H2,22.4,2,1,two-reports,,Europe,Europe,,yes
+Lithuania,2026-Q1,24.3,2,1,two-reports,,Europe,Europe,,yes
+Lithuania,2026-Q2,25.1,1,1,single-document,,Europe,Europe,,yes
+Moldova,2025-H1,16.6,2,1,two-reports,,Europe,Europe,,yes
+Moldova,2025-H2,17.0,2,1,two-reports,,Europe,Europe,,yes
+Moldova,2026-Q1,18.5,2,1,two-reports,,Europe,Europe,,yes
+Moldova,2026-Q2,19.1,1,1,single-document,,Europe,Europe,,yes
+Netherlands,2025-H1,36.3,2,1,two-reports,,Europe,Europe,,yes
+Netherlands,2025-H2,38.9,2,1,two-reports,,Europe,Europe,,yes
+Netherlands,2026-Q1,42.1,2,1,two-reports,,Europe,Europe,,yes
+Netherlands,2026-Q2,43.5,2,2,two-publishers,,Europe,Europe,,yes
+Norway,2025-H1,45.3,2,1,two-reports,,Europe,Europe,,yes
+Norway,2025-H2,46.4,2,1,two-reports,,Europe,Europe,,yes
+Norway,2026-Q1,48.6,2,1,two-reports,,Europe,Europe,,yes
+Norway,2026-Q2,49.4,3,2,two-publishers,,Europe,Europe,,yes
+Poland,2025-H1,26.4,2,1,two-reports,,Europe,Europe,,yes
+Poland,2025-H2,28.5,2,1,two-reports,,Europe,Europe,,yes
+Poland,2026-Q1,31.0,2,1,two-reports,,Europe,Europe,,yes
+Poland,2026-Q2,32.3,1,1,single-document,,Europe,Europe,,yes
+Portugal,2025-H1,22.4,2,1,two-reports,,Europe,Europe,,yes
+Portugal,2025-H2,24.2,2,1,two-reports,,Europe,Europe,,yes
+Portugal,2026-Q1,26.4,2,1,two-reports,,Europe,Europe,,yes
+Portugal,2026-Q2,27.4,1,1,single-document,,Europe,Europe,,yes
+Romania,2025-H1,15.3,2,1,two-reports,,Europe,Europe,,yes
+Romania,2025-H2,16.2,2,1,two-reports,,Europe,Europe,,yes
+Romania,2026-Q1,17.5,2,1,two-reports,,Europe,Europe,,yes
+Romania,2026-Q2,18.0,1,1,single-document,,Europe,Europe,,yes
+Russia,2025-H1,7.6,2,1,two-reports,,Europe,Europe,,yes
+Russia,2025-H2,8.0,2,1,two-reports,,Europe,Europe,,yes
+Russia,2026-Q1,9.5,2,1,two-reports,,Europe,Europe,,yes
+Russia,2026-Q2,9.9,1,1,single-document,,Europe,Europe,,yes
+Serbia,2025-H1,19.7,2,1,two-reports,,Europe,Europe,,yes
+Serbia,2025-H2,21.5,2,1,two-reports,,Europe,Europe,,yes
+Serbia,2026-Q1,24.1,2,1,two-reports,,Europe,Europe,,yes
+Serbia,2026-Q2,25.3,1,1,single-document,,Europe,Europe,,yes
+Slovak Republic,2025-H1,22.1,2,1,two-reports,,Europe,Europe,,yes
+Slovak Republic,2025-H2,23.8,2,1,two-reports,,Europe,Europe,,yes
+Slovak Republic,2026-Q1,26.1,2,1,two-reports,,Europe,Europe,,yes
+Slovak Republic,2026-Q2,27.1,1,1,single-document,,Europe,Europe,,yes
+Slovenia,2025-H1,24.6,2,1,two-reports,,Europe,Europe,,yes
+Slovenia,2025-H2,26.5,2,1,two-reports,,Europe,Europe,,yes
+Slovenia,2026-Q1,29.0,2,1,two-reports,,Europe,Europe,,yes
+Slovenia,2026-Q2,30.1,1,1,single-document,,Europe,Europe,,yes
+Spain,2025-H1,39.7,2,1,two-reports,,Europe,Europe,,yes
+Spain,2025-H2,41.8,2,1,two-reports,,Europe,Europe,,yes
+Spain,2026-Q1,44.2,2,1,two-reports,,Europe,Europe,,yes
+Spain,2026-Q2,45.1,2,2,two-publishers,,Europe,Europe,,yes
+Sweden,2025-H1,31.2,2,1,two-reports,,Europe,Europe,,yes
+Sweden,2025-H2,33.3,2,1,two-reports,,Europe,Europe,,yes
+Sweden,2026-Q1,36.1,2,1,two-reports,,Europe,Europe,,yes
+Sweden,2026-Q2,37.3,1,1,single-document,,Europe,Europe,,yes
+Switzerland,2025-H1,32.4,2,1,two-reports,,Europe,Europe,,yes
+Switzerland,2025-H2,34.8,2,1,two-reports,,Europe,Europe,,yes
+Switzerland,2026-Q1,37.8,3,1,two-reports,,Europe,Europe,,yes
+Switzerland,2026-Q2,39.1,3,2,two-publishers,,Europe,Europe,,yes
+Ukraine,2025-H1,9.1,2,1,two-reports,,Europe,Europe,,yes
+Ukraine,2025-H2,9.0,2,1,two-reports,,Europe,Europe,,yes
+Ukraine,2026-Q1,9.5,2,1,revised,9.5,Europe,Europe,,yes
+Ukraine,2026-Q2,9.5,1,1,single-document,,Europe,Europe,,yes
+United Kingdom,2025-H1,36.4,2,1,two-reports,,Europe,Europe,,yes
+United Kingdom,2025-H2,38.9,2,1,two-reports,,Europe,Europe,,yes
+United Kingdom,2026-Q1,42.2,2,1,two-reports,,Europe,Europe,,yes
+United Kingdom,2026-Q2,43.7,2,2,two-publishers,,Europe,Europe,,yes
+Kuwait,2025-H1,17.7,2,1,two-reports,,Middle East,Gulf,,yes
+Kuwait,2025-H2,19.1,2,1,two-reports,,Middle East,Gulf,,yes
+Kuwait,2026-Q1,21.1,2,1,two-reports,,Middle East,Gulf,,yes
+Kuwait,2026-Q2,22.6,1,1,single-document,,Middle East,Gulf,,yes
+Oman,2025-H1,22.6,2,1,two-reports,,Middle East,Gulf,,yes
+Oman,2025-H2,24.2,2,1,two-reports,,Middle East,Gulf,,yes
+Oman,2026-Q1,26.5,2,1,two-reports,,Middle East,Gulf,,yes
+Oman,2026-Q2,27.6,1,1,single-document,,Middle East,Gulf,,yes
+Qatar,2025-H1,35.7,3,2,two-publishers,,Middle East,Gulf,,yes
+Qatar,2025-H2,38.3,4,3,two-publishers,,Middle East,Gulf,,yes
+Qatar,2026-Q1,41.8,4,3,two-publishers,,Middle East,Gulf,,yes
+Qatar,2026-Q2,43.5,3,3,two-publishers,,Middle East,Gulf,,yes
+Saudi Arabia,2025-H1,23.7,2,1,two-reports,,Middle East,Gulf,,yes
+Saudi Arabia,2025-H2,26.2,2,1,two-reports,,Middle East,Gulf,,yes
+Saudi Arabia,2026-Q1,29.4,3,2,two-publishers,,Middle East,Gulf,,yes
+Saudi Arabia,2026-Q2,31.4,3,3,two-publishers,,Middle East,Gulf,,yes
+United Arab Emirates,2025-H1,59.4,2,1,two-reports,,Middle East,Gulf,,yes
+United Arab Emirates,2025-H2,64.0,3,2,two-publishers,,Middle East,Gulf,,yes
+United Arab Emirates,2026-Q1,70.1,5,3,two-publishers,,Middle East,Gulf,,yes
+United Arab Emirates,2026-Q2,73.3,5,4,two-publishers,,Middle East,Gulf,,yes
+Iran,2025-H1,9.6,2,1,two-reports,,Middle East,Iran and Turkey,,yes
+Iran,2025-H2,10.7,2,1,two-reports,,Middle East,Iran and Turkey,,yes
+Iran,2026-Q1,12.6,2,1,two-reports,,Middle East,Iran and Turkey,,yes
+Iran,2026-Q2,12.8,1,1,single-document,,Middle East,Iran and Turkey,,yes
+Turkey,2025-H1,13.4,2,1,two-reports,,Middle East,Iran and Turkey,,yes
+Turkey,2025-H2,14.6,2,1,two-reports,,Middle East,Iran and Turkey,,yes
+Turkey,2026-Q1,17.4,2,1,two-reports,,Middle East,Iran and Turkey,,yes
+Turkey,2026-Q2,18.9,1,1,single-document,,Middle East,Iran and Turkey,,yes
+Iraq,2025-H1,10.3,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Iraq,2025-H2,11.2,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Iraq,2026-Q1,12.5,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Iraq,2026-Q2,13.0,1,1,single-document,,Middle East,Levant and Iraq,,yes
+Israel,2025-H1,33.9,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Israel,2025-H2,36.1,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Israel,2026-Q1,38.1,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Israel,2026-Q2,38.7,2,2,two-publishers,,Middle East,Levant and Iraq,,yes
+Jordan,2025-H1,25.4,3,2,two-publishers,,Middle East,Levant and Iraq,,yes
+Jordan,2025-H2,27.0,3,2,two-publishers,,Middle East,Levant and Iraq,,yes
+Jordan,2026-Q1,29.7,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Jordan,2026-Q2,31.2,1,1,single-document,,Middle East,Levant and Iraq,,yes
+Lebanon,2025-H1,24.8,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Lebanon,2025-H2,25.7,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Lebanon,2026-Q1,27.3,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Lebanon,2026-Q2,27.7,1,1,single-document,,Middle East,Levant and Iraq,,yes
+Syria,2025-H1,6.7,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Syria,2025-H2,7.1,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Syria,2026-Q1,7.5,2,1,two-reports,,Middle East,Levant and Iraq,,yes
+Syria,2026-Q2,7.4,1,1,single-document,,Middle East,Levant and Iraq,,yes
+Algeria,2025-H1,11.3,2,1,two-reports,,Middle East,North Africa,,yes
+Algeria,2025-H2,12.0,2,1,two-reports,,Middle East,North Africa,,yes
+Algeria,2026-Q1,13.3,2,1,revised,13.3,Middle East,North Africa,,yes
+Algeria,2026-Q2,13.8,1,1,single-document,,Middle East,North Africa,,yes
+Egypt,2025-H1,12.5,2,1,two-reports,,Middle East,North Africa,,yes
+Egypt,2025-H2,13.4,3,2,two-publishers,,Middle East,North Africa,,yes
+Egypt,2026-Q1,14.8,3,2,two-publishers,,Middle East,North Africa,,yes
+Egypt,2026-Q2,15.5,1,1,single-document,,Middle East,North Africa,,yes
+Libya,2025-H1,12.7,2,1,two-reports,,Middle East,North Africa,,yes
+Libya,2025-H2,13.7,2,1,two-reports,,Middle East,North Africa,,yes
+Libya,2026-Q1,15.0,2,1,two-reports,,Middle East,North Africa,,yes
+Libya,2026-Q2,15.5,1,1,single-document,,Middle East,North Africa,,yes
+Morocco,2025-H1,10.5,2,1,two-reports,,Middle East,North Africa,,yes
+Morocco,2025-H2,10.9,2,1,two-reports,,Middle East,North Africa,,yes
+Morocco,2026-Q1,11.7,2,1,two-reports,,Middle East,North Africa,,yes
+Morocco,2026-Q2,12.0,1,1,single-document,,Middle East,North Africa,,yes
+Tunisia,2025-H1,12.3,2,1,two-reports,,Middle East,North Africa,,yes
+Tunisia,2025-H2,12.7,2,1,two-reports,,Middle East,North Africa,,yes
+Tunisia,2026-Q1,13.5,2,1,two-reports,,Middle East,North Africa,,yes
+Tunisia,2026-Q2,13.9,1,1,single-document,,Middle East,North Africa,,yes
+Australia,2025-H1,34.5,2,1,two-reports,,Oceania,Oceania,,yes
+Australia,2025-H2,36.9,2,1,two-reports,,Oceania,Oceania,,yes
+Australia,2026-Q1,39.5,2,1,two-reports,,Oceania,Oceania,,yes
+Australia,2026-Q2,40.7,2,2,two-publishers,,Oceania,Oceania,,yes
+New Zealand,2025-H1,37.6,2,1,two-reports,,Oceania,Oceania,,yes
+New Zealand,2025-H2,40.5,2,1,two-reports,,Oceania,Oceania,,yes
+New Zealand,2026-Q1,43.0,2,1,two-reports,,Oceania,Oceania,,yes
+New Zealand,2026-Q2,44.1,2,2,two-publishers,,Oceania,Oceania,,yes
+Papua New Guinea,2025-H1,7.2,2,1,two-reports,,Oceania,Oceania,,yes
+Papua New Guinea,2025-H2,7.3,2,1,two-reports,,Oceania,Oceania,,yes
+Papua New Guinea,2026-Q1,7.7,2,1,two-reports,,Oceania,Oceania,,yes
+Papua New Guinea,2026-Q2,7.6,1,1,single-document,,Oceania,Oceania,,yes
+Angola,2025-H1,8.9,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Angola,2025-H2,9.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Angola,2026-Q1,10.9,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Angola,2026-Q2,11.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Benin,2025-H1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Benin,2025-H2,9.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Benin,2026-Q1,10.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Benin,2026-Q2,10.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Botswana,2025-H1,12.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Botswana,2025-H2,13.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Botswana,2026-Q1,14.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Botswana,2026-Q2,15.0,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Burkina Faso,2025-H1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Burkina Faso,2025-H2,9.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Burkina Faso,2026-Q1,10.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Burkina Faso,2026-Q2,10.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Burundi,2025-H1,6.4,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Burundi,2025-H2,6.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Burundi,2026-Q1,7.6,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Burundi,2026-Q2,8.0,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Cameroon,2025-H1,7.0,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Cameroon,2025-H2,7.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Cameroon,2026-Q1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Cameroon,2026-Q2,9.1,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Central African Republic,2025-H1,7.0,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Central African Republic,2025-H2,7.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Central African Republic,2026-Q1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Central African Republic,2026-Q2,9.1,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Chad,2025-H1,7.0,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Chad,2025-H2,7.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Chad,2026-Q1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Chad,2026-Q2,9.1,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Congo,2025-H1,7.0,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Congo,2025-H2,7.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Congo,2026-Q1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Congo,2026-Q2,9.1,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Cote d'Ivoire,2025-H1,10.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Cote d'Ivoire,2025-H2,11.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Cote d'Ivoire,2026-Q1,13.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Cote d'Ivoire,2026-Q2,13.7,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Democratic Republic of the Congo,2025-H1,7.0,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Democratic Republic of the Congo,2025-H2,7.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Democratic Republic of the Congo,2026-Q1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Democratic Republic of the Congo,2026-Q2,9.1,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 4,no
+Eritrea,2025-H1,6.4,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Eritrea,2025-H2,6.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Eritrea,2026-Q1,7.6,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Eritrea,2026-Q2,8.0,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Ethiopia,2025-H1,6.4,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Ethiopia,2025-H2,6.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Ethiopia,2026-Q1,7.6,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Ethiopia,2026-Q2,8.0,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Gabon,2025-H1,12.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Gabon,2025-H2,13.4,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Gabon,2026-Q1,15.0,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Gabon,2026-Q2,15.7,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Gambia,2025-H1,10.6,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Gambia,2025-H2,10.9,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Gambia,2026-Q1,11.5,2,1,revised,11.5,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Gambia,2026-Q2,11.5,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Ghana,2025-H1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Ghana,2025-H2,9.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Ghana,2026-Q1,10.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Ghana,2026-Q2,10.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Guinea,2025-H1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Guinea,2025-H2,9.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Guinea,2026-Q1,10.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Guinea,2026-Q2,10.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Guinea-Bissau,2025-H1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Guinea-Bissau,2025-H2,9.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Guinea-Bissau,2026-Q1,10.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Guinea-Bissau,2026-Q2,10.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Kenya,2025-H1,7.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Kenya,2025-H2,8.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Kenya,2026-Q1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Kenya,2026-Q2,8.9,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Lesotho,2025-H1,8.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Lesotho,2025-H2,9.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Lesotho,2026-Q1,9.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Lesotho,2026-Q2,9.9,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Liberia,2025-H1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Liberia,2025-H2,9.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Liberia,2026-Q1,10.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Liberia,2026-Q2,10.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Madagascar,2025-H1,8.9,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Madagascar,2025-H2,9.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Madagascar,2026-Q1,10.9,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Madagascar,2026-Q2,11.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Malawi,2025-H1,8.9,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Malawi,2025-H2,9.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Malawi,2026-Q1,10.9,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Malawi,2026-Q2,11.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Mali,2025-H1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Mali,2025-H2,9.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Mali,2026-Q1,10.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Mali,2026-Q2,10.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Mauritania,2025-H1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Mauritania,2025-H2,9.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Mauritania,2026-Q1,10.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Mauritania,2026-Q2,10.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Mozambique,2025-H1,8.9,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Mozambique,2025-H2,9.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Mozambique,2026-Q1,10.9,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Mozambique,2026-Q2,11.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 1,no
+Namibia,2025-H1,13.0,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Namibia,2025-H2,13.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Namibia,2026-Q1,15.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Namibia,2026-Q2,15.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Niger,2025-H1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Niger,2025-H2,9.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Niger,2026-Q1,10.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Niger,2026-Q2,10.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Nigeria,2025-H1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Nigeria,2025-H2,9.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Nigeria,2026-Q1,10.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Nigeria,2026-Q2,10.4,2,2,two-publishers,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Rwanda,2025-H1,6.0,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Rwanda,2025-H2,6.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Rwanda,2026-Q1,7.2,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Rwanda,2026-Q2,7.6,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Senegal,2025-H1,12.4,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Senegal,2025-H2,12.9,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Senegal,2026-Q1,13.9,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Senegal,2026-Q2,14.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Sierra Leone,2025-H1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Sierra Leone,2025-H2,9.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Sierra Leone,2026-Q1,10.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Sierra Leone,2026-Q2,10.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Somalia,2025-H1,6.4,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Somalia,2025-H2,6.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Somalia,2026-Q1,7.6,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Somalia,2026-Q2,8.0,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+South Africa,2025-H1,19.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+South Africa,2025-H2,21.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+South Africa,2026-Q1,23.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+South Africa,2026-Q2,23.9,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+South Sudan,2025-H1,6.4,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+South Sudan,2025-H2,6.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+South Sudan,2026-Q1,7.6,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+South Sudan,2026-Q2,8.0,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Sudan,2025-H1,6.4,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Sudan,2025-H2,6.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Sudan,2026-Q1,7.6,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Sudan,2026-Q2,8.0,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Tanzania,2025-H1,6.4,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Tanzania,2025-H2,6.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Tanzania,2026-Q1,7.6,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Tanzania,2026-Q2,8.0,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Togo,2025-H1,8.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Togo,2025-H2,9.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Togo,2026-Q1,10.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Togo,2026-Q2,10.4,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 3,no
+Uganda,2025-H1,6.4,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Uganda,2025-H2,6.8,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Uganda,2026-Q1,7.6,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Uganda,2026-Q2,8.0,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,group 5,no
+Zambia,2025-H1,11.7,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Zambia,2025-H2,12.3,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Zambia,2026-Q1,13.1,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Zambia,2026-Q2,13.3,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Zimbabwe,2025-H1,6.9,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Zimbabwe,2025-H2,7.6,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Zimbabwe,2026-Q1,8.5,2,1,two-reports,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
+Zimbabwe,2026-Q2,8.9,1,1,single-document,,Sub-Saharan Africa,Sub-Saharan Africa,,yes
