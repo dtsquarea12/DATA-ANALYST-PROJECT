@@ -1,0 +1,19 @@
+check,published_value,note,computed_value,result
+jurisdictions_in_table,226.0,Jurisdictions surveyed,226.0,match
+mean_rate_all_jurisdictions_pct,22.35,Average rate across 226 jurisdictions,22.35,match
+jurisdictions_no_corporate_income_tax,15.0,Table 4,15.0,match
+jurisdictions_at_or_below_20_pct,80.0,Distribution section,80.0,match
+jurisdictions_above_20_to_30_pct,126.0,Distribution section,126.0,match
+jurisdictions_at_or_below_30_pct,206.0,Distribution section,206.0,match
+jurisdictions_above_30_to_35_pct,16.0,Distribution section,16.0,match
+jurisdictions_above_35_pct,4.0,Distribution section,4.0,match
+world_mean_181_jurisdictions_pct,23.58,Unweighted average of the 181 jurisdictions with GDP data,,not recomputed (needs GDP data)
+world_gdp_weighted_mean_181_pct,26.04,GDP-weighted average of the 181 jurisdictions,,not recomputed (needs GDP data)
+world_mean_1980_pct,40.18,Unweighted average in 1980,,not recomputed (needs GDP data)
+africa_mean_pct,27.18,Table 5 (51 countries),,not recomputed (needs GDP data)
+asia_mean_pct,19.74,Table 5 (47 countries),,not recomputed (needs GDP data)
+europe_mean_pct,20.65,Table 5 (39 countries),,not recomputed (needs GDP data)
+north_america_mean_pct,25.59,Table 5 (24 countries),,not recomputed (needs GDP data)
+oceania_mean_pct,24.38,Table 5 (8 countries),,not recomputed (needs GDP data)
+south_america_mean_pct,28.38,Table 5 (12 countries),,not recomputed (needs GDP data)
+uae_rank_lowest_nonzero,4.0,Table 3 (printed order; tied with Barbados and Hungary at 9%),4.0,match

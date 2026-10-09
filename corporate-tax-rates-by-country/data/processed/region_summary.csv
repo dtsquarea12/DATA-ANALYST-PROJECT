@@ -1,0 +1,13 @@
+level,group,jurisdictions,mean_rate_pct,median_rate_pct,min_rate_pct,max_rate_pct,at_or_below_15_pct,confirmed
+region,Middle East,20,18.82,20.0,0.0,34.0,7,16
+region,Europe,51,18.59,20.0,0.0,36.13,17,40
+region,Rest of Asia,33,20.87,20.0,8.0,30.0,6,25
+region,Rest of Africa,50,27.67,27.75,15.0,50.0,2,32
+region,North America,38,21.52,25.68,0.0,37.5,9,16
+region,South America,13,28.19,27.0,10.0,36.0,1,11
+region,Oceania,21,22.43,25.0,0.0,34.0,4,10
+middle_east_sub_region,Gulf,6,11.5,12.5,0.0,20.0,5,6
+middle_east_sub_region,"Iran, Turkey and Yemen",3,23.33,25.0,20.0,25.0,0,1
+middle_east_sub_region,Levant and Iraq,6,19.17,18.5,15.0,25.0,2,5
+middle_east_sub_region,North Africa,5,24.5,22.5,20.0,34.0,0,4
+world,All 226 jurisdictions,226,22.35,25.0,0.0,50.0,46,150

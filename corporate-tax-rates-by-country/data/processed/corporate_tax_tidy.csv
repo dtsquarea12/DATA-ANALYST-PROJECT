@@ -1,0 +1,227 @@
+iso3,country,region,sub_region,rate_2025_pct,rate_with_min_tax_2025_pct,min_tax_uplift_pts,rank_lowest,rank_highest,pwc_rate_2026_pct,te_rate_2026_pct,check_status,pwc_text,name_in_source
+BHR,Bahrain,Middle East,Gulf,0.0,15.0,15.0,1,212,0.0,0.0,confirmed,46 for oil corps; 0 for other corps; 15% DMTT may apply,Bahrain
+ARE,United Arab Emirates,Middle East,Gulf,9.0,15.0,6.0,17,208,9.0,9.0,confirmed,9,United Arab Emirates
+QAT,Qatar,Middle East,Gulf,10.0,15.0,5.0,20,199,10.0,10.0,confirmed,10 (minimum 35 for petrochemical/petroleum companies),Qatar
+KWT,Kuwait,Middle East,Gulf,15.0,15.0,0.0,34,181,15.0,15.0,confirmed,15 flat,Kuwait
+OMN,Oman,Middle East,Gulf,15.0,15.0,0.0,34,181,15.0,15.0,confirmed,15,Oman
+SAU,Saudi Arabia,Middle East,Gulf,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Saudi Arabia
+YEM,Yemen,Middle East,"Iran, Turkey and Yemen",20.0,20.0,0.0,61,147,,,single-source,,Yemen
+IRN,Iran,Middle East,"Iran, Turkey and Yemen",25.0,25.0,0.0,103,83,,,single-source,,Islamic Republic of Iran
+TUR,Turkey,Middle East,"Iran, Turkey and Yemen",25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25 (30 for financial sector companies),Turkey
+IRQ,Iraq,Middle East,Levant and Iraq,15.0,15.0,0.0,34,181,15.0,15.0,confirmed,15 (35 for certain oil and gas companies),Iraq
+PSE,Palestine,Middle East,Levant and Iraq,15.0,15.0,0.0,34,181,15.0,,confirmed,15 (20 for telecom and franchise or monopoly companies),State of Palestine
+LBN,Lebanon,Middle East,Levant and Iraq,17.0,17.0,0.0,50,175,17.0,17.0,confirmed,17,Lebanon
+JOR,Jordan,Middle East,Levant and Iraq,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,"Banks 35; telecom, insurance, financial intermediaries, mining, electricity 24; other 20; plus national contribution tax",Jordan
+ISR,Israel,Middle East,Levant and Iraq,23.0,23.0,0.0,97,129,23.0,23.0,confirmed,23,Israel
+SYR,Syria,Middle East,Levant and Iraq,25.0,25.0,0.0,103,83,,28.0,differs,,Syrian Arab Republic
+LBY,Libya,Middle East,North Africa,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Libya
+TUN,Tunisia,Middle East,North Africa,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Tunisia
+EGY,Egypt,Middle East,North Africa,22.5,22.5,0.0,96,131,22.5,22.5,confirmed,22.5,Egypt
+DZA,Algeria,Middle East,North Africa,26.0,26.0,0.0,150,76,,26.0,confirmed,,Algeria
+MAR,Morocco,Middle East,North Africa,34.0,34.0,0.0,212,12,35.0,35.0,differs,35,Morocco
+GGY,Guernsey,Europe,Europe,0.0,15.0,15.0,1,212,0.0,,confirmed,"0; 10 for specified financial and related businesses; 20 for property, hydrocarbons, retail over GBP 500,000, cannabis",Guernsey
+IMN,Isle of Man,Europe,Europe,0.0,15.0,15.0,1,212,0.0,0.0,confirmed,"Corporate 0; banks and retail over GBP 500,000: 10; real estate and petroleum extraction: 20; Pillar 2 minimum 15",Isle of Man
+JEY,Jersey,Europe,Europe,0.0,15.0,15.0,1,212,0.0,,confirmed,"0; 10 for certain financial services; 20 for utilities, large retailers, cannabis; rent 20",Jersey
+HUN,Hungary,Europe,Europe,9.0,15.0,6.0,17,208,9.0,9.0,confirmed,9,Hungary
+AND,Andorra,Europe,Europe,10.0,10.0,0.0,20,199,,,single-source,,Andorra
+BIH,Bosnia and Herzegovina,Europe,Europe,10.0,10.0,0.0,20,199,10.0,10.0,confirmed,10,Bosnia and Herzegovina
+BGR,Bulgaria,Europe,Europe,10.0,15.0,5.0,20,199,10.0,10.0,confirmed,10,Bulgaria
+XKX,Kosovo,Europe,Europe,10.0,10.0,0.0,20,199,10.0,10.0,confirmed,10,Republic of Kosovo
+MKD,North Macedonia,Europe,Europe,10.0,15.0,5.0,20,199,10.0,10.0,confirmed,10,North Macedonia
+MDA,Moldova,Europe,Europe,12.0,12.0,0.0,29,197,12.0,12.0,confirmed,12,Republic of Moldova
+CYP,Cyprus,Europe,Europe,12.5,15.0,2.5,31,194,15.0,12.5,confirmed,15 from 1 January 2026 (12.5 up to 31 December 2025),Cyprus
+IRL,Ireland,Europe,Europe,12.5,15.0,2.5,31,194,12.5,12.5,confirmed,Trading 12.5; non-trading 25,Ireland
+LIE,Liechtenstein,Europe,Europe,12.5,15.0,2.5,31,194,12.5,12.5,confirmed,12.5,Liechtenstein
+ALB,Albania,Europe,Europe,15.0,15.0,0.0,34,181,15.0,15.0,confirmed,15,Albania
+GIB,Gibraltar,Europe,Europe,15.0,15.0,0.0,34,181,15.0,,confirmed,15 from 1 July 2024 (12.5 before); utilities/energy and dominant-position abusers 20,Gibraltar
+MNE,Montenegro,Europe,Europe,15.0,15.0,0.0,34,181,15.0,15.0,confirmed,15,Montenegro
+SRB,Serbia,Europe,Europe,15.0,15.0,0.0,34,181,15.0,15.0,confirmed,15,Serbia
+LTU,Lithuania,Europe,Europe,16.0,16.0,0.0,47,179,17.0,17.0,differs,17,Lithuania
+ROU,Romania,Europe,Europe,16.0,16.0,0.0,47,179,16.0,16.0,confirmed,16,Romania
+SMR,San Marino,Europe,Europe,17.0,17.0,0.0,50,175,,,single-source,,San Marino
+HRV,Croatia,Europe,Europe,18.0,18.0,0.0,53,170,18.0,18.0,confirmed,18 (10 for companies with revenues of EUR 1 million or less),Croatia
+FRO,Faroe Islands,Europe,Europe,18.0,18.0,0.0,53,170,,,single-source,,Faroe Islands
+UKR,Ukraine,Europe,Europe,18.0,18.0,0.0,53,170,18.0,18.0,confirmed,General 18; financial institutions (except insurers) from 2025: 25; banks (2026): 50,Ukraine
+POL,Poland,Europe,Europe,19.0,,,59,168,19.0,19.0,confirmed,19,Poland
+CHE,Switzerland,Europe,Europe,19.61,19.61,0.0,60,167,,14.4,differs,Federal 8.5 on profit after tax (7.83 before tax); overall 11.66 to 20.54 with cantonal and communal CIT,Switzerland
+ALA,Aland Islands,Europe,Europe,20.0,20.0,0.0,61,147,,,single-source,,Aland Islands
+FIN,Finland,Europe,Europe,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Finland
+ISL,Iceland,Europe,Europe,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Iceland
+LVA,Latvia,Europe,Europe,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20 (payable only when profits are distributed),Latvia
+SWE,Sweden,Europe,Europe,20.6,20.6,0.0,81,146,20.6,20.6,confirmed,20.6,Sweden
+CZE,Czechia,Europe,Europe,21.0,21.0,0.0,82,143,21.0,21.0,confirmed,21 for tax periods from 2024 (19 before),Czechia
+DNK,Denmark,Europe,Europe,22.0,22.0,0.0,86,132,22.0,22.0,confirmed,22,Denmark
+EST,Estonia,Europe,Europe,22.0,22.0,0.0,86,132,22.0,22.0,confirmed,22 (undistributed profits tax exempt),Estonia
+GRC,Greece,Europe,Europe,22.0,22.0,0.0,86,132,22.0,22.0,confirmed,22,Greece
+NOR,Norway,Europe,Europe,22.0,22.0,0.0,86,132,22.0,22.0,confirmed,22 (25 for certain financial sector companies),Norway
+SVN,Slovenia,Europe,Europe,22.0,22.0,0.0,86,132,22.0,22.0,confirmed,22,Slovenia
+AUT,Austria,Europe,Europe,23.0,23.0,0.0,97,129,23.0,23.0,confirmed,23,Austria
+LUX,Luxembourg,Europe,Europe,23.87,23.87,0.0,100,127,23.87,23.87,confirmed,"23.87 combined (CIT, solidarity surtax, municipal business tax) from FY2025 (previously 24.94)",Luxembourg
+SVK,Slovakia,Europe,Europe,24.0,24.0,0.0,101,125,24.0,24.0,confirmed,24,Slovakia
+BLR,Belarus,Europe,Europe,25.0,25.0,0.0,103,83,,25.0,confirmed,,Belarus
+BEL,Belgium,Europe,Europe,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,Belgium
+MCO,Monaco,Europe,Europe,25.0,25.0,0.0,103,83,,,single-source,,Monaco
+RUS,Russia,Europe,Europe,25.0,25.0,0.0,103,83,,25.0,confirmed,,Russian Federation
+ESP,Spain,Europe,Europe,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,Spain
+GBR,United Kingdom,Europe,Europe,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,United Kingdom
+NLD,Netherlands,Europe,Europe,25.8,25.8,0.0,147,79,25.8,25.8,confirmed,25.8,Netherlands
+ITA,Italy,Europe,Europe,27.81,27.81,0.0,162,65,24.0,24.0,differs,24,Italy
+DEU,Germany,Europe,Europe,30.06,30.06,0.0,207,20,,30.0,differs,CIT/solidarity surcharge 15.825; trade tax 8.75 to 20.3 by location,Germany
+PRT,Portugal,Europe,Europe,30.5,30.5,0.0,208,19,19.0,19.0,differs,19,Portugal
+MLT,Malta,Europe,Europe,35.0,35.0,0.0,217,5,35.0,35.0,confirmed,35,Malta
+FRA,France,Europe,Europe,36.13,36.13,0.0,224,3,25.0,25.0,differs,25,France
+TKM,Turkmenistan,Rest of Asia,Rest of Asia,8.0,8.0,0.0,16,211,,,single-source,,Turkmenistan
+KGZ,Kyrgyzstan,Rest of Asia,Rest of Asia,10.0,10.0,0.0,20,199,,,single-source,,Kyrgyzstan
+MAC,Macao,Rest of Asia,Rest of Asia,12.0,12.0,0.0,29,197,12.0,12.0,confirmed,12,"China, Macao Special Administrative Region"
+GEO,Georgia,Rest of Asia,Rest of Asia,15.0,15.0,0.0,34,181,15.0,15.0,confirmed,"15 (20 for banks, credit unions, microfinance and loan providers)",Georgia
+MDV,Maldives,Rest of Asia,Rest of Asia,15.0,15.0,0.0,34,181,,15.0,confirmed,,Maldives
+UZB,Uzbekistan,Rest of Asia,Rest of Asia,15.0,15.0,0.0,34,181,15.0,15.0,confirmed,15,Uzbekistan
+HKG,Hong Kong,Rest of Asia,Rest of Asia,16.5,16.5,0.0,49,178,16.5,16.5,confirmed,16.5 corporations; 15 unincorporated businesses,"China, Hong Kong Special Administrative Region"
+SGP,Singapore,Rest of Asia,Rest of Asia,17.0,17.0,0.0,50,175,17.0,17.0,confirmed,17,Singapore
+ARM,Armenia,Rest of Asia,Rest of Asia,18.0,18.0,0.0,53,170,18.0,18.0,confirmed,18,Armenia
+TJK,Tajikistan,Rest of Asia,Rest of Asia,18.0,18.0,0.0,53,170,,,single-source,,Tajikistan
+BRN,Brunei,Rest of Asia,Rest of Asia,18.5,18.5,0.0,58,169,18.5,18.5,confirmed,18.5; 55 on petroleum operations,Brunei Darussalam
+AFG,Afghanistan,Rest of Asia,Rest of Asia,20.0,20.0,0.0,61,147,,20.0,confirmed,,Afghanistan
+AZE,Azerbaijan,Rest of Asia,Rest of Asia,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Azerbaijan
+KHM,Cambodia,Rest of Asia,Rest of Asia,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Cambodia
+KAZ,Kazakhstan,Rest of Asia,Rest of Asia,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Kazakhstan
+LAO,Laos,Rest of Asia,Rest of Asia,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Lao People's Democratic Republic
+TWN,Taiwan,Rest of Asia,Rest of Asia,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Taiwan
+THA,Thailand,Rest of Asia,Rest of Asia,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Thailand
+VNM,Vietnam,Rest of Asia,Rest of Asia,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Viet Nam
+IDN,Indonesia,Rest of Asia,Rest of Asia,22.0,22.0,0.0,86,132,22.0,22.0,confirmed,22,Indonesia
+MMR,Myanmar,Rest of Asia,Rest of Asia,22.0,22.0,0.0,86,132,22.0,22.0,confirmed,22,Myanmar
+MYS,Malaysia,Rest of Asia,Rest of Asia,24.0,24.0,0.0,101,125,24.0,24.0,confirmed,24,Malaysia
+BTN,Bhutan,Rest of Asia,Rest of Asia,25.0,25.0,0.0,103,83,,,single-source,,Bhutan
+CHN,China,Rest of Asia,Rest of Asia,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,China
+MNG,Mongolia,Rest of Asia,Rest of Asia,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,Mongolia
+NPL,Nepal,Rest of Asia,Rest of Asia,25.0,25.0,0.0,103,83,,,single-source,,Nepal
+PHL,Philippines,Rest of Asia,Rest of Asia,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,Philippines
+KOR,South Korea,Rest of Asia,Rest of Asia,26.4,26.4,0.0,152,75,25.0,25.0,differs,25,Republic of Korea
+BGD,Bangladesh,Rest of Asia,Rest of Asia,27.5,27.5,0.0,160,66,,27.5,confirmed,"AY2026/27-AY2030/31: 25 or 22.5 (listed, under 10% paid-up capital); 22.5 or 20 (listed, 10% or more); 27.5 or 25 (non-listed); exceptions apply",Bangladesh
+PAK,Pakistan,Rest of Asia,Rest of Asia,29.0,29.0,0.0,168,59,29.0,29.0,confirmed,29,Pakistan
+JPN,Japan,Rest of Asia,Rest of Asia,29.74,29.74,0.0,170,57,23.2,31.52,differs,23.2,Japan
+IND,India,Rest of Asia,Rest of Asia,30.0,30.0,0.0,171,21,,34.94,differs,Domestic: 25 or 30 by turnover; 15 or 22 subject to conditions; foreign with PE: 35 (plus surcharge and cess),India
+LKA,Sri Lanka,Rest of Asia,Rest of Asia,30.0,30.0,0.0,171,21,,30.0,confirmed,,Sri Lanka
+MUS,Mauritius,Rest of Africa,Rest of Africa,15.0,15.0,0.0,34,181,15.0,15.0,confirmed,"15 (3 for companies exporting goods); plus Fair Share, CSR and CCR levies",Mauritius
+SOM,Somalia,Rest of Africa,Rest of Africa,15.0,15.0,0.0,34,181,,,single-source,,Somalia
+MDG,Madagascar,Rest of Africa,Rest of Africa,20.0,20.0,0.0,61,147,20.0,20.0,confirmed,20,Madagascar
+CPV,Cabo Verde,Rest of Africa,Rest of Africa,21.42,21.42,0.0,85,142,20.4,,differs,20.40 (20 + 2 surcharge),Cabo Verde
+BWA,Botswana,Rest of Africa,Rest of Africa,22.0,22.0,0.0,86,132,22.0,22.0,confirmed,22,Botswana
+AGO,Angola,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,Angola
+CIV,Cote d'Ivoire,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,Cote d'Ivoire
+DJI,Djibouti,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,,,single-source,,Djibouti
+GNQ,Equatorial Guinea,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,Equatorial Guinea
+SWZ,Eswatini,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,27.5,25.0,confirmed,27.5 (25 for year-ends from 1 July 2024),Swaziland
+GHA,Ghana,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,Ghana
+GIN,Guinea,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,,30.0,differs,,Guinea
+GNB,Guinea-Bissau,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,,,single-source,,Guinea-Bissau
+LSO,Lesotho,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,,25.0,confirmed,,Lesotho
+LBR,Liberia,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,25.0,,confirmed,25,Liberia
+MRT,Mauritania,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,Mauritania
+SHN,Saint Helena,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,,,single-source,,Saint Helena
+STP,Sao Tome and Principe,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,,,single-source,,Sao Tome and Principe
+SYC,Seychelles,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,,33.0,differs,,Seychelles
+SLE,Sierra Leone,Rest of Africa,Rest of Africa,25.0,25.0,0.0,103,83,,30.0,differs,,Sierra Leone
+ZWE,Zimbabwe,Rest of Africa,Rest of Africa,25.75,25.75,0.0,146,81,,25.75,confirmed,,Zimbabwe
+GMB,Gambia,Rest of Africa,Rest of Africa,27.0,27.0,0.0,154,68,,27.0,confirmed,,Gambia
+ZAF,South Africa,Rest of Africa,Rest of Africa,27.0,27.0,0.0,154,68,27.0,27.0,confirmed,27,South Africa
+TGO,Togo,Rest of Africa,Rest of Africa,27.0,27.0,0.0,154,68,,,single-source,,Togo
+BFA,Burkina Faso,Rest of Africa,Rest of Africa,27.5,27.5,0.0,160,66,,27.5,confirmed,,Burkina Faso
+COG,Congo (Republic),Rest of Africa,Rest of Africa,28.0,28.0,0.0,163,60,28.0,28.0,confirmed,28,Congo
+RWA,Rwanda,Rest of Africa,Rest of Africa,28.0,28.0,0.0,163,60,28.0,28.0,confirmed,28,Rwanda
+BEN,Benin,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,,30.0,confirmed,,Benin
+BDI,Burundi,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,,,single-source,,Burundi
+CAF,Central African Republic,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,,,single-source,,Central African Republic
+COD,DR Congo,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30,Democratic Republic of the Congo
+ERI,Eritrea,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,,,single-source,,Eritrea
+ETH,Ethiopia,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30,Ethiopia
+GAB,Gabon,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30 (35 for oil and gas and mining companies),Gabon
+KEN,Kenya,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,Resident 30; foreign 30,Kenya
+MWI,Malawi,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,,30.0,confirmed,,Malawi
+MLI,Mali,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,,,single-source,,Mali
+NAM,Namibia,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,31.0,28.0,differs,31 (30 for companies with financial years from 1 January 2025),Namibia
+NER,Niger,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,,,single-source,,Niger
+NGA,Nigeria,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30 for large companies; 0 for small companies,Nigeria
+SEN,Senegal,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30,Senegal
+SSD,South Sudan,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,,,single-source,,South Sudan
+TZA,Tanzania,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30,United Republic of Tanzania
+UGA,Uganda,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30,Uganda
+ZMB,Zambia,Rest of Africa,Rest of Africa,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30,Zambia
+MOZ,Mozambique,Rest of Africa,Rest of Africa,32.0,32.0,0.0,209,18,32.0,32.0,confirmed,"32 (10 for agricultural, livestock, aquaculture and urban transport)",Mozambique
+CMR,Cameroon,Rest of Africa,Rest of Africa,33.0,33.0,0.0,210,16,33.0,33.0,confirmed,33,Cameroon
+TCD,Chad,Rest of Africa,Rest of Africa,35.0,35.0,0.0,217,5,35.0,35.0,confirmed,35,Chad
+SDN,Sudan,Rest of Africa,Rest of Africa,35.0,35.0,0.0,217,5,,35.0,confirmed,,Sudan
+COM,Comoros,Rest of Africa,Rest of Africa,50.0,50.0,0.0,226,1,,,single-source,,Comoros
+AIA,Anguilla,North America,North America,0.0,0.0,0.0,1,212,,,single-source,,Anguilla
+BHS,Bahamas,North America,North America,0.0,15.0,15.0,1,212,,0.0,confirmed,,Bahamas
+BLZ,Belize,North America,North America,0.0,0.0,0.0,1,212,,,single-source,,Belize
+BMU,Bermuda,North America,North America,0.0,15.0,15.0,1,212,15.0,0.0,confirmed,15 (if subject to Bermuda CIT) or 0,Bermuda
+VGB,British Virgin Islands,North America,North America,0.0,0.0,0.0,1,212,,,single-source,,British Virgin Islands
+CYM,Cayman Islands,North America,North America,0.0,0.0,0.0,1,212,,0.0,confirmed,,Cayman Islands
+BLM,Saint Barthelemy,North America,North America,0.0,0.0,0.0,1,212,,,single-source,,Saint Barthelemy
+TCA,Turks and Caicos Islands,North America,North America,0.0,0.0,0.0,1,212,,,single-source,,Turks and Caicos Islands
+BRB,Barbados,North America,North America,9.0,15.0,6.0,17,208,9.0,5.5,confirmed,9,Barbados
+MAF,Saint Martin (French Part),North America,North America,20.0,20.0,0.0,61,147,,,single-source,,Saint Martin (French Part)
+ABW,Aruba,North America,North America,22.0,22.0,0.0,86,132,,22.0,confirmed,,Aruba
+CUW,Curacao,North America,North America,22.0,22.0,0.0,86,132,,,single-source,,Curacao
+VIR,United States Virgin Islands,North America,North America,23.1,23.1,0.0,99,128,,,single-source,,United States Virgin Islands
+ATG,Antigua and Barbuda,North America,North America,25.0,25.0,0.0,103,83,,,single-source,,Antigua and Barbuda
+DMA,Dominica,North America,North America,25.0,25.0,0.0,103,83,,,single-source,,Dominica
+GTM,Guatemala,North America,North America,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25 on net income; 7 on gross income (simplified optional system),Guatemala
+JAM,Jamaica,North America,North America,25.0,25.0,0.0,103,83,,25.0,confirmed,Regulated company 33.3; building society 30; life assurance 25; unregulated 25,Jamaica
+PAN,Panama,North America,North America,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,Panama
+USA,United States,North America,North America,25.57,25.57,0.0,145,82,,21.0,differs,"Federal 21; state 2 to 11.5 (some states none), deductible for federal",United States of America
+BES,"Bonaire, Sint Eustatius and Saba",North America,North America,25.8,25.8,0.0,147,79,,,single-source,,"Bonaire, Sint Eustatius and Saba"
+CAN,Canada,North America,North America,25.98,25.98,0.0,149,78,,26.5,differs,Federal 15; provincial/territorial 8 to 15 (not federally deductible),Canada
+GRL,Greenland,North America,North America,26.5,26.5,0.0,153,74,25.0,,differs,25 (6 surcharge on underpaid tax),Greenland
+DOM,Dominican Republic,North America,North America,27.0,27.0,0.0,154,68,27.0,27.0,confirmed,"27 (income up to RD$1 billion); 30 (transitional, FY2026-2028, income of RD$1 billion)",Dominican Republic
+GRD,Grenada,North America,North America,28.0,28.0,0.0,163,60,,,single-source,,Grenada
+VCT,Saint Vincent and the Grenadines,North America,North America,28.0,28.0,0.0,163,60,,,single-source,,Saint Vincent and the Grenadines
+CRI,Costa Rica,North America,North America,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30,Costa Rica
+SLV,El Salvador,North America,North America,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30,El Salvador
+HTI,Haiti,North America,North America,30.0,30.0,0.0,171,21,,,single-source,,Haiti
+HND,Honduras,North America,North America,30.0,30.0,0.0,171,21,25.0,25.0,differs,"25, plus 5 surcharge on net taxable income over HNL 1 million",Honduras
+MEX,Mexico,North America,North America,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30,Mexico
+MSR,Montserrat,North America,North America,30.0,30.0,0.0,171,21,,,single-source,,Montserrat
+NIC,Nicaragua,North America,North America,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30,Nicaragua
+LCA,Saint Lucia,North America,North America,30.0,30.0,0.0,171,21,30.0,,confirmed,30,Saint Lucia
+TTO,Trinidad and Tobago,North America,North America,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30 (35 for commercial banks and petrochemical companies),Trinidad and Tobago
+KNA,Saint Kitts and Nevis,North America,North America,33.0,33.0,0.0,210,16,,,single-source,,Saint Kitts and Nevis
+SXM,Sint Maarten (Dutch part),North America,North America,34.5,34.5,0.0,216,11,,,single-source,,Sint Maarten (Dutch part)
+CUB,Cuba,North America,North America,35.0,35.0,0.0,217,5,,,single-source,,Cuba
+PRI,Puerto Rico,North America,North America,37.5,37.5,0.0,225,2,37.5,37.5,confirmed,"37.5 (18.5 + 19 surtax on income over USD 275,000)",Puerto Rico
+PRY,Paraguay,South America,South America,10.0,10.0,0.0,20,199,10.0,10.0,confirmed,10,Paraguay
+BOL,Bolivia,South America,South America,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,"25 (mining, financial institutions, insurance/reinsurance have additional rate)",Plurinational State of Bolivia
+ECU,Ecuador,South America,South America,25.0,25.0,0.0,103,83,,30.0,differs,"22, 25 or 28 depending on shareholder structure and disclosure compliance",Ecuador
+GUY,Guyana,South America,South America,25.0,25.0,0.0,103,83,25.0,,confirmed,25,Guyana
+URY,Uruguay,South America,South America,25.0,25.0,0.0,103,83,25.0,25.0,confirmed,25,Uruguay
+FLK,Falkland Islands (Malvinas),South America,South America,26.0,26.0,0.0,150,76,,,single-source,,Falkland Islands (Malvinas)
+CHL,Chile,South America,South America,27.0,27.0,0.0,154,68,,27.0,confirmed,25 or 27,Chile
+PER,Peru,South America,South America,29.5,29.5,0.0,169,58,29.5,29.5,confirmed,29.5,Peru
+BRA,Brazil,South America,South America,34.0,34.0,0.0,212,12,34.0,34.0,confirmed,"34 (IRPJ 25 + CSLL 9; IRPJ 15 plus 10 over BRL 20,000/month)",Brazil
+VEN,Venezuela,South America,South America,34.0,34.0,0.0,212,12,34.0,34.0,confirmed,34,Bolivarian Republic of Venezuela
+ARG,Argentina,South America,South America,35.0,35.0,0.0,217,5,35.0,35.0,confirmed,35,Argentina
+COL,Colombia,South America,South America,35.0,35.0,0.0,217,5,35.0,35.0,confirmed,35,Colombia
+SUR,Suriname,South America,South America,36.0,36.0,0.0,223,4,,36.0,confirmed,,Suriname
+TKL,Tokelau,Oceania,Oceania,0.0,0.0,0.0,1,212,,,single-source,,Tokelau
+VUT,Vanuatu,Oceania,Oceania,0.0,0.0,0.0,1,212,,0.0,confirmed,,Vanuatu
+WLF,Wallis and Futuna Islands,Oceania,Oceania,0.0,0.0,0.0,1,212,,,single-source,,Wallis and Futuna Islands
+TLS,Timor-Leste,Oceania,Oceania,10.0,10.0,0.0,20,199,,,single-source,,Timor-Leste
+COK,Cook Islands,Oceania,Oceania,20.0,20.0,0.0,61,147,,,single-source,,Cook Islands
+GUM,Guam,Oceania,Oceania,21.0,21.0,0.0,82,143,,21.0,confirmed,,Guam
+MNP,Northern Mariana Islands,Oceania,Oceania,21.0,21.0,0.0,82,143,,,single-source,,Northern Mariana Islands
+FJI,Fiji,Oceania,Oceania,25.0,25.0,0.0,103,83,,25.0,confirmed,,Fiji
+PYF,French Polynesia,Oceania,Oceania,25.0,25.0,0.0,103,83,,,single-source,,French Polynesia
+NRU,Nauru,Oceania,Oceania,25.0,25.0,0.0,103,83,,,single-source,,Nauru
+TON,Tonga,Oceania,Oceania,25.0,25.0,0.0,103,83,,25.0,confirmed,,Tonga
+WSM,Samoa,Oceania,Oceania,27.0,27.0,0.0,154,68,,27.0,confirmed,,Samoa
+NZL,New Zealand,Oceania,Oceania,28.0,28.0,0.0,163,60,28.0,28.0,confirmed,28,New Zealand
+AUS,Australia,Oceania,Oceania,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,30 (25 for small-medium business entities),Australia
+KIR,Kiribati,Oceania,Oceania,30.0,30.0,0.0,171,21,,,single-source,,Kiribati
+FSM,Micronesia,Oceania,Oceania,30.0,30.0,0.0,171,21,,21.0,differs,,Federated States of Micronesia
+NCL,New Caledonia,Oceania,Oceania,30.0,30.0,0.0,171,21,30.0,,confirmed,30,New Caledonia
+NIU,Niue,Oceania,Oceania,30.0,30.0,0.0,171,21,,,single-source,,Niue
+PNG,Papua New Guinea,Oceania,Oceania,30.0,30.0,0.0,171,21,30.0,30.0,confirmed,Resident 30; non-resident 30,Papua New Guinea
+SLB,Solomon Islands,Oceania,Oceania,30.0,30.0,0.0,171,21,,30.0,confirmed,,Solomon Islands
+ASM,American Samoa,Oceania,Oceania,34.0,34.0,0.0,212,12,,,single-source,,American Samoa
