@@ -1,0 +1,41 @@
+iso3,country,sub_region,edition,score,rank,check
+BHR,Bahrain,Gulf,2026-04,87,51,two-publishers
+BHR,Bahrain,Gulf,2026-07,88,55,3-publishers
+KWT,Kuwait,Gulf,2026-04,96,47,two-publishers
+KWT,Kuwait,Gulf,2026-07,97,51,3-publishers
+OMN,Oman,Gulf,2026-04,84,54,two-publishers
+OMN,Oman,Gulf,2026-07,85,58,3-publishers
+QAT,Qatar,Gulf,2026-04,111,45,two-publishers
+QAT,Qatar,Gulf,2026-07,112,48,3-publishers
+SAU,Saudi Arabia,Gulf,2026-04,87,51,two-publishers
+SAU,Saudi Arabia,Gulf,2026-07,91,54,3-publishers
+ARE,United Arab Emirates,Gulf,2026-04,187,2,two-publishers
+ARE,United Arab Emirates,Gulf,2026-07,188,2,5-publishers
+IRN,Iran,"Iran, Turkey and Yemen",2026-04,38,94,two-publishers
+IRN,Iran,"Iran, Turkey and Yemen",2026-07,37,97,one-publisher
+TUR,Turkey,"Iran, Turkey and Yemen",2026-04,113,44,two-publishers
+TUR,Turkey,"Iran, Turkey and Yemen",2026-07,,,no-july-figure
+YEM,Yemen,"Iran, Turkey and Yemen",2026-04,31,98,two-publishers
+YEM,Yemen,"Iran, Turkey and Yemen",2026-07,30,,2-publishers
+IRQ,Iraq,Levant and Iraq,2026-04,29,99,two-publishers
+IRQ,Iraq,Levant and Iraq,2026-07,28,,2-publishers
+ISR,Israel,Levant and Iraq,2026-04,166,16,two-publishers
+ISR,Israel,Levant and Iraq,2026-07,,18,no-july-figure
+JOR,Jordan,Levant and Iraq,2026-04,49,84,two-publishers
+JOR,Jordan,Levant and Iraq,2026-07,49,86,one-publisher
+LBN,Lebanon,Levant and Iraq,2026-04,43,90,two-publishers
+LBN,Lebanon,Levant and Iraq,2026-07,41,93,one-publisher
+PSE,Palestine,Levant and Iraq,2026-04,38,94,two-publishers
+PSE,Palestine,Levant and Iraq,2026-07,37,,2-publishers
+SYR,Syria,Levant and Iraq,2026-04,26,100,two-publishers
+SYR,Syria,Levant and Iraq,2026-07,25,,2-publishers
+DZA,Algeria,North Africa,2026-04,55,78,two-publishers
+DZA,Algeria,North Africa,2026-07,55,81,one-publisher
+EGY,Egypt,North Africa,2026-04,49,84,two-publishers
+EGY,Egypt,North Africa,2026-07,49,86,one-publisher
+LBY,Libya,North Africa,2026-04,39,93,two-publishers
+LBY,Libya,North Africa,2026-07,39,94,one-publisher
+MAR,Morocco,North Africa,2026-04,71,63,two-publishers
+MAR,Morocco,North Africa,2026-07,71,67,one-publisher
+TUN,Tunisia,North Africa,2026-04,66,68,two-publishers
+TUN,Tunisia,North Africa,2026-07,66,71,one-publisher

@@ -1,0 +1,200 @@
+country,iso3,region
+Singapore,SGP,Rest of Asia
+Japan,JPN,Rest of Asia
+South Korea,KOR,Rest of Asia
+United Arab Emirates,ARE,Middle East
+Sweden,SWE,Europe
+Belgium,BEL,Europe
+Denmark,DNK,Europe
+Finland,FIN,Europe
+France,FRA,Europe
+Germany,DEU,Europe
+Ireland,IRL,Europe
+Italy,ITA,Europe
+Luxembourg,LUX,Europe
+Netherlands,NLD,Europe
+Norway,NOR,Europe
+Spain,ESP,Europe
+Switzerland,CHE,Europe
+Austria,AUT,Europe
+Greece,GRC,Europe
+Malta,MLT,Europe
+Portugal,PRT,Europe
+Hungary,HUN,Europe
+Malaysia,MYS,Rest of Asia
+Poland,POL,Europe
+United Kingdom,GBR,Europe
+Australia,AUS,Oceania
+Canada,CAN,North America
+Czech Republic,CZE,Europe
+Latvia,LVA,Europe
+New Zealand,NZL,Oceania
+Slovakia,SVK,Europe
+Slovenia,SVN,Europe
+Croatia,HRV,Europe
+Estonia,EST,Europe
+Liechtenstein,LIE,Europe
+Lithuania,LTU,Europe
+Iceland,ISL,Europe
+United States,USA,North America
+Bulgaria,BGR,Europe
+Romania,ROU,Europe
+Monaco,MCO,Europe
+Chile,CHL,South America
+Cyprus,CYP,Europe
+Hong Kong,HKG,Rest of Asia
+Andorra,AND,Europe
+Argentina,ARG,South America
+Brazil,BRA,South America
+Israel,ISR,Middle East
+San Marino,SMR,Europe
+Barbados,BRB,North America
+Brunei,BRN,Rest of Asia
+Bahamas,BHS,North America
+Saint Kitts and Nevis,KNA,North America
+Saint Vincent and the Grenadines,VCT,North America
+Mexico,MEX,North America
+Uruguay,URY,South America
+Antigua and Barbuda,ATG,North America
+Seychelles,SYC,Rest of Africa
+Vatican City,VAT,Europe
+Costa Rica,CRI,North America
+Grenada,GRD,North America
+Mauritius,MUS,Rest of Africa
+Panama,PAN,North America
+Dominica,DMA,North America
+Paraguay,PRY,South America
+Trinidad and Tobago,TTO,North America
+Saint Lucia,LCA,North America
+Ukraine,UKR,Europe
+Macau,MAC,Rest of Asia
+Peru,PER,South America
+Serbia,SRB,Europe
+Taiwan,TWN,Rest of Asia
+Guatemala,GTM,North America
+Solomon Islands,SLB,Oceania
+El Salvador,SLV,North America
+Colombia,COL,South America
+Honduras,HND,North America
+Samoa,WSM,Oceania
+Marshall Islands,MHL,Oceania
+Tonga,TON,Oceania
+Montenegro,MNE,Europe
+North Macedonia,MKD,Europe
+Nicaragua,NIC,North America
+Tuvalu,TUV,Oceania
+Kiribati,KIR,Oceania
+Albania,ALB,Europe
+Bosnia and Herzegovina,BIH,Europe
+Georgia,GEO,Rest of Asia
+Federated States of Micronesia,FSM,Oceania
+Palau,PLW,Oceania
+Moldova,MDA,Europe
+Venezuela,VEN,South America
+Russia,RUS,Europe
+Turkey,TUR,Middle East
+Qatar,QAT,Middle East
+Belize,BLZ,North America
+South Africa,ZAF,Rest of Africa
+Kuwait,KWT,Middle East
+Ecuador,ECU,South America
+Maldives,MDV,Rest of Asia
+Timor-Leste,TLS,Rest of Asia
+Guyana,GUY,South America
+Bahrain,BHR,Middle East
+Fiji,FJI,Oceania
+Saudi Arabia,SAU,Middle East
+Vanuatu,VUT,Oceania
+Nauru,NRU,Oceania
+Jamaica,JAM,North America
+Oman,OMN,Middle East
+Papua New Guinea,PNG,Oceania
+China,CHN,Rest of Asia
+Botswana,BWA,Rest of Africa
+Kosovo,XKX,Europe
+Kazakhstan,KAZ,Rest of Asia
+Belarus,BLR,Europe
+Bolivia,BOL,South America
+Thailand,THA,Rest of Asia
+Suriname,SUR,South America
+Namibia,NAM,Rest of Africa
+Lesotho,LSO,Rest of Africa
+Dominican Republic,DOM,North America
+Morocco,MAR,Middle East
+Eswatini,SWZ,Rest of Africa
+Indonesia,IDN,Rest of Asia
+Malawi,MWI,Rest of Africa
+Kenya,KEN,Rest of Africa
+Tanzania,TZA,Rest of Africa
+Gambia,GMB,Rest of Africa
+Azerbaijan,AZE,Rest of Asia
+Ghana,GHA,Rest of Africa
+Rwanda,RWA,Rest of Africa
+Tunisia,TUN,Middle East
+Benin,BEN,Rest of Africa
+Philippines,PHL,Rest of Asia
+Uganda,UGA,Rest of Africa
+Armenia,ARM,Rest of Asia
+Mongolia,MNG,Rest of Asia
+Zambia,ZMB,Rest of Africa
+Cape Verde,CPV,Rest of Africa
+Sierra Leone,SLE,Rest of Africa
+Zimbabwe,ZWE,Rest of Africa
+Kyrgyzstan,KGZ,Rest of Asia
+Mozambique,MOZ,Rest of Africa
+Uzbekistan,UZB,Rest of Asia
+São Tomé and Príncipe,STP,Rest of Africa
+Togo,TGO,Rest of Africa
+Burkina Faso,BFA,Rest of Africa
+Cuba,CUB,North America
+India,IND,Rest of Asia
+Senegal,SEN,Rest of Africa
+Algeria,DZA,Middle East
+Ivory Coast,CIV,Rest of Africa
+Gabon,GAB,Rest of Africa
+Madagascar,MDG,Rest of Africa
+Mauritania,MRT,Rest of Africa
+Niger,NER,Rest of Africa
+Mali,MLI,Rest of Africa
+Tajikistan,TJK,Rest of Asia
+Equatorial Guinea,GNQ,Rest of Africa
+Guinea,GIN,Rest of Africa
+Chad,TCD,Rest of Africa
+Comoros,COM,Rest of Africa
+Guinea-Bissau,GNB,Rest of Africa
+Egypt,EGY,Middle East
+Haiti,HTI,North America
+Jordan,JOR,Middle East
+Liberia,LBR,Rest of Africa
+Angola,AGO,Rest of Africa
+Burundi,BDI,Rest of Africa
+Central African Republic,CAF,Rest of Africa
+Vietnam,VNM,Rest of Asia
+Bhutan,BTN,Rest of Asia
+Cambodia,KHM,Rest of Asia
+Cameroon,CMR,Rest of Africa
+Congo,COG,Rest of Africa
+Djibouti,DJI,Rest of Africa
+Laos,LAO,Rest of Asia
+Turkmenistan,TKM,Rest of Asia
+Nigeria,NGA,Rest of Africa
+DR Congo,COD,Rest of Africa
+Lebanon,LBN,Middle East
+Ethiopia,ETH,Rest of Africa
+Myanmar,MMR,Rest of Asia
+South Sudan,SSD,Rest of Africa
+Sudan,SDN,Rest of Africa
+Libya,LBY,Middle East
+Sri Lanka,LKA,Rest of Asia
+Eritrea,ERI,Rest of Africa
+Iran,IRN,Middle East
+Palestine,PSE,Middle East
+Bangladesh,BGD,Rest of Asia
+Nepal,NPL,Rest of Asia
+North Korea,PRK,Rest of Asia
+Somalia,SOM,Rest of Africa
+Pakistan,PAK,Rest of Asia
+Yemen,YEM,Middle East
+Iraq,IRQ,Middle East
+Syria,SYR,Middle East
+Afghanistan,AFG,Rest of Asia

@@ -1,0 +1,109 @@
+edition,country,rank,visa_free_score,source_id
+2026-04,Singapore,1,192,visasnews
+2026-04,Japan,2,187,visasnews
+2026-04,South Korea,2,187,visasnews
+2026-04,United Arab Emirates,2,187,visasnews
+2026-04,Sweden,3,186,visasnews
+2026-04,Belgium,4,185,visasnews
+2026-04,Denmark,4,185,visasnews
+2026-04,Finland,4,185,visasnews
+2026-04,France,4,185,visasnews
+2026-04,Germany,4,185,visasnews
+2026-04,Ireland,4,185,visasnews
+2026-04,Italy,4,185,visasnews
+2026-04,Luxembourg,4,185,visasnews
+2026-04,Netherlands,4,185,visasnews
+2026-04,Norway,4,185,visasnews
+2026-04,Spain,4,185,visasnews
+2026-04,Switzerland,4,185,visasnews
+2026-04,Austria,5,184,visasnews
+2026-04,Greece,5,184,visasnews
+2026-04,Malta,5,184,visasnews
+2026-04,Portugal,5,184,visasnews
+2026-04,Hungary,6,183,visasnews
+2026-04,Malaysia,6,183,visasnews
+2026-04,Poland,6,183,visasnews
+2026-04,United Kingdom,6,183,visasnews
+2026-04,Australia,7,182,visasnews
+2026-04,Canada,7,182,visasnews
+2026-04,Czech Republic,7,182,visasnews
+2026-04,Latvia,7,182,visasnews
+2026-04,New Zealand,7,182,visasnews
+2026-04,Slovakia,7,182,visasnews
+2026-04,Slovenia,7,182,visasnews
+2026-04,Croatia,8,181,visasnews
+2026-04,Estonia,8,181,visasnews
+2026-04,Liechtenstein,9,180,visasnews
+2026-04,Lithuania,9,180,visasnews
+2026-04,Iceland,10,179,visasnews
+2026-04,United States,10,179,visasnews
+2026-04,Afghanistan,,23,visasnews
+2026-04,Qatar,45,111,peninsula_apr
+2026-04,Singapore,,192,peninsula_apr
+2026-04,United Arab Emirates,2,,thenational
+2026-04,Qatar,45,,thenational
+2026-04,Kuwait,47,,thenational
+2026-04,Saudi Arabia,51,,thenational
+2026-04,Bahrain,51,,thenational
+2026-04,Oman,54,,thenational
+2026-07,Singapore,1,192,henley_pr
+2026-07,United Arab Emirates,2,188,henley_pr
+2026-07,Japan,2,188,henley_pr
+2026-07,South Korea,2,188,henley_pr
+2026-07,Afghanistan,,22,henley_pr
+2026-07,Israel,18,,henley_pr
+2026-07,Singapore,,192,peninsula_jul
+2026-07,United Arab Emirates,2,188,peninsula_jul
+2026-07,Qatar,48,112,peninsula_jul
+2026-07,Kuwait,51,97,peninsula_jul
+2026-07,Saudi Arabia,54,91,peninsula_jul
+2026-07,Bahrain,55,88,peninsula_jul
+2026-07,Oman,58,85,peninsula_jul
+2026-07,Singapore,,192,marhaba_jul
+2026-07,United Arab Emirates,2,188,marhaba_jul
+2026-07,Qatar,48,112,marhaba_jul
+2026-07,Kuwait,51,97,marhaba_jul
+2026-07,Saudi Arabia,54,91,marhaba_jul
+2026-07,Bahrain,55,88,marhaba_jul
+2026-07,Oman,58,85,marhaba_jul
+2026-07,Singapore,1,192,tuniscope
+2026-07,United Arab Emirates,2,188,tuniscope
+2026-07,Japan,2,188,tuniscope
+2026-07,South Korea,2,188,tuniscope
+2026-07,Qatar,48,112,tuniscope
+2026-07,Kuwait,51,97,tuniscope
+2026-07,Saudi Arabia,54,91,tuniscope
+2026-07,Bahrain,55,88,tuniscope
+2026-07,Oman,58,85,tuniscope
+2026-07,Morocco,67,71,tuniscope
+2026-07,Tunisia,71,66,tuniscope
+2026-07,Algeria,81,55,tuniscope
+2026-07,Mauritania,81,55,tuniscope
+2026-07,Comoros,85,51,tuniscope
+2026-07,Egypt,86,49,tuniscope
+2026-07,Jordan,86,49,tuniscope
+2026-07,Djibouti,89,45,tuniscope
+2026-07,Lebanon,93,41,tuniscope
+2026-07,Sudan,93,41,tuniscope
+2026-07,Libya,94,39,tuniscope
+2026-07,Palestine,96,37,tuniscope
+2026-07,Somalia,99,32,tuniscope
+2026-07,Yemen,100,30,tuniscope
+2026-07,Iraq,102,28,tuniscope
+2026-07,Syria,103,25,tuniscope
+2026-07,Singapore,1,192,immigrationworld
+2026-07,Japan,2,188,immigrationworld
+2026-07,South Korea,2,188,immigrationworld
+2026-07,United Arab Emirates,2,188,immigrationworld
+2026-07,Afghanistan,105,22,immigrationworld
+2026-07,Syria,104,25,immigrationworld
+2026-07,Iraq,103,28,immigrationworld
+2026-07,Pakistan,102,29,immigrationworld
+2026-07,Yemen,101,30,immigrationworld
+2026-07,Somalia,100,32,immigrationworld
+2026-07,Nepal,99,34,immigrationworld
+2026-07,Bangladesh,98,35,immigrationworld
+2026-07,North Korea,98,35,immigrationworld
+2026-07,Iran,97,37,immigrationworld
+2026-07,Palestine,97,37,immigrationworld
+2026-07,Eritrea,96,38,immigrationworld

@@ -1,0 +1,5 @@
+check,published_value,computed_value,rule,result
+passports_ranked,199.0,199.0,exact,match
+gap_top_to_bottom_apr,169.0,169.0,exact,match
+gap_top_to_bottom_jul,170.0,170.0,exact,match
+world_average_score,108.0,107.21,within 1,match

@@ -1,0 +1,200 @@
+iso3,country,region,sub_region,score_apr_2026,rank_apr_2026,share_of_destinations_pct,vs_world_mean_apr,apr_check,apr_article_checks,score_jul_2026,rank_jul_2026,change_apr_to_jul,jul_check,jul_documents,jul_sources,jul_rank_note,latest_score,latest_edition,score_wikipedia,score_packzup
+ARE,United Arab Emirates,Middle East,Gulf,187,2,82.4,79.79,two-publishers,2,188,2,1,5-publishers,5,henley_pr;immigrationworld;marhaba_jul;peninsula_jul;tuniscope,,188,2026-07,187,187
+ISR,Israel,Middle East,Levant and Iraq,166,16,73.1,58.79,two-publishers,0,,18,,no-july-figure,0,,,166,2026-04,166,166
+TUR,Turkey,Middle East,"Iran, Turkey and Yemen",113,44,49.8,5.79,two-publishers,0,,,,no-july-figure,0,,,113,2026-04,113,113
+QAT,Qatar,Middle East,Gulf,111,45,48.9,3.79,two-publishers,2,112,48,1,3-publishers,3,marhaba_jul;peninsula_jul;tuniscope,,112,2026-07,111,111
+KWT,Kuwait,Middle East,Gulf,96,47,42.3,-11.21,two-publishers,1,97,51,1,3-publishers,3,marhaba_jul;peninsula_jul;tuniscope,,97,2026-07,96,96
+BHR,Bahrain,Middle East,Gulf,87,51,38.3,-20.21,two-publishers,1,88,55,1,3-publishers,3,marhaba_jul;peninsula_jul;tuniscope,,88,2026-07,87,87
+SAU,Saudi Arabia,Middle East,Gulf,87,51,38.3,-20.21,two-publishers,1,91,54,4,3-publishers,3,marhaba_jul;peninsula_jul;tuniscope,,91,2026-07,87,87
+OMN,Oman,Middle East,Gulf,84,54,37.0,-23.21,two-publishers,1,85,58,1,3-publishers,3,marhaba_jul;peninsula_jul;tuniscope,,85,2026-07,84,84
+MAR,Morocco,Middle East,North Africa,71,63,31.3,-36.21,two-publishers,0,71,67,0,one-publisher,1,tuniscope,,71,2026-07,71,71
+TUN,Tunisia,Middle East,North Africa,66,68,29.1,-41.21,two-publishers,0,66,71,0,one-publisher,1,tuniscope,,66,2026-07,66,66
+DZA,Algeria,Middle East,North Africa,55,78,24.2,-52.21,two-publishers,0,55,81,0,one-publisher,1,tuniscope,,55,2026-07,55,55
+EGY,Egypt,Middle East,North Africa,49,84,21.6,-58.21,two-publishers,0,49,86,0,one-publisher,1,tuniscope,,49,2026-07,49,49
+JOR,Jordan,Middle East,Levant and Iraq,49,84,21.6,-58.21,two-publishers,0,49,86,0,one-publisher,1,tuniscope,,49,2026-07,49,49
+LBN,Lebanon,Middle East,Levant and Iraq,43,90,18.9,-64.21,two-publishers,0,41,93,-2,one-publisher,1,tuniscope,,41,2026-07,43,43
+LBY,Libya,Middle East,North Africa,39,93,17.2,-68.21,two-publishers,0,39,94,0,one-publisher,1,tuniscope,,39,2026-07,39,39
+IRN,Iran,Middle East,"Iran, Turkey and Yemen",38,94,16.7,-69.21,two-publishers,0,37,97,-1,one-publisher,1,immigrationworld,,37,2026-07,38,38
+PSE,Palestine,Middle East,Levant and Iraq,38,94,16.7,-69.21,two-publishers,0,37,,-1,2-publishers,2,immigrationworld;tuniscope,documents print ranks 96 and 97,37,2026-07,38,38
+YEM,Yemen,Middle East,"Iran, Turkey and Yemen",31,98,13.7,-76.21,two-publishers,0,30,,-1,2-publishers,2,immigrationworld;tuniscope,documents print ranks 100 and 101,30,2026-07,31,31
+IRQ,Iraq,Middle East,Levant and Iraq,29,99,12.8,-78.21,two-publishers,0,28,,-1,2-publishers,2,immigrationworld;tuniscope,documents print ranks 102 and 103,28,2026-07,29,29
+SYR,Syria,Middle East,Levant and Iraq,26,100,11.5,-81.21,two-publishers,0,25,,-1,2-publishers,2,immigrationworld;tuniscope,documents print ranks 103 and 104,25,2026-07,26,26
+SWE,Sweden,Europe,Europe,186,3,81.9,78.79,two-publishers,1,,,,no-july-figure,0,,,186,2026-04,186,186
+BEL,Belgium,Europe,Europe,185,4,81.5,77.79,two-publishers,1,,,,no-july-figure,0,,,185,2026-04,185,185
+DNK,Denmark,Europe,Europe,185,4,81.5,77.79,two-publishers,1,,,,no-july-figure,0,,,185,2026-04,185,185
+FIN,Finland,Europe,Europe,185,4,81.5,77.79,two-publishers,1,,,,no-july-figure,0,,,185,2026-04,185,185
+FRA,France,Europe,Europe,185,4,81.5,77.79,two-publishers,1,,,,no-july-figure,0,,,185,2026-04,185,185
+DEU,Germany,Europe,Europe,185,4,81.5,77.79,two-publishers,1,,,,no-july-figure,0,,,185,2026-04,185,185
+IRL,Ireland,Europe,Europe,185,4,81.5,77.79,two-publishers,1,,,,no-july-figure,0,,,185,2026-04,185,185
+ITA,Italy,Europe,Europe,185,4,81.5,77.79,two-publishers,1,,,,no-july-figure,0,,,185,2026-04,185,185
+LUX,Luxembourg,Europe,Europe,185,4,81.5,77.79,two-publishers,1,,,,no-july-figure,0,,,185,2026-04,185,185
+NLD,Netherlands,Europe,Europe,185,4,81.5,77.79,two-publishers,1,,,,no-july-figure,0,,,185,2026-04,185,185
+NOR,Norway,Europe,Europe,185,4,81.5,77.79,two-publishers,1,,,,no-july-figure,0,,,185,2026-04,185,185
+ESP,Spain,Europe,Europe,185,4,81.5,77.79,two-publishers,1,,,,no-july-figure,0,,,185,2026-04,185,185
+CHE,Switzerland,Europe,Europe,185,4,81.5,77.79,two-publishers,1,,,,no-july-figure,0,,,185,2026-04,185,185
+AUT,Austria,Europe,Europe,184,5,81.1,76.79,two-publishers,1,,,,no-july-figure,0,,,184,2026-04,184,184
+GRC,Greece,Europe,Europe,184,5,81.1,76.79,two-publishers,1,,,,no-july-figure,0,,,184,2026-04,184,184
+MLT,Malta,Europe,Europe,184,5,81.1,76.79,two-publishers,1,,,,no-july-figure,0,,,184,2026-04,184,184
+PRT,Portugal,Europe,Europe,184,5,81.1,76.79,two-publishers,1,,,,no-july-figure,0,,,184,2026-04,184,184
+HUN,Hungary,Europe,Europe,183,6,80.6,75.79,two-publishers,1,,,,no-july-figure,0,,,183,2026-04,183,183
+POL,Poland,Europe,Europe,183,6,80.6,75.79,two-publishers,1,,,,no-july-figure,0,,,183,2026-04,183,183
+GBR,United Kingdom,Europe,Europe,183,6,80.6,75.79,two-publishers,1,,,,no-july-figure,0,,,183,2026-04,183,183
+CZE,Czech Republic,Europe,Europe,182,7,80.2,74.79,two-publishers,1,,,,no-july-figure,0,,,182,2026-04,182,182
+LVA,Latvia,Europe,Europe,182,7,80.2,74.79,two-publishers,1,,,,no-july-figure,0,,,182,2026-04,182,182
+SVK,Slovakia,Europe,Europe,182,7,80.2,74.79,two-publishers,1,,,,no-july-figure,0,,,182,2026-04,182,182
+SVN,Slovenia,Europe,Europe,182,7,80.2,74.79,two-publishers,1,,,,no-july-figure,0,,,182,2026-04,182,182
+HRV,Croatia,Europe,Europe,181,8,79.7,73.79,two-publishers,1,,,,no-july-figure,0,,,181,2026-04,181,181
+EST,Estonia,Europe,Europe,181,8,79.7,73.79,two-publishers,1,,,,no-july-figure,0,,,181,2026-04,181,181
+LIE,Liechtenstein,Europe,Europe,180,9,79.3,72.79,two-publishers,1,,,,no-july-figure,0,,,180,2026-04,180,180
+LTU,Lithuania,Europe,Europe,180,9,79.3,72.79,two-publishers,1,,,,no-july-figure,0,,,180,2026-04,180,180
+ISL,Iceland,Europe,Europe,179,10,78.9,71.79,two-publishers,1,,,,no-july-figure,0,,,179,2026-04,179,179
+BGR,Bulgaria,Europe,Europe,177,11,78.0,69.79,two-publishers,0,,,,no-july-figure,0,,,177,2026-04,177,177
+ROU,Romania,Europe,Europe,177,11,78.0,69.79,two-publishers,0,,,,no-july-figure,0,,,177,2026-04,177,177
+MCO,Monaco,Europe,Europe,176,12,77.5,68.79,two-publishers,0,,,,no-july-figure,0,,,176,2026-04,176,176
+CYP,Cyprus,Europe,Europe,174,13,76.7,66.79,two-publishers,0,,,,no-july-figure,0,,,174,2026-04,174,174
+AND,Andorra,Europe,Europe,169,14,74.4,61.79,two-publishers,0,,,,no-july-figure,0,,,169,2026-04,169,169
+SMR,San Marino,Europe,Europe,166,16,73.1,58.79,two-publishers,0,,,,no-july-figure,0,,,166,2026-04,166,166
+VAT,Vatican City,Europe,Europe,151,23,66.5,43.79,two-publishers,0,,,,no-july-figure,0,,,151,2026-04,151,151
+UKR,Ukraine,Europe,Europe,142,28,62.6,34.79,two-publishers,0,,,,no-july-figure,0,,,142,2026-04,142,142
+SRB,Serbia,Europe,Europe,135,30,59.5,27.79,two-publishers,0,,,,no-july-figure,0,,,135,2026-04,135,135
+MNE,Montenegro,Europe,Europe,126,37,55.5,18.79,two-publishers,0,,,,no-july-figure,0,,,126,2026-04,126,126
+MKD,North Macedonia,Europe,Europe,126,37,55.5,18.79,two-publishers,0,,,,no-july-figure,0,,,126,2026-04,126,126
+ALB,Albania,Europe,Europe,121,40,53.3,13.79,two-publishers,0,,,,no-july-figure,0,,,121,2026-04,121,121
+BIH,Bosnia and Herzegovina,Europe,Europe,121,40,53.3,13.79,two-publishers,0,,,,no-july-figure,0,,,121,2026-04,121,121
+MDA,Moldova,Europe,Europe,119,42,52.4,11.79,two-publishers,0,,,,no-july-figure,0,,,119,2026-04,119,119
+RUS,Russia,Europe,Europe,113,44,49.8,5.79,two-publishers,0,,,,no-july-figure,0,,,113,2026-04,113,113
+XKX,Kosovo,Europe,Europe,81,56,35.7,-26.21,two-publishers,0,,,,no-july-figure,0,,,81,2026-04,81,81
+BLR,Belarus,Europe,Europe,77,58,33.9,-30.21,two-publishers,0,,,,no-july-figure,0,,,77,2026-04,77,77
+SGP,Singapore,Rest of Asia,Rest of Asia,192,1,84.6,84.79,two-publishers,2,192,1,0,5-publishers,5,henley_pr;immigrationworld;marhaba_jul;peninsula_jul;tuniscope,,192,2026-07,192,192
+JPN,Japan,Rest of Asia,Rest of Asia,187,2,82.4,79.79,two-publishers,1,188,2,1,3-publishers,3,henley_pr;immigrationworld;tuniscope,,188,2026-07,187,187
+KOR,South Korea,Rest of Asia,Rest of Asia,187,2,82.4,79.79,two-publishers,1,188,2,1,3-publishers,3,henley_pr;immigrationworld;tuniscope,,188,2026-07,187,187
+MYS,Malaysia,Rest of Asia,Rest of Asia,183,6,80.6,75.79,two-publishers,1,,,,no-july-figure,0,,,183,2026-04,183,183
+HKG,Hong Kong,Rest of Asia,Rest of Asia,174,13,76.7,66.79,two-publishers,0,,,,no-july-figure,0,,,174,2026-04,174,174
+BRN,Brunei,Rest of Asia,Rest of Asia,163,17,71.8,55.79,two-publishers,0,,,,no-july-figure,0,,,163,2026-04,163,163
+MAC,Macau,Rest of Asia,Rest of Asia,141,29,62.1,33.79,two-publishers,0,,,,no-july-figure,0,,,141,2026-04,141,141
+TWN,Taiwan,Rest of Asia,Rest of Asia,134,31,59.0,26.79,two-publishers,0,,,,no-july-figure,0,,,134,2026-04,134,134
+GEO,Georgia,Rest of Asia,Rest of Asia,120,41,52.9,12.79,two-publishers,0,,,,no-july-figure,0,,,120,2026-04,120,120
+MDV,Maldives,Rest of Asia,Rest of Asia,92,49,40.5,-15.21,two-publishers,0,,,,no-july-figure,0,,,92,2026-04,92,92
+TLS,Timor-Leste,Rest of Asia,Rest of Asia,92,49,40.5,-15.21,two-publishers,0,,,,no-july-figure,0,,,92,2026-04,92,92
+CHN,China,Rest of Asia,Rest of Asia,82,55,36.1,-25.21,two-publishers,0,,,,no-july-figure,0,,,82,2026-04,82,82
+KAZ,Kazakhstan,Rest of Asia,Rest of Asia,78,57,34.4,-29.21,two-publishers,0,,,,no-july-figure,0,,,78,2026-04,78,78
+THA,Thailand,Rest of Asia,Rest of Asia,76,59,33.5,-31.21,two-publishers,0,,,,no-july-figure,0,,,76,2026-04,76,76
+IDN,Indonesia,Rest of Asia,Rest of Asia,70,64,30.8,-37.21,two-publishers,0,,,,no-july-figure,0,,,70,2026-04,70,70
+AZE,Azerbaijan,Rest of Asia,Rest of Asia,67,67,29.5,-40.21,two-publishers,0,,,,no-july-figure,0,,,67,2026-04,67,67
+PHL,Philippines,Rest of Asia,Rest of Asia,65,69,28.6,-42.21,two-publishers,0,,,,no-july-figure,0,,,65,2026-04,65,65
+ARM,Armenia,Rest of Asia,Rest of Asia,64,70,28.2,-43.21,two-publishers,0,,,,no-july-figure,0,,,64,2026-04,64,64
+MNG,Mongolia,Rest of Asia,Rest of Asia,64,70,28.2,-43.21,two-publishers,0,,,,no-july-figure,0,,,64,2026-04,64,64
+KGZ,Kyrgyzstan,Rest of Asia,Rest of Asia,59,74,26.0,-48.21,two-publishers,0,,,,no-july-figure,0,,,59,2026-04,59,59
+UZB,Uzbekistan,Rest of Asia,Rest of Asia,59,74,26.0,-48.21,two-publishers,0,,,,no-july-figure,0,,,59,2026-04,59,59
+IND,India,Rest of Asia,Rest of Asia,56,77,24.7,-51.21,two-publishers,0,,,,no-july-figure,0,,,56,2026-04,56,56
+TJK,Tajikistan,Rest of Asia,Rest of Asia,53,80,23.3,-54.21,two-publishers,0,,,,no-july-figure,0,,,53,2026-04,53,53
+VNM,Vietnam,Rest of Asia,Rest of Asia,48,85,21.1,-59.21,two-publishers,0,,,,no-july-figure,0,,,48,2026-04,48,48
+BTN,Bhutan,Rest of Asia,Rest of Asia,47,86,20.7,-60.21,two-publishers,0,,,,no-july-figure,0,,,47,2026-04,47,47
+KHM,Cambodia,Rest of Asia,Rest of Asia,47,86,20.7,-60.21,two-publishers,0,,,,no-july-figure,0,,,47,2026-04,47,47
+LAO,Laos,Rest of Asia,Rest of Asia,45,88,19.8,-62.21,two-publishers,0,,,,no-july-figure,0,,,45,2026-04,45,45
+TKM,Turkmenistan,Rest of Asia,Rest of Asia,45,88,19.8,-62.21,two-publishers,0,,,,no-july-figure,0,,,45,2026-04,45,45
+MMR,Myanmar,Rest of Asia,Rest of Asia,42,91,18.5,-65.21,two-publishers,0,,,,no-july-figure,0,,,42,2026-04,42,42
+LKA,Sri Lanka,Rest of Asia,Rest of Asia,39,93,17.2,-68.21,two-publishers,0,,,,no-july-figure,0,,,39,2026-04,39,39
+BGD,Bangladesh,Rest of Asia,Rest of Asia,36,95,15.9,-71.21,publishers-differ,0,35,98,-1,one-publisher,1,immigrationworld,,35,2026-07,34,36
+NPL,Nepal,Rest of Asia,Rest of Asia,35,96,15.4,-72.21,two-publishers,0,34,99,-1,one-publisher,1,immigrationworld,,34,2026-07,35,35
+PRK,North Korea,Rest of Asia,Rest of Asia,35,96,15.4,-72.21,two-publishers,0,35,98,0,one-publisher,1,immigrationworld,,35,2026-07,35,35
+PAK,Pakistan,Rest of Asia,Rest of Asia,31,98,13.7,-76.21,two-publishers,0,29,102,-2,one-publisher,1,immigrationworld,,29,2026-07,31,31
+AFG,Afghanistan,Rest of Asia,Rest of Asia,23,101,10.1,-84.21,two-publishers,1,22,105,-1,2-publishers,2,henley_pr;immigrationworld,,22,2026-07,23,23
+SYC,Seychelles,Rest of Africa,Rest of Africa,154,22,67.8,46.79,two-publishers,0,,,,no-july-figure,0,,,154,2026-04,154,154
+MUS,Mauritius,Rest of Africa,Rest of Africa,147,25,64.8,39.79,two-publishers,0,,,,no-july-figure,0,,,147,2026-04,147,147
+ZAF,South Africa,Rest of Africa,Rest of Africa,100,46,44.1,-7.21,two-publishers,0,,,,no-july-figure,0,,,100,2026-04,100,100
+BWA,Botswana,Rest of Africa,Rest of Africa,81,56,35.7,-26.21,two-publishers,0,,,,no-july-figure,0,,,81,2026-04,81,81
+NAM,Namibia,Rest of Africa,Rest of Africa,74,61,32.6,-33.21,two-publishers,0,,,,no-july-figure,0,,,74,2026-04,74,74
+LSO,Lesotho,Rest of Africa,Rest of Africa,73,62,32.2,-34.21,two-publishers,0,,,,no-july-figure,0,,,73,2026-04,73,73
+SWZ,Eswatini,Rest of Africa,Rest of Africa,71,63,31.3,-36.21,two-publishers,0,,,,no-july-figure,0,,,71,2026-04,71,71
+MWI,Malawi,Rest of Africa,Rest of Africa,70,64,30.8,-37.21,two-publishers,0,,,,no-july-figure,0,,,70,2026-04,70,70
+KEN,Kenya,Rest of Africa,Rest of Africa,69,65,30.4,-38.21,two-publishers,0,,,,no-july-figure,0,,,69,2026-04,69,69
+GMB,Gambia,Rest of Africa,Rest of Africa,68,66,30.0,-39.21,two-publishers,0,,,,no-july-figure,0,,,68,2026-04,68,68
+TZA,Tanzania,Rest of Africa,Rest of Africa,68,66,30.0,-39.21,two-publishers,0,,,,no-july-figure,0,,,68,2026-04,68,68
+GHA,Ghana,Rest of Africa,Rest of Africa,67,67,29.5,-40.21,two-publishers,0,,,,no-july-figure,0,,,67,2026-04,67,67
+RWA,Rwanda,Rest of Africa,Rest of Africa,66,68,29.1,-41.21,two-publishers,0,,,,no-july-figure,0,,,66,2026-04,66,66
+BEN,Benin,Rest of Africa,Rest of Africa,65,69,28.6,-42.21,two-publishers,0,,,,no-july-figure,0,,,65,2026-04,65,65
+UGA,Uganda,Rest of Africa,Rest of Africa,65,69,28.6,-42.21,two-publishers,0,,,,no-july-figure,0,,,65,2026-04,65,65
+ZMB,Zambia,Rest of Africa,Rest of Africa,64,70,28.2,-43.21,two-publishers,0,,,,no-july-figure,0,,,64,2026-04,64,64
+CPV,Cape Verde,Rest of Africa,Rest of Africa,63,71,27.8,-44.21,two-publishers,0,,,,no-july-figure,0,,,63,2026-04,63,63
+SLE,Sierra Leone,Rest of Africa,Rest of Africa,62,72,27.3,-45.21,two-publishers,0,,,,no-july-figure,0,,,62,2026-04,62,62
+ZWE,Zimbabwe,Rest of Africa,Rest of Africa,61,73,26.9,-46.21,two-publishers,0,,,,no-july-figure,0,,,61,2026-04,61,61
+MOZ,Mozambique,Rest of Africa,Rest of Africa,59,74,26.0,-48.21,two-publishers,0,,,,no-july-figure,0,,,59,2026-04,59,59
+STP,São Tomé and Príncipe,Rest of Africa,Rest of Africa,58,75,25.6,-49.21,two-publishers,0,,,,no-july-figure,0,,,58,2026-04,58,58
+TGO,Togo,Rest of Africa,Rest of Africa,57,76,25.1,-50.21,two-publishers,0,,,,no-july-figure,0,,,57,2026-04,57,57
+BFA,Burkina Faso,Rest of Africa,Rest of Africa,56,77,24.7,-51.21,two-publishers,0,,,,no-july-figure,0,,,56,2026-04,56,56
+SEN,Senegal,Rest of Africa,Rest of Africa,56,77,24.7,-51.21,two-publishers,0,,,,no-july-figure,0,,,56,2026-04,56,56
+GAB,Gabon,Rest of Africa,Rest of Africa,55,78,24.2,-52.21,two-publishers,0,,,,no-july-figure,0,,,55,2026-04,55,55
+CIV,Ivory Coast,Rest of Africa,Rest of Africa,55,78,24.2,-52.21,two-publishers,0,,,,no-july-figure,0,,,55,2026-04,55,55
+MDG,Madagascar,Rest of Africa,Rest of Africa,55,78,24.2,-52.21,two-publishers,0,,,,no-july-figure,0,,,55,2026-04,55,55
+MRT,Mauritania,Rest of Africa,Rest of Africa,55,78,24.2,-52.21,two-publishers,0,55,81,0,one-publisher,1,tuniscope,,55,2026-07,55,55
+NER,Niger,Rest of Africa,Rest of Africa,54,79,23.8,-53.21,two-publishers,0,,,,no-july-figure,0,,,54,2026-04,54,54
+MLI,Mali,Rest of Africa,Rest of Africa,53,80,23.3,-54.21,two-publishers,0,,,,no-july-figure,0,,,53,2026-04,53,53
+GNQ,Equatorial Guinea,Rest of Africa,Rest of Africa,52,81,22.9,-55.21,two-publishers,0,,,,no-july-figure,0,,,52,2026-04,52,52
+GIN,Guinea,Rest of Africa,Rest of Africa,52,81,22.9,-55.21,two-publishers,0,,,,no-july-figure,0,,,52,2026-04,52,52
+TCD,Chad,Rest of Africa,Rest of Africa,51,82,22.5,-56.21,two-publishers,0,,,,no-july-figure,0,,,51,2026-04,51,51
+COM,Comoros,Rest of Africa,Rest of Africa,50,83,22.0,-57.21,two-publishers,0,51,85,1,one-publisher,1,tuniscope,,51,2026-07,50,50
+GNB,Guinea-Bissau,Rest of Africa,Rest of Africa,50,83,22.0,-57.21,two-publishers,0,,,,no-july-figure,0,,,50,2026-04,50,50
+LBR,Liberia,Rest of Africa,Rest of Africa,49,84,21.6,-58.21,two-publishers,0,,,,no-july-figure,0,,,49,2026-04,49,49
+AGO,Angola,Rest of Africa,Rest of Africa,48,85,21.1,-59.21,two-publishers,0,,,,no-july-figure,0,,,48,2026-04,48,48
+BDI,Burundi,Rest of Africa,Rest of Africa,48,85,21.1,-59.21,two-publishers,0,,,,no-july-figure,0,,,48,2026-04,48,48
+CAF,Central African Republic,Rest of Africa,Rest of Africa,48,85,21.1,-59.21,two-publishers,0,,,,no-july-figure,0,,,48,2026-04,48,48
+CMR,Cameroon,Rest of Africa,Rest of Africa,47,86,20.7,-60.21,two-publishers,0,,,,no-july-figure,0,,,47,2026-04,47,47
+COG,Congo,Rest of Africa,Rest of Africa,46,87,20.3,-61.21,two-publishers,0,,,,no-july-figure,0,,,46,2026-04,46,46
+DJI,Djibouti,Rest of Africa,Rest of Africa,45,88,19.8,-62.21,two-publishers,0,45,89,0,one-publisher,1,tuniscope,,45,2026-07,45,45
+NGA,Nigeria,Rest of Africa,Rest of Africa,44,89,19.4,-63.21,two-publishers,0,,,,no-july-figure,0,,,44,2026-04,44,44
+COD,DR Congo,Rest of Africa,Rest of Africa,43,90,18.9,-64.21,two-publishers,0,,,,no-july-figure,0,,,43,2026-04,43,43
+ETH,Ethiopia,Rest of Africa,Rest of Africa,42,91,18.5,-65.21,two-publishers,0,,,,no-july-figure,0,,,42,2026-04,42,42
+SSD,South Sudan,Rest of Africa,Rest of Africa,41,92,18.1,-66.21,two-publishers,0,,,,no-july-figure,0,,,41,2026-04,41,41
+SDN,Sudan,Rest of Africa,Rest of Africa,41,92,18.1,-66.21,two-publishers,0,41,93,0,one-publisher,1,tuniscope,,41,2026-07,41,41
+ERI,Eritrea,Rest of Africa,Rest of Africa,38,94,16.7,-69.21,two-publishers,0,38,96,0,one-publisher,1,immigrationworld,,38,2026-07,38,38
+SOM,Somalia,Rest of Africa,Rest of Africa,32,97,14.1,-75.21,two-publishers,0,32,,0,2-publishers,2,immigrationworld;tuniscope,documents print ranks 99 and 100,32,2026-07,32,32
+CAN,Canada,North America,North America,182,7,80.2,74.79,two-publishers,1,,,,no-july-figure,0,,,182,2026-04,182,182
+USA,United States,North America,North America,179,10,78.9,71.79,two-publishers,1,,,,no-july-figure,0,,,179,2026-04,179,179
+BRB,Barbados,North America,North America,163,17,71.8,55.79,two-publishers,0,,,,no-july-figure,0,,,163,2026-04,163,163
+BHS,Bahamas,North America,North America,158,18,69.6,50.79,two-publishers,0,,,,no-july-figure,0,,,158,2026-04,158,158
+KNA,Saint Kitts and Nevis,North America,North America,157,19,69.2,49.79,two-publishers,0,,,,no-july-figure,0,,,157,2026-04,157,157
+VCT,Saint Vincent and the Grenadines,North America,North America,157,19,69.2,49.79,two-publishers,0,,,,no-july-figure,0,,,157,2026-04,157,157
+MEX,Mexico,North America,North America,156,20,68.7,48.79,two-publishers,0,,,,no-july-figure,0,,,156,2026-04,156,156
+ATG,Antigua and Barbuda,North America,North America,154,22,67.8,46.79,two-publishers,0,,,,no-july-figure,0,,,154,2026-04,154,154
+CRI,Costa Rica,North America,North America,148,24,65.2,40.79,two-publishers,0,,,,no-july-figure,0,,,148,2026-04,148,148
+GRD,Grenada,North America,North America,147,25,64.8,39.79,two-publishers,0,,,,no-july-figure,0,,,147,2026-04,147,147
+PAN,Panama,North America,North America,147,25,64.8,39.79,two-publishers,0,,,,no-july-figure,0,,,147,2026-04,147,147
+DMA,Dominica,North America,North America,145,26,63.9,37.79,two-publishers,0,,,,no-july-figure,0,,,145,2026-04,145,145
+TTO,Trinidad and Tobago,North America,North America,145,26,63.9,37.79,two-publishers,0,,,,no-july-figure,0,,,145,2026-04,145,145
+LCA,Saint Lucia,North America,North America,144,27,63.4,36.79,two-publishers,0,,,,no-july-figure,0,,,144,2026-04,144,144
+GTM,Guatemala,North America,North America,132,32,58.1,24.79,two-publishers,0,,,,no-july-figure,0,,,132,2026-04,132,132
+SLV,El Salvador,North America,North America,131,33,57.7,23.79,two-publishers,0,,,,no-july-figure,0,,,131,2026-04,131,131
+HND,Honduras,North America,North America,129,35,56.8,21.79,two-publishers,0,,,,no-july-figure,0,,,129,2026-04,129,129
+NIC,Nicaragua,North America,North America,125,38,55.1,17.79,two-publishers,0,,,,no-july-figure,0,,,125,2026-04,125,125
+BLZ,Belize,North America,North America,100,46,44.1,-7.21,two-publishers,0,,,,no-july-figure,0,,,100,2026-04,100,100
+JAM,Jamaica,North America,North America,85,53,37.4,-22.21,two-publishers,0,,,,no-july-figure,0,,,85,2026-04,85,85
+DOM,Dominican Republic,North America,North America,71,63,31.3,-36.21,two-publishers,0,,,,no-july-figure,0,,,71,2026-04,71,71
+CUB,Cuba,North America,North America,56,77,24.7,-51.21,two-publishers,0,,,,no-july-figure,0,,,56,2026-04,56,56
+HTI,Haiti,North America,North America,49,84,21.6,-58.21,two-publishers,0,,,,no-july-figure,0,,,49,2026-04,49,49
+CHL,Chile,South America,South America,174,13,76.7,66.79,two-publishers,0,,,,no-july-figure,0,,,174,2026-04,174,174
+ARG,Argentina,South America,South America,168,15,74.0,60.79,two-publishers,0,,,,no-july-figure,0,,,168,2026-04,168,168
+BRA,Brazil,South America,South America,168,15,74.0,60.79,two-publishers,0,,,,no-july-figure,0,,,168,2026-04,168,168
+URY,Uruguay,South America,South America,155,21,68.3,47.79,two-publishers,0,,,,no-july-figure,0,,,155,2026-04,155,155
+PRY,Paraguay,South America,South America,145,26,63.9,37.79,two-publishers,0,,,,no-july-figure,0,,,145,2026-04,145,145
+PER,Peru,South America,South America,141,29,62.1,33.79,two-publishers,0,,,,no-july-figure,0,,,141,2026-04,141,141
+COL,Colombia,South America,South America,130,34,57.3,22.79,two-publishers,0,,,,no-july-figure,0,,,130,2026-04,130,130
+VEN,Venezuela,South America,South America,116,43,51.1,8.79,two-publishers,0,,,,no-july-figure,0,,,116,2026-04,116,116
+ECU,Ecuador,South America,South America,93,48,41.0,-14.21,two-publishers,0,,,,no-july-figure,0,,,93,2026-04,93,93
+GUY,Guyana,South America,South America,88,50,38.8,-19.21,two-publishers,0,,,,no-july-figure,0,,,88,2026-04,88,88
+BOL,Bolivia,South America,South America,77,58,33.9,-30.21,two-publishers,0,,,,no-july-figure,0,,,77,2026-04,77,77
+SUR,Suriname,South America,South America,75,60,33.0,-32.21,two-publishers,0,,,,no-july-figure,0,,,75,2026-04,75,75
+AUS,Australia,Oceania,Oceania,182,7,80.2,74.79,two-publishers,1,,,,no-july-figure,0,,,182,2026-04,182,182
+NZL,New Zealand,Oceania,Oceania,182,7,80.2,74.79,two-publishers,1,,,,no-july-figure,0,,,182,2026-04,182,182
+SLB,Solomon Islands,Oceania,Oceania,132,32,58.1,24.79,two-publishers,0,,,,no-july-figure,0,,,132,2026-04,132,132
+WSM,Samoa,Oceania,Oceania,129,35,56.8,21.79,two-publishers,0,,,,no-july-figure,0,,,129,2026-04,129,129
+MHL,Marshall Islands,Oceania,Oceania,127,36,55.9,19.79,two-publishers,0,,,,no-july-figure,0,,,127,2026-04,127,127
+TON,Tonga,Oceania,Oceania,127,36,55.9,19.79,two-publishers,0,,,,no-july-figure,0,,,127,2026-04,127,127
+TUV,Tuvalu,Oceania,Oceania,125,38,55.1,17.79,two-publishers,0,,,,no-july-figure,0,,,125,2026-04,125,125
+KIR,Kiribati,Oceania,Oceania,122,39,53.7,14.79,two-publishers,0,,,,no-july-figure,0,,,122,2026-04,122,122
+FSM,Federated States of Micronesia,Oceania,Oceania,120,41,52.9,12.79,two-publishers,0,,,,no-july-figure,0,,,120,2026-04,120,120
+PLW,Palau,Oceania,Oceania,120,41,52.9,12.79,two-publishers,0,,,,no-july-figure,0,,,120,2026-04,120,120
+FJI,Fiji,Oceania,Oceania,87,51,38.3,-20.21,two-publishers,0,,,,no-july-figure,0,,,87,2026-04,87,87
+VUT,Vanuatu,Oceania,Oceania,87,51,38.3,-20.21,two-publishers,0,,,,no-july-figure,0,,,87,2026-04,87,87
+NRU,Nauru,Oceania,Oceania,86,52,37.9,-21.21,two-publishers,0,,,,no-july-figure,0,,,86,2026-04,86,86
+PNG,Papua New Guinea,Oceania,Oceania,84,54,37.0,-23.21,two-publishers,0,,,,no-july-figure,0,,,84,2026-04,84,84
