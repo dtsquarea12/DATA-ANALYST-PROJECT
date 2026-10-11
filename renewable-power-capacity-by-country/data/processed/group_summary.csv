@@ -1,0 +1,16 @@
+entity,entity_type,capacity_2016_mw,capacity_2024_mw,capacity_2025_mw,added_2025_mw,growth_2025_pct,added_2016_2025_mw,multiple_of_2016,check_status,share_of_world_2025_pct
+Gulf,sub_region,217,15183,23889,8706,57.3,23672,110.1,computed,0.46
+Levant and Iraq,sub_region,5636,15232,18139,2907,19.1,12503,3.2,computed,0.35
+"Iran, Turkey and Yemen",sub_region,45310,82451,90719,8268,10.0,45409,2.0,computed,1.76
+North Africa,sub_region,6943,14070,15925,1855,13.2,8982,2.3,computed,0.31
+Middle East and North Africa (20 economies),aggregate_20,58106,126936,148672,21736,17.1,90566,2.6,computed,2.89
+Middle East,irena_region,16718,43778,56446,12668,28.9,39728,3.4,two-publishers,1.1
+Asia,irena_region,813285,2377266,2890615,513349,21.6,2077330,3.6,two-publishers,56.14
+Africa,irena_region,37065,71091,82371,11280,15.9,45306,2.2,two-publishers,1.6
+Europe,irena_region,487975,857563,934334,76771,9.0,446359,1.9,two-publishers,18.14
+Eurasia,irena_region,90437,133058,141409,8351,6.3,50972,1.6,irena-only,2.75
+North America,irena_region,331180,571632,613690,42058,7.4,282510,1.9,irena-only,11.92
+South America,irena_region,203920,313139,332767,19628,6.3,128847,1.6,irena-only,6.46
+Central America and the Caribbean,irena_region,13201,19492,21265,1773,9.1,8064,1.6,two-publishers,0.41
+Oceania,irena_region,27009,70322,76383,6061,8.6,49374,2.8,irena-only,1.48
+World,world,2020792,4457340,5149280,691940,15.5,3128488,2.5,two-publishers,100.0

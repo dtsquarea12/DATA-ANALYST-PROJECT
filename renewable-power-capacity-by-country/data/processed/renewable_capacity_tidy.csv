@@ -1,0 +1,351 @@
+entity,entity_type,iso3,sub_region,in_irena_middle_east,year,capacity_mw,change_mw,change_pct,label_in_source,read_twice
+Bahrain,country,BHR,Gulf,True,2016,7,,,Bahrain,True
+Bahrain,country,BHR,Gulf,True,2017,7,0,0.0,Bahrain,True
+Bahrain,country,BHR,Gulf,True,2018,7,0,0.0,Bahrain,True
+Bahrain,country,BHR,Gulf,True,2019,10,3,42.9,Bahrain,True
+Bahrain,country,BHR,Gulf,True,2020,11,1,10.0,Bahrain,True
+Bahrain,country,BHR,Gulf,True,2021,22,11,100.0,Bahrain,True
+Bahrain,country,BHR,Gulf,True,2022,48,26,118.2,Bahrain,True
+Bahrain,country,BHR,Gulf,True,2023,59,11,22.9,Bahrain,True
+Bahrain,country,BHR,Gulf,True,2024,69,10,16.9,Bahrain,True
+Bahrain,country,BHR,Gulf,True,2025,115,46,66.7,Bahrain,True
+Kuwait,country,KWT,Gulf,True,2016,24,,,Kuwait,True
+Kuwait,country,KWT,Gulf,True,2017,25,1,4.2,Kuwait,True
+Kuwait,country,KWT,Gulf,True,2018,46,21,84.0,Kuwait,True
+Kuwait,country,KWT,Gulf,True,2019,97,51,110.9,Kuwait,True
+Kuwait,country,KWT,Gulf,True,2020,97,0,0.0,Kuwait,True
+Kuwait,country,KWT,Gulf,True,2021,97,0,0.0,Kuwait,True
+Kuwait,country,KWT,Gulf,True,2022,114,17,17.5,Kuwait,True
+Kuwait,country,KWT,Gulf,True,2023,114,0,0.0,Kuwait,True
+Kuwait,country,KWT,Gulf,True,2024,114,0,0.0,Kuwait,True
+Kuwait,country,KWT,Gulf,True,2025,114,0,0.0,Kuwait,True
+Oman,country,OMN,Gulf,True,2016,2,,,Oman,True
+Oman,country,OMN,Gulf,True,2017,8,6,300.0,Oman,True
+Oman,country,OMN,Gulf,True,2018,26,18,225.0,Oman,True
+Oman,country,OMN,Gulf,True,2019,76,50,192.3,Oman,True
+Oman,country,OMN,Gulf,True,2020,179,103,135.5,Oman,True
+Oman,country,OMN,Gulf,True,2021,205,26,14.5,Oman,True
+Oman,country,OMN,Gulf,True,2022,705,500,243.9,Oman,True
+Oman,country,OMN,Gulf,True,2023,722,17,2.4,Oman,True
+Oman,country,OMN,Gulf,True,2024,722,0,0.0,Oman,True
+Oman,country,OMN,Gulf,True,2025,1722,1000,138.5,Oman,True
+Qatar,country,QAT,Gulf,True,2016,24,,,Qatar,True
+Qatar,country,QAT,Gulf,True,2017,24,0,0.0,Qatar,True
+Qatar,country,QAT,Gulf,True,2018,24,0,0.0,Qatar,True
+Qatar,country,QAT,Gulf,True,2019,24,0,0.0,Qatar,True
+Qatar,country,QAT,Gulf,True,2020,24,0,0.0,Qatar,True
+Qatar,country,QAT,Gulf,True,2021,24,0,0.0,Qatar,True
+Qatar,country,QAT,Gulf,True,2022,824,800,3333.3,Qatar,True
+Qatar,country,QAT,Gulf,True,2023,824,0,0.0,Qatar,True
+Qatar,country,QAT,Gulf,True,2024,824,0,0.0,Qatar,True
+Qatar,country,QAT,Gulf,True,2025,1699,875,106.2,Qatar,True
+Saudi Arabia,country,SAU,Gulf,True,2016,24,,,Saudi Arabia,True
+Saudi Arabia,country,SAU,Gulf,True,2017,37,13,54.2,Saudi Arabia,True
+Saudi Arabia,country,SAU,Gulf,True,2018,87,50,135.1,Saudi Arabia,True
+Saudi Arabia,country,SAU,Gulf,True,2019,112,25,28.7,Saudi Arabia,True
+Saudi Arabia,country,SAU,Gulf,True,2020,412,300,267.9,Saudi Arabia,True
+Saudi Arabia,country,SAU,Gulf,True,2021,442,30,7.3,Saudi Arabia,True
+Saudi Arabia,country,SAU,Gulf,True,2022,840,398,90.0,Saudi Arabia,True
+Saudi Arabia,country,SAU,Gulf,True,2023,2840,2000,238.1,Saudi Arabia,True
+Saudi Arabia,country,SAU,Gulf,True,2024,6601,3761,132.4,Saudi Arabia,True
+Saudi Arabia,country,SAU,Gulf,True,2025,12332,5731,86.8,Saudi Arabia,True
+United Arab Emirates,country,ARE,Gulf,True,2016,136,,,United Arab Em,True
+United Arab Emirates,country,ARE,Gulf,True,2017,354,218,160.3,United Arab Em,True
+United Arab Emirates,country,ARE,Gulf,True,2018,601,247,69.8,United Arab Em,True
+United Arab Emirates,country,ARE,Gulf,True,2019,1936,1335,222.1,United Arab Em,True
+United Arab Emirates,country,ARE,Gulf,True,2020,2334,398,20.6,United Arab Em,True
+United Arab Emirates,country,ARE,Gulf,True,2021,3003,669,28.7,United Arab Em,True
+United Arab Emirates,country,ARE,Gulf,True,2022,3606,603,20.1,United Arab Em,True
+United Arab Emirates,country,ARE,Gulf,True,2023,6072,2466,68.4,United Arab Em,True
+United Arab Emirates,country,ARE,Gulf,True,2024,6853,781,12.9,United Arab Em,True
+United Arab Emirates,country,ARE,Gulf,True,2025,7907,1054,15.4,United Arab Em,True
+Iraq,country,IRQ,Levant and Iraq,True,2016,2311,,,Iraq,True
+Iraq,country,IRQ,Levant and Iraq,True,2017,1594,-717,-31.0,Iraq,True
+Iraq,country,IRQ,Levant and Iraq,True,2018,1594,0,0.0,Iraq,True
+Iraq,country,IRQ,Levant and Iraq,True,2019,1594,0,0.0,Iraq,True
+Iraq,country,IRQ,Levant and Iraq,True,2020,1594,0,0.0,Iraq,True
+Iraq,country,IRQ,Levant and Iraq,True,2021,1594,0,0.0,Iraq,True
+Iraq,country,IRQ,Levant and Iraq,True,2022,1599,5,0.3,Iraq,True
+Iraq,country,IRQ,Levant and Iraq,True,2023,1599,0,0.0,Iraq,True
+Iraq,country,IRQ,Levant and Iraq,True,2024,1599,0,0.0,Iraq,True
+Iraq,country,IRQ,Levant and Iraq,True,2025,1621,22,1.4,Iraq,True
+Israel,country,ISR,Levant and Iraq,True,2016,966,,,Israel,True
+Israel,country,ISR,Levant and Iraq,True,2017,1066,100,10.4,Israel,True
+Israel,country,ISR,Levant and Iraq,True,2018,1411,345,32.4,Israel,True
+Israel,country,ISR,Levant and Iraq,True,2019,2203,792,56.1,Israel,True
+Israel,country,ISR,Levant and Iraq,True,2020,2717,514,23.3,Israel,True
+Israel,country,ISR,Levant and Iraq,True,2021,3656,939,34.6,Israel,True
+Israel,country,ISR,Levant and Iraq,True,2022,4807,1151,31.5,Israel,True
+Israel,country,ISR,Levant and Iraq,True,2023,5901,1094,22.8,Israel,True
+Israel,country,ISR,Levant and Iraq,True,2024,6006,105,1.8,Israel,True
+Israel,country,ISR,Levant and Iraq,True,2025,7763,1757,29.3,Israel,True
+Jordan,country,JOR,Levant and Iraq,True,2016,514,,,Jordan,True
+Jordan,country,JOR,Levant and Iraq,True,2017,635,121,23.5,Jordan,True
+Jordan,country,JOR,Levant and Iraq,True,2018,1074,439,69.1,Jordan,True
+Jordan,country,JOR,Levant and Iraq,True,2019,1374,300,27.9,Jordan,True
+Jordan,country,JOR,Levant and Iraq,True,2020,2088,714,52.0,Jordan,True
+Jordan,country,JOR,Levant and Iraq,True,2021,2460,372,17.8,Jordan,True
+Jordan,country,JOR,Levant and Iraq,True,2022,2615,155,6.3,Jordan,True
+Jordan,country,JOR,Levant and Iraq,True,2023,2638,23,0.9,Jordan,True
+Jordan,country,JOR,Levant and Iraq,True,2024,2843,205,7.8,Jordan,True
+Jordan,country,JOR,Levant and Iraq,True,2025,2843,0,0.0,Jordan,True
+Lebanon,country,LBN,Levant and Iraq,True,2016,318,,,Lebanon,True
+Lebanon,country,LBN,Levant and Iraq,True,2017,331,13,4.1,Lebanon,True
+Lebanon,country,LBN,Levant and Iraq,True,2018,348,17,5.1,Lebanon,True
+Lebanon,country,LBN,Levant and Iraq,True,2019,370,22,6.3,Lebanon,True
+Lebanon,country,LBN,Levant and Iraq,True,2020,384,14,3.8,Lebanon,True
+Lebanon,country,LBN,Levant and Iraq,True,2021,498,114,29.7,Lebanon,True
+Lebanon,country,LBN,Levant and Iraq,True,2022,1161,663,133.1,Lebanon,True
+Lebanon,country,LBN,Levant and Iraq,True,2023,1373,212,18.3,Lebanon,True
+Lebanon,country,LBN,Levant and Iraq,True,2024,1373,0,0.0,Lebanon,True
+Lebanon,country,LBN,Levant and Iraq,True,2025,1797,424,30.9,Lebanon,True
+Palestine,country,PSE,Levant and Iraq,True,2016,26,,,Palestine,True
+Palestine,country,PSE,Levant and Iraq,True,2017,36,10,38.5,Palestine,True
+Palestine,country,PSE,Levant and Iraq,True,2018,41,5,13.9,Palestine,True
+Palestine,country,PSE,Levant and Iraq,True,2019,83,42,102.4,Palestine,True
+Palestine,country,PSE,Levant and Iraq,True,2020,119,36,43.4,Palestine,True
+Palestine,country,PSE,Levant and Iraq,True,2021,179,60,50.4,Palestine,True
+Palestine,country,PSE,Levant and Iraq,True,2022,193,14,7.8,Palestine,True
+Palestine,country,PSE,Levant and Iraq,True,2023,260,67,34.7,Palestine,True
+Palestine,country,PSE,Levant and Iraq,True,2024,303,43,16.5,Palestine,True
+Palestine,country,PSE,Levant and Iraq,True,2025,309,6,2.0,Palestine,True
+Syria,country,SYR,Levant and Iraq,True,2016,1501,,,Syrian AR,True
+Syria,country,SYR,Levant and Iraq,True,2017,1497,-4,-0.3,Syrian AR,True
+Syria,country,SYR,Levant and Iraq,True,2018,1498,1,0.1,Syrian AR,True
+Syria,country,SYR,Levant and Iraq,True,2019,1499,1,0.1,Syrian AR,True
+Syria,country,SYR,Levant and Iraq,True,2020,1508,9,0.6,Syrian AR,True
+Syria,country,SYR,Levant and Iraq,True,2021,1532,24,1.6,Syrian AR,True
+Syria,country,SYR,Levant and Iraq,True,2022,1806,274,17.9,Syrian AR,True
+Syria,country,SYR,Levant and Iraq,True,2023,2524,718,39.8,Syrian AR,True
+Syria,country,SYR,Levant and Iraq,True,2024,3108,584,23.1,Syrian AR,True
+Syria,country,SYR,Levant and Iraq,True,2025,3806,698,22.5,Syrian AR,True
+Iran,country,IRN,"Iran, Turkey and Yemen",True,2016,10783,,,Iran IR,True
+Iran,country,IRN,"Iran, Turkey and Yemen",True,2017,11367,584,5.4,Iran IR,True
+Iran,country,IRN,"Iran, Turkey and Yemen",True,2018,11638,271,2.4,Iran IR,True
+Iran,country,IRN,"Iran, Turkey and Yemen",True,2019,11803,165,1.4,Iran IR,True
+Iran,country,IRN,"Iran, Turkey and Yemen",True,2020,11901,98,0.8,Iran IR,True
+Iran,country,IRN,"Iran, Turkey and Yemen",True,2021,11930,29,0.2,Iran IR,True
+Iran,country,IRN,"Iran, Turkey and Yemen",True,2022,12399,469,3.9,Iran IR,True
+Iran,country,IRN,"Iran, Turkey and Yemen",True,2023,12653,254,2.0,Iran IR,True
+Iran,country,IRN,"Iran, Turkey and Yemen",True,2024,12961,308,2.4,Iran IR,True
+Iran,country,IRN,"Iran, Turkey and Yemen",True,2025,13963,1002,7.7,Iran IR,True
+Turkey,country,TUR,"Iran, Turkey and Yemen",False,2016,34446,,,Türkiye,True
+Turkey,country,TUR,"Iran, Turkey and Yemen",False,2017,38746,4300,12.5,Türkiye,True
+Turkey,country,TUR,"Iran, Turkey and Yemen",False,2018,42230,3484,9.0,Türkiye,True
+Turkey,country,TUR,"Iran, Turkey and Yemen",False,2019,44389,2159,5.1,Türkiye,True
+Turkey,country,TUR,"Iran, Turkey and Yemen",False,2020,49195,4806,10.8,Türkiye,True
+Turkey,country,TUR,"Iran, Turkey and Yemen",False,2021,53175,3980,8.1,Türkiye,True
+Turkey,country,TUR,"Iran, Turkey and Yemen",False,2022,55946,2771,5.2,Türkiye,True
+Turkey,country,TUR,"Iran, Turkey and Yemen",False,2023,63085,7139,12.8,Türkiye,True
+Turkey,country,TUR,"Iran, Turkey and Yemen",False,2024,69087,6002,9.5,Türkiye,True
+Turkey,country,TUR,"Iran, Turkey and Yemen",False,2025,76300,7213,10.4,Türkiye,True
+Yemen,country,YEM,"Iran, Turkey and Yemen",True,2016,81,,,Yemen,True
+Yemen,country,YEM,"Iran, Turkey and Yemen",True,2017,103,22,27.2,Yemen,True
+Yemen,country,YEM,"Iran, Turkey and Yemen",True,2018,253,150,145.6,Yemen,True
+Yemen,country,YEM,"Iran, Turkey and Yemen",True,2019,254,1,0.4,Yemen,True
+Yemen,country,YEM,"Iran, Turkey and Yemen",True,2020,258,4,1.6,Yemen,True
+Yemen,country,YEM,"Iran, Turkey and Yemen",True,2021,258,0,0.0,Yemen,True
+Yemen,country,YEM,"Iran, Turkey and Yemen",True,2022,264,6,2.3,Yemen,True
+Yemen,country,YEM,"Iran, Turkey and Yemen",True,2023,283,19,7.2,Yemen,True
+Yemen,country,YEM,"Iran, Turkey and Yemen",True,2024,403,120,42.4,Yemen,True
+Yemen,country,YEM,"Iran, Turkey and Yemen",True,2025,456,53,13.2,Yemen,True
+Algeria,country,DZA,North Africa,False,2016,500,,,Algeria,True
+Algeria,country,DZA,North Africa,False,2017,593,93,18.6,Algeria,True
+Algeria,country,DZA,North Africa,False,2018,605,12,2.0,Algeria,True
+Algeria,country,DZA,North Africa,False,2019,605,0,0.0,Algeria,True
+Algeria,country,DZA,North Africa,False,2020,585,-20,-3.3,Algeria,True
+Algeria,country,DZA,North Africa,False,2021,506,-79,-13.5,Algeria,True
+Algeria,country,DZA,North Africa,False,2022,590,84,16.6,Algeria,True
+Algeria,country,DZA,North Africa,False,2023,601,11,1.9,Algeria,True
+Algeria,country,DZA,North Africa,False,2024,601,0,0.0,Algeria,True
+Algeria,country,DZA,North Africa,False,2025,601,0,0.0,Algeria,True
+Egypt,country,EGY,North Africa,False,2016,3681,,,Egypt,True
+Egypt,country,EGY,North Africa,False,2017,3802,121,3.3,Egypt,True
+Egypt,country,EGY,North Africa,False,2018,4793,991,26.1,Egypt,True
+Egypt,country,EGY,North Africa,False,2019,5690,897,18.7,Egypt,True
+Egypt,country,EGY,North Africa,False,2020,5934,244,4.3,Egypt,True
+Egypt,country,EGY,North Africa,False,2021,6258,324,5.5,Egypt,True
+Egypt,country,EGY,North Africa,False,2022,6286,28,0.4,Egypt,True
+Egypt,country,EGY,North Africa,False,2023,6673,387,6.2,Egypt,True
+Egypt,country,EGY,North Africa,False,2024,7716,1043,15.6,Egypt,True
+Egypt,country,EGY,North Africa,False,2025,9258,1542,20.0,Egypt,True
+Libya,country,LBY,North Africa,False,2016,5,,,Libya,True
+Libya,country,LBY,North Africa,False,2017,5,0,0.0,Libya,True
+Libya,country,LBY,North Africa,False,2018,5,0,0.0,Libya,True
+Libya,country,LBY,North Africa,False,2019,5,0,0.0,Libya,True
+Libya,country,LBY,North Africa,False,2020,5,0,0.0,Libya,True
+Libya,country,LBY,North Africa,False,2021,6,1,20.0,Libya,True
+Libya,country,LBY,North Africa,False,2022,6,0,0.0,Libya,True
+Libya,country,LBY,North Africa,False,2023,8,2,33.3,Libya,True
+Libya,country,LBY,North Africa,False,2024,8,0,0.0,Libya,True
+Libya,country,LBY,North Africa,False,2025,9,1,12.5,Libya,True
+Morocco,country,MAR,North Africa,False,2016,2417,,,Morocco,True
+Morocco,country,MAR,North Africa,False,2017,2539,122,5.0,Morocco,True
+Morocco,country,MAR,North Africa,False,2018,3272,733,28.9,Morocco,True
+Morocco,country,MAR,North Africa,False,2019,3272,0,0.0,Morocco,True
+Morocco,country,MAR,North Africa,False,2020,3522,250,7.6,Morocco,True
+Morocco,country,MAR,North Africa,False,2021,3638,116,3.3,Morocco,True
+Morocco,country,MAR,North Africa,False,2022,3725,87,2.4,Morocco,True
+Morocco,country,MAR,North Africa,False,2023,4243,518,13.9,Morocco,True
+Morocco,country,MAR,North Africa,False,2024,4659,416,9.8,Morocco,True
+Morocco,country,MAR,North Africa,False,2025,4851,192,4.1,Morocco,True
+Tunisia,country,TUN,North Africa,False,2016,340,,,Tunisia,True
+Tunisia,country,TUN,North Africa,False,2017,349,9,2.6,Tunisia,True
+Tunisia,country,TUN,North Africa,False,2018,375,26,7.4,Tunisia,True
+Tunisia,country,TUN,North Africa,False,2019,391,16,4.3,Tunisia,True
+Tunisia,country,TUN,North Africa,False,2020,407,16,4.1,Tunisia,True
+Tunisia,country,TUN,North Africa,False,2021,408,1,0.2,Tunisia,True
+Tunisia,country,TUN,North Africa,False,2022,510,102,25.0,Tunisia,True
+Tunisia,country,TUN,North Africa,False,2023,819,309,60.6,Tunisia,True
+Tunisia,country,TUN,North Africa,False,2024,1086,267,32.6,Tunisia,True
+Tunisia,country,TUN,North Africa,False,2025,1206,120,11.0,Tunisia,True
+Gulf,sub_region,,Gulf,False,2016,217,,,,True
+Gulf,sub_region,,Gulf,False,2017,455,238,109.7,,True
+Gulf,sub_region,,Gulf,False,2018,791,336,73.8,,True
+Gulf,sub_region,,Gulf,False,2019,2255,1464,185.1,,True
+Gulf,sub_region,,Gulf,False,2020,3057,802,35.6,,True
+Gulf,sub_region,,Gulf,False,2021,3793,736,24.1,,True
+Gulf,sub_region,,Gulf,False,2022,6137,2344,61.8,,True
+Gulf,sub_region,,Gulf,False,2023,10631,4494,73.2,,True
+Gulf,sub_region,,Gulf,False,2024,15183,4552,42.8,,True
+Gulf,sub_region,,Gulf,False,2025,23889,8706,57.3,,True
+Levant and Iraq,sub_region,,Levant and Iraq,False,2016,5636,,,,True
+Levant and Iraq,sub_region,,Levant and Iraq,False,2017,5159,-477,-8.5,,True
+Levant and Iraq,sub_region,,Levant and Iraq,False,2018,5966,807,15.6,,True
+Levant and Iraq,sub_region,,Levant and Iraq,False,2019,7123,1157,19.4,,True
+Levant and Iraq,sub_region,,Levant and Iraq,False,2020,8410,1287,18.1,,True
+Levant and Iraq,sub_region,,Levant and Iraq,False,2021,9919,1509,17.9,,True
+Levant and Iraq,sub_region,,Levant and Iraq,False,2022,12181,2262,22.8,,True
+Levant and Iraq,sub_region,,Levant and Iraq,False,2023,14295,2114,17.4,,True
+Levant and Iraq,sub_region,,Levant and Iraq,False,2024,15232,937,6.6,,True
+Levant and Iraq,sub_region,,Levant and Iraq,False,2025,18139,2907,19.1,,True
+"Iran, Turkey and Yemen",sub_region,,"Iran, Turkey and Yemen",False,2016,45310,,,,True
+"Iran, Turkey and Yemen",sub_region,,"Iran, Turkey and Yemen",False,2017,50216,4906,10.8,,True
+"Iran, Turkey and Yemen",sub_region,,"Iran, Turkey and Yemen",False,2018,54121,3905,7.8,,True
+"Iran, Turkey and Yemen",sub_region,,"Iran, Turkey and Yemen",False,2019,56446,2325,4.3,,True
+"Iran, Turkey and Yemen",sub_region,,"Iran, Turkey and Yemen",False,2020,61354,4908,8.7,,True
+"Iran, Turkey and Yemen",sub_region,,"Iran, Turkey and Yemen",False,2021,65363,4009,6.5,,True
+"Iran, Turkey and Yemen",sub_region,,"Iran, Turkey and Yemen",False,2022,68609,3246,5.0,,True
+"Iran, Turkey and Yemen",sub_region,,"Iran, Turkey and Yemen",False,2023,76021,7412,10.8,,True
+"Iran, Turkey and Yemen",sub_region,,"Iran, Turkey and Yemen",False,2024,82451,6430,8.5,,True
+"Iran, Turkey and Yemen",sub_region,,"Iran, Turkey and Yemen",False,2025,90719,8268,10.0,,True
+North Africa,sub_region,,North Africa,False,2016,6943,,,,True
+North Africa,sub_region,,North Africa,False,2017,7288,345,5.0,,True
+North Africa,sub_region,,North Africa,False,2018,9050,1762,24.2,,True
+North Africa,sub_region,,North Africa,False,2019,9963,913,10.1,,True
+North Africa,sub_region,,North Africa,False,2020,10453,490,4.9,,True
+North Africa,sub_region,,North Africa,False,2021,10816,363,3.5,,True
+North Africa,sub_region,,North Africa,False,2022,11117,301,2.8,,True
+North Africa,sub_region,,North Africa,False,2023,12344,1227,11.0,,True
+North Africa,sub_region,,North Africa,False,2024,14070,1726,14.0,,True
+North Africa,sub_region,,North Africa,False,2025,15925,1855,13.2,,True
+Middle East and North Africa (20 economies),aggregate_20,,,False,2016,58106,,,,True
+Middle East and North Africa (20 economies),aggregate_20,,,False,2017,63118,5012,8.6,,True
+Middle East and North Africa (20 economies),aggregate_20,,,False,2018,69928,6810,10.8,,True
+Middle East and North Africa (20 economies),aggregate_20,,,False,2019,75787,5859,8.4,,True
+Middle East and North Africa (20 economies),aggregate_20,,,False,2020,83274,7487,9.9,,True
+Middle East and North Africa (20 economies),aggregate_20,,,False,2021,89891,6617,7.9,,True
+Middle East and North Africa (20 economies),aggregate_20,,,False,2022,98044,8153,9.1,,True
+Middle East and North Africa (20 economies),aggregate_20,,,False,2023,113291,15247,15.6,,True
+Middle East and North Africa (20 economies),aggregate_20,,,False,2024,126936,13645,12.0,,True
+Middle East and North Africa (20 economies),aggregate_20,,,False,2025,148672,21736,17.1,,True
+Middle East,irena_region,,,False,2016,16718,,,Middle East,True
+Middle East,irena_region,,,False,2017,17085,367,2.2,Middle East,True
+Middle East,irena_region,,,False,2018,18650,1565,9.2,Middle East,True
+Middle East,irena_region,,,False,2019,21437,2787,14.9,Middle East,True
+Middle East,irena_region,,,False,2020,23627,2190,10.2,Middle East,True
+Middle East,irena_region,,,False,2021,25902,2275,9.6,Middle East,True
+Middle East,irena_region,,,False,2022,30981,5079,19.6,Middle East,True
+Middle East,irena_region,,,False,2023,37863,6882,22.2,Middle East,True
+Middle East,irena_region,,,False,2024,43778,5915,15.6,Middle East,True
+Middle East,irena_region,,,False,2025,56446,12668,28.9,Middle East,True
+Asia,irena_region,,,False,2016,813285,,,Asia,False
+Asia,irena_region,,,False,2017,920341,107056,13.2,Asia,False
+Asia,irena_region,,,False,2018,1025161,104820,11.4,Asia,False
+Asia,irena_region,,,False,2019,1125186,100025,9.8,Asia,False
+Asia,irena_region,,,False,2020,1301574,176388,15.7,Asia,False
+Asia,irena_region,,,False,2021,1456357,154783,11.9,Asia,False
+Asia,irena_region,,,False,2022,1630832,174475,12.0,Asia,False
+Asia,irena_region,,,False,2023,1961722,330890,20.3,Asia,False
+Asia,irena_region,,,False,2024,2377266,415544,21.2,Asia,False
+Asia,irena_region,,,False,2025,2890615,513349,21.6,Asia,False
+Africa,irena_region,,,False,2016,37065,,,Africa,False
+Africa,irena_region,,,False,2017,41461,4396,11.9,Africa,False
+Africa,irena_region,,,False,2018,45755,4294,10.4,Africa,False
+Africa,irena_region,,,False,2019,48229,2474,5.4,Africa,False
+Africa,irena_region,,,False,2020,51440,3211,6.7,Africa,False
+Africa,irena_region,,,False,2021,53574,2134,4.1,Africa,False
+Africa,irena_region,,,False,2022,58774,5200,9.7,Africa,False
+Africa,irena_region,,,False,2023,65478,6704,11.4,Africa,False
+Africa,irena_region,,,False,2024,71091,5613,8.6,Africa,False
+Africa,irena_region,,,False,2025,82371,11280,15.9,Africa,False
+Europe,irena_region,,,False,2016,487975,,,Europe,False
+Europe,irena_region,,,False,2017,511583,23608,4.8,Europe,False
+Europe,irena_region,,,False,2018,536263,24680,4.8,Europe,False
+Europe,irena_region,,,False,2019,573354,37091,6.9,Europe,False
+Europe,irena_region,,,False,2020,606691,33337,5.8,Europe,False
+Europe,irena_region,,,False,2021,649383,42692,7.0,Europe,False
+Europe,irena_region,,,False,2022,706769,57386,8.8,Europe,False
+Europe,irena_region,,,False,2023,782747,75978,10.8,Europe,False
+Europe,irena_region,,,False,2024,857563,74816,9.6,Europe,False
+Europe,irena_region,,,False,2025,934334,76771,9.0,Europe,False
+Eurasia,irena_region,,,False,2016,90437,,,Eurasia,False
+Eurasia,irena_region,,,False,2017,95221,4784,5.3,Eurasia,False
+Eurasia,irena_region,,,False,2018,99362,4141,4.3,Eurasia,False
+Eurasia,irena_region,,,False,2019,103065,3703,3.7,Eurasia,False
+Eurasia,irena_region,,,False,2020,109235,6170,6.0,Eurasia,False
+Eurasia,irena_region,,,False,2021,114852,5617,5.1,Eurasia,False
+Eurasia,irena_region,,,False,2022,118432,3580,3.1,Eurasia,False
+Eurasia,irena_region,,,False,2023,128956,10524,8.9,Eurasia,False
+Eurasia,irena_region,,,False,2024,133058,4102,3.2,Eurasia,False
+Eurasia,irena_region,,,False,2025,141409,8351,6.3,Eurasia,False
+North America,irena_region,,,False,2016,331180,,,N America,False
+North America,irena_region,,,False,2017,347620,16440,5.0,N America,False
+North America,irena_region,,,False,2018,365955,18335,5.3,N America,False
+North America,irena_region,,,False,2019,390522,24567,6.7,N America,False
+North America,irena_region,,,False,2020,422331,31809,8.1,N America,False
+North America,irena_region,,,False,2021,460822,38491,9.1,N America,False
+North America,irena_region,,,False,2022,490072,29250,6.3,N America,False
+North America,irena_region,,,False,2023,525998,35926,7.3,N America,False
+North America,irena_region,,,False,2024,571632,45634,8.7,N America,False
+North America,irena_region,,,False,2025,613690,42058,7.4,N America,False
+South America,irena_region,,,False,2016,203920,,,S America,False
+South America,irena_region,,,False,2017,210437,6517,3.2,S America,False
+South America,irena_region,,,False,2018,217014,6577,3.1,S America,False
+South America,irena_region,,,False,2019,223524,6510,3.0,S America,False
+South America,irena_region,,,False,2020,232548,9024,4.0,S America,False
+South America,irena_region,,,False,2021,246829,14281,6.1,S America,False
+South America,irena_region,,,False,2022,267358,20529,8.3,S America,False
+South America,irena_region,,,False,2023,289798,22440,8.4,S America,False
+South America,irena_region,,,False,2024,313139,23341,8.1,S America,False
+South America,irena_region,,,False,2025,332767,19628,6.3,S America,False
+Central America and the Caribbean,irena_region,,,False,2016,13201,,,C America + Carib,False
+Central America and the Caribbean,irena_region,,,False,2017,14033,832,6.3,C America + Carib,False
+Central America and the Caribbean,irena_region,,,False,2018,14984,951,6.8,C America + Carib,False
+Central America and the Caribbean,irena_region,,,False,2019,15889,905,6.0,C America + Carib,False
+Central America and the Caribbean,irena_region,,,False,2020,16428,539,3.4,C America + Carib,False
+Central America and the Caribbean,irena_region,,,False,2021,17070,642,3.9,C America + Carib,False
+Central America and the Caribbean,irena_region,,,False,2022,17626,556,3.3,C America + Carib,False
+Central America and the Caribbean,irena_region,,,False,2023,18694,1068,6.1,C America + Carib,False
+Central America and the Caribbean,irena_region,,,False,2024,19492,798,4.3,C America + Carib,False
+Central America and the Caribbean,irena_region,,,False,2025,21265,1773,9.1,C America + Carib,False
+Oceania,irena_region,,,False,2016,27009,,,Oceania,False
+Oceania,irena_region,,,False,2017,29161,2152,8.0,Oceania,False
+Oceania,irena_region,,,False,2018,34393,5232,17.9,Oceania,False
+Oceania,irena_region,,,False,2019,40279,5886,17.1,Oceania,False
+Oceania,irena_region,,,False,2020,47024,6745,16.7,Oceania,False
+Oceania,irena_region,,,False,2021,52331,5307,11.3,Oceania,False
+Oceania,irena_region,,,False,2022,58543,6212,11.9,Oceania,False
+Oceania,irena_region,,,False,2023,61574,3031,5.2,Oceania,False
+Oceania,irena_region,,,False,2024,70322,8748,14.2,Oceania,False
+Oceania,irena_region,,,False,2025,76383,6061,8.6,Oceania,False
+World,world,,,False,2016,2020792,,,World,True
+World,world,,,False,2017,2186943,166151,8.2,World,True
+World,world,,,False,2018,2357537,170594,7.8,World,True
+World,world,,,False,2019,2541486,183949,7.8,World,True
+World,world,,,False,2020,2810899,269413,10.6,World,True
+World,world,,,False,2021,3077120,266221,9.5,World,True
+World,world,,,False,2022,3379389,302269,9.8,World,True
+World,world,,,False,2023,3872829,493440,14.6,World,True
+World,world,,,False,2024,4457340,584511,15.1,World,True
+World,world,,,False,2025,5149280,691940,15.5,World,True

@@ -1,0 +1,43 @@
+source,entity,measure,published_value,unit,decimals,note
+IRENA press release (Zawya),World,capacity_2025,5149,GW,0,
+IRENA press release (Zawya),World,added_2025,692,GW,0,
+IRENA press release (Zawya),World,growth_2025_pct,15.5,pct,1,
+IRENA press release (Zawya),Asia,capacity_2025,2891,GW,0,
+IRENA press release (Zawya),Asia,added_2025,513.3,GW,1,
+IRENA press release (Zawya),Asia,growth_2025_pct,21.6,pct,1,
+IRENA press release (Zawya),Africa,added_2025,11.3,GW,1,
+IRENA press release (Zawya),Africa,growth_2025_pct,15.9,pct,1,
+IRENA press release (Zawya),Middle East,growth_2025_pct,28.9,pct,1,
+IRENA press release (Zawya),Europe,capacity_2025,934,GW,0,
+IRENA press release (Zawya),C America + Carib,capacity_2025,21,GW,0,
+Enterprise (19 April 2026),Middle East,capacity_2024,43.8,GW,1,
+Enterprise (19 April 2026),Middle East,capacity_2025,56.4,GW,1,
+Enterprise (19 April 2026),Middle East,growth_2025_pct,28.9,pct,1,
+Enterprise (19 April 2026),Saudi Arabia,capacity_2025,12.3,GW,1,
+Enterprise (19 April 2026),Saudi Arabia,capacity_2024,6.6,GW,1,
+Enterprise (19 April 2026),Saudi Arabia,growth_2025_pct,87,pct,0,
+Enterprise (19 April 2026),Oman,capacity_2025,1.7,GW,1,
+Enterprise (19 April 2026),Oman,capacity_2024,722,MW,0,
+Enterprise (19 April 2026),Oman,added_2025,1,GW,0,
+Enterprise (19 April 2026),Qatar,capacity_2025,1.7,GW,1,
+Enterprise (19 April 2026),Qatar,capacity_2024,824,MW,0,
+Enterprise (19 April 2026),United Arab Emirates,capacity_2025,7.9,GW,1,
+Enterprise (19 April 2026),United Arab Emirates,added_2025,1,GW,0,
+Enterprise (19 April 2026),Iran,capacity_2024,12.9,GW,1,The article cuts 12.96 to 12.9
+Enterprise (19 April 2026),Iran,capacity_2025,13.9,GW,1,The article cuts 13.96 to 13.9
+Enterprise (19 April 2026),Bahrain,capacity_2025,115,MW,0,
+Enterprise (19 April 2026),Bahrain,growth_2025_pct,66.7,pct,1,
+Enterprise (19 April 2026),Kuwait,capacity_2025,114,MW,0,
+Enterprise (19 April 2026),Egypt,capacity_2024,7.7,GW,1,
+Enterprise (19 April 2026),Egypt,capacity_2025,9.3,GW,1,
+Enterprise (19 April 2026),Egypt,growth_2025_pct,20,pct,0,
+Energetica India (11 April 2026),Morocco,capacity_2025,4851,MW,0,
+Energetica India (11 April 2026),Morocco,capacity_2024,4659,MW,0,
+Energetica India (11 April 2026),Morocco,added_2025,192,MW,0,
+Arab Energy Organisation annual report (Energetica India),Saudi Arabia,added_2025,5.7,GW,1,Different compiler
+Arab Energy Organisation annual report (Energetica India),Egypt,added_2025,1.5,GW,1,Different compiler
+Arab Energy Organisation annual report (Energetica India),United Arab Emirates,added_2025,1.3,GW,1,Different compiler. IRENA shows 1.054 GW
+Arab Energy Organisation annual report (Energetica India),Qatar,added_2025,0.9,GW,1,Different compiler
+Arab Energy Organisation annual report (Energetica India),Syria,added_2025,0.7,GW,1,Different compiler
+Arab Energy Organisation annual report (Energetica India),Tunisia,added_2025,0.1,GW,1,Different compiler
+Arab Energy Organisation annual report (Energetica India),Bahrain,added_2025,0.05,GW,2,Different compiler

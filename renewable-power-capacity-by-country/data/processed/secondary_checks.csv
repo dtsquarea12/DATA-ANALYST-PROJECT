@@ -1,0 +1,43 @@
+source,entity,measure,published_value,unit,irena_table_value,status,note
+IRENA press release (Zawya),World,capacity_2025,5149.0,GW,5149.28,agrees,
+IRENA press release (Zawya),World,added_2025,692.0,GW,691.94,agrees,
+IRENA press release (Zawya),World,growth_2025_pct,15.5,pct,15.524,agrees,
+IRENA press release (Zawya),Asia,capacity_2025,2891.0,GW,2890.615,agrees,
+IRENA press release (Zawya),Asia,added_2025,513.3,GW,513.349,agrees,
+IRENA press release (Zawya),Asia,growth_2025_pct,21.6,pct,21.594,agrees,
+IRENA press release (Zawya),Africa,added_2025,11.3,GW,11.28,agrees,
+IRENA press release (Zawya),Africa,growth_2025_pct,15.9,pct,15.867,agrees,
+IRENA press release (Zawya),Middle East,growth_2025_pct,28.9,pct,28.937,agrees,
+IRENA press release (Zawya),Europe,capacity_2025,934.0,GW,934.334,agrees,
+IRENA press release (Zawya),Central America and the Caribbean,capacity_2025,21.0,GW,21.265,agrees,
+Enterprise (19 April 2026),Middle East,capacity_2024,43.8,GW,43.778,agrees,
+Enterprise (19 April 2026),Middle East,capacity_2025,56.4,GW,56.446,agrees,
+Enterprise (19 April 2026),Middle East,growth_2025_pct,28.9,pct,28.937,agrees,
+Enterprise (19 April 2026),Saudi Arabia,capacity_2025,12.3,GW,12.332,agrees,
+Enterprise (19 April 2026),Saudi Arabia,capacity_2024,6.6,GW,6.601,agrees,
+Enterprise (19 April 2026),Saudi Arabia,growth_2025_pct,87.0,pct,86.82,agrees,
+Enterprise (19 April 2026),Oman,capacity_2025,1.7,GW,1.722,agrees,
+Enterprise (19 April 2026),Oman,capacity_2024,722.0,MW,722.0,agrees,
+Enterprise (19 April 2026),Oman,added_2025,1.0,GW,1.0,agrees,
+Enterprise (19 April 2026),Qatar,capacity_2025,1.7,GW,1.699,agrees,
+Enterprise (19 April 2026),Qatar,capacity_2024,824.0,MW,824.0,agrees,
+Enterprise (19 April 2026),United Arab Emirates,capacity_2025,7.9,GW,7.907,agrees,
+Enterprise (19 April 2026),United Arab Emirates,added_2025,1.0,GW,1.054,agrees,
+Enterprise (19 April 2026),Iran,capacity_2024,12.9,GW,12.961,agrees,The article cuts 12.96 to 12.9
+Enterprise (19 April 2026),Iran,capacity_2025,13.9,GW,13.963,agrees,The article cuts 13.96 to 13.9
+Enterprise (19 April 2026),Bahrain,capacity_2025,115.0,MW,115.0,agrees,
+Enterprise (19 April 2026),Bahrain,growth_2025_pct,66.7,pct,66.667,agrees,
+Enterprise (19 April 2026),Kuwait,capacity_2025,114.0,MW,114.0,agrees,
+Enterprise (19 April 2026),Egypt,capacity_2024,7.7,GW,7.716,agrees,
+Enterprise (19 April 2026),Egypt,capacity_2025,9.3,GW,9.258,agrees,
+Enterprise (19 April 2026),Egypt,growth_2025_pct,20.0,pct,19.984,agrees,
+Energetica India (11 April 2026),Morocco,capacity_2025,4851.0,MW,4851.0,agrees,
+Energetica India (11 April 2026),Morocco,capacity_2024,4659.0,MW,4659.0,agrees,
+Energetica India (11 April 2026),Morocco,added_2025,192.0,MW,192.0,agrees,
+Arab Energy Organisation annual report (Energetica India),Saudi Arabia,added_2025,5.7,GW,5.731,agrees,Different compiler
+Arab Energy Organisation annual report (Energetica India),Egypt,added_2025,1.5,GW,1.542,agrees,Different compiler
+Arab Energy Organisation annual report (Energetica India),United Arab Emirates,added_2025,1.3,GW,1.054,differs,Different compiler. IRENA shows 1.054 GW
+Arab Energy Organisation annual report (Energetica India),Qatar,added_2025,0.9,GW,0.875,agrees,Different compiler
+Arab Energy Organisation annual report (Energetica India),Syria,added_2025,0.7,GW,0.698,agrees,Different compiler
+Arab Energy Organisation annual report (Energetica India),Tunisia,added_2025,0.1,GW,0.12,agrees,Different compiler
+Arab Energy Organisation annual report (Energetica India),Bahrain,added_2025,0.05,GW,0.046,agrees,Different compiler
