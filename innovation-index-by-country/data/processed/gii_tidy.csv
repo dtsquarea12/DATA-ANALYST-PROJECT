@@ -1,0 +1,140 @@
+iso3,country,region,sub_region,wipo_nawa,score_2026,rank_2026,income_group_rank_2026,wipo_region_rank_2026,score_2025,rank_2025,rank_change,score_change,rank_check_2026,check_2025
+ISR,Israel,Middle East,Levant and Iraq,True,52.2,15,14.0,1,52.3,14.0,-1.0,-0.1,two-documents,two-documents
+ARE,United Arab Emirates,Middle East,Gulf,True,46.4,25,24.0,2,44.2,30.0,5.0,2.2,two-documents,two-documents
+SAU,Saudi Arabia,Middle East,Gulf,True,37.9,42,39.0,4,36.0,46.0,4.0,1.9,two-documents,two-documents
+TUR,Turkey,Middle East,"Iran, Turkey and Yemen",True,37.5,45,4.0,5,37.2,43.0,-2.0,0.3,two-documents,two-documents
+QAT,Qatar,Middle East,Gulf,True,36.6,47,41.0,6,34.6,48.0,1.0,2.0,two-documents,two-documents
+MAR,Morocco,Middle East,North Africa,True,32.8,54,4.0,7,31.1,57.0,3.0,1.7,two-documents,two-documents
+JOR,Jordan,Middle East,Levant and Iraq,True,31.5,60,5.0,10,29.7,65.0,5.0,1.8,two-documents,two-documents
+KWT,Kuwait,Middle East,Gulf,True,30.9,62,46.0,11,28.2,73.0,11.0,2.7,two-documents,two-documents
+BHR,Bahrain,Middle East,Gulf,True,30.8,64,47.0,12,30.0,62.0,-2.0,0.8,two-documents,two-documents
+OMN,Oman,Middle East,Gulf,True,30.0,69,49.0,13,28.7,69.0,0.0,1.3,two-documents,two-documents
+TUN,Tunisia,Middle East,North Africa,True,29.3,71,6.0,14,27.0,76.0,5.0,2.3,two-documents,two-documents
+IRN,Iran,Middle East,"Iran, Turkey and Yemen",False,27.6,81,23.0,5,28.5,70.0,-11.0,-0.9,two-documents,two-documents
+EGY,Egypt,Middle East,North Africa,True,26.1,83,9.0,15,24.7,86.0,3.0,1.4,two-documents,two-documents
+LBN,Lebanon,Middle East,Levant and Iraq,True,25.6,86,10.0,17,23.6,90.0,4.0,2.0,two-documents,two-documents
+DZA,Algeria,Middle East,North Africa,True,20.5,111,34.0,18,18.9,115.0,4.0,1.6,two-documents,two-documents
+CHE,Switzerland,Europe,Europe,False,66.7,1,1.0,1,66.0,1.0,0.0,0.7,two-documents,two-documents
+SWE,Sweden,Europe,Europe,False,63.2,2,2.0,2,62.6,2.0,0.0,0.6,two-documents,two-documents
+GBR,United Kingdom,Europe,Europe,False,59.6,6,6.0,3,59.1,6.0,0.0,0.5,two-documents,two-documents
+NLD,Netherlands,Europe,Europe,False,58.4,7,7.0,4,57.0,8.0,1.0,1.4,two-documents,two-documents
+FIN,Finland,Europe,Europe,False,57.9,8,8.0,5,57.7,7.0,-1.0,0.2,one-document-read-twice,two-documents
+DNK,Denmark,Europe,Europe,False,57.7,9,9.0,6,56.9,9.0,0.0,0.8,one-document-read-twice,two-documents
+DEU,Germany,Europe,Europe,False,56.8,11,10.0,7,55.5,11.0,0.0,1.3,two-documents,two-documents
+FRA,France,Europe,Europe,False,54.0,13,12.0,8,53.4,13.0,0.0,0.6,one-document-read-twice,two-documents
+EST,Estonia,Europe,Europe,False,50.4,17,16.0,9,51.1,16.0,-1.0,-0.7,two-documents,two-documents
+AUT,Austria,Europe,Europe,False,50.2,18,17.0,10,50.1,19.0,1.0,0.1,two-documents,two-documents
+IRL,Ireland,Europe,Europe,False,50.1,19,18.0,11,50.4,18.0,-1.0,-0.3,one-document-read-twice,two-documents
+NOR,Norway,Europe,Europe,False,48.5,21,20.0,12,49.2,20.0,-1.0,-0.7,one-document-read-twice,two-documents
+BEL,Belgium,Europe,Europe,False,48.5,22,21.0,13,48.5,21.0,-1.0,0.0,one-document-read-twice,two-documents
+LUX,Luxembourg,Europe,Europe,False,46.6,23,22.0,14,47.3,23.0,0.0,-0.7,one-document-read-twice,two-documents
+ISL,Iceland,Europe,Europe,False,46.3,26,25.0,15,47.0,24.0,-2.0,-0.7,one-document-read-twice,two-documents
+ITA,Italy,Europe,Europe,False,46.2,27,26.0,16,44.9,28.0,1.0,1.3,two-documents,two-documents
+ESP,Spain,Europe,Europe,False,45.4,28,27.0,17,44.6,29.0,1.0,0.8,two-documents,two-documents
+CYP,Cyprus,Europe,Europe,True,45.3,29,28.0,3,45.5,25.0,-4.0,-0.2,two-documents,sources-differ
+PRT,Portugal,Europe,Europe,False,44.5,30,29.0,18,43.9,31.0,1.0,0.6,two-documents,two-documents
+MLT,Malta,Europe,Europe,False,43.8,31,30.0,19,45.4,27.0,-4.0,-1.6,one-document-read-twice,two-documents
+LTU,Lithuania,Europe,Europe,False,43.2,32,31.0,20,40.8,33.0,1.0,2.4,two-documents,two-documents
+CZE,Czech Republic,Europe,Europe,False,42.8,33,32.0,21,42.0,32.0,-1.0,0.8,one-document-read-twice,two-documents
+SVN,Slovenia,Europe,Europe,False,41.1,35,33.0,22,40.1,35.0,0.0,1.0,one-document-read-twice,two-documents
+HUN,Hungary,Europe,Europe,False,40.7,36,34.0,23,40.0,36.0,0.0,0.7,one-document-read-twice,two-documents
+BGR,Bulgaria,Europe,Europe,False,40.3,37,35.0,24,39.1,37.0,0.0,1.2,one-document-read-twice,two-documents
+POL,Poland,Europe,Europe,False,39.5,39,36.0,25,37.7,39.0,0.0,1.8,one-document-read-twice,two-documents
+LVA,Latvia,Europe,Europe,False,38.3,40,37.0,26,37.5,41.0,1.0,0.8,two-documents,two-documents
+GRC,Greece,Europe,Europe,False,38.2,41,38.0,27,37.4,42.0,1.0,0.8,one-document-read-twice,two-documents
+HRV,Croatia,Europe,Europe,False,36.9,46,40.0,28,37.7,40.0,-6.0,-0.8,one-document-read-twice,two-documents
+SVK,Slovakia,Europe,Europe,False,36.5,48,42.0,29,35.5,47.0,-1.0,1.0,one-document-read-twice,two-documents
+ROU,Romania,Europe,Europe,False,35.3,49,43.0,30,34.3,49.0,0.0,1.0,one-document-read-twice,two-documents
+SRB,Serbia,Europe,Europe,False,32.5,56,8.0,31,31.7,54.0,-2.0,0.8,one-document-read-twice,two-documents
+RUS,Russia,Europe,Europe,False,31.8,58,45.0,32,30.3,60.0,2.0,1.5,one-document-read-twice,two-documents
+MKD,North Macedonia,Europe,Europe,False,31.2,61,11.0,33,29.8,63.0,2.0,1.4,one-document-read-twice,two-documents
+UKR,Ukraine,Europe,Europe,False,30.4,67,14.0,34,29.7,66.0,-1.0,0.7,one-document-read-twice,two-documents
+MDA,Moldova,Europe,Europe,False,30.3,68,15.0,35,27.4,74.0,6.0,2.9,two-documents,two-documents
+MNE,Montenegro,Europe,Europe,False,28.8,76,19.0,36,29.8,64.0,-12.0,-1.0,one-document-read-twice,two-documents
+ALB,Albania,Europe,Europe,False,28.3,79,21.0,37,29.6,67.0,-12.0,-1.3,one-document-read-twice,two-documents
+BIH,Bosnia and Herzegovina,Europe,Europe,False,26.1,84,25.0,38,23.4,92.0,8.0,2.7,two-documents,two-documents
+BLR,Belarus,Europe,Europe,False,24.5,88,28.0,39,25.1,85.0,-3.0,-0.6,one-document-read-twice,two-documents
+KOR,South Korea,Rest of Asia,Rest of Asia,False,61.4,4,4.0,1,60.0,4.0,0.0,1.4,two-documents,two-documents
+SGP,Singapore,Rest of Asia,Rest of Asia,False,61.0,5,5.0,2,59.9,5.0,0.0,1.1,two-documents,two-documents
+CHN,China,Rest of Asia,Rest of Asia,False,57.0,10,1.0,3,56.6,10.0,0.0,0.4,two-documents,two-documents
+JPN,Japan,Rest of Asia,Rest of Asia,False,54.1,12,11.0,4,53.6,12.0,0.0,0.5,two-documents,two-documents
+HKG,Hong Kong,Rest of Asia,Rest of Asia,False,53.2,14,13.0,5,51.5,15.0,1.0,1.7,two-documents,two-documents
+MYS,Malaysia,Rest of Asia,Rest of Asia,False,41.8,34,2.0,8,40.6,34.0,0.0,1.2,two-documents,two-documents
+IND,India,Rest of Asia,Rest of Asia,False,40.1,38,1.0,1,38.2,38.0,0.0,1.9,two-documents,two-documents
+VNM,Vietnam,Rest of Asia,Rest of Asia,False,37.7,43,2.0,9,37.1,44.0,1.0,0.6,two-documents,two-documents
+THA,Thailand,Rest of Asia,Rest of Asia,False,37.6,44,3.0,10,36.7,45.0,1.0,0.9,two-documents,two-documents
+PHL,Philippines,Rest of Asia,Rest of Asia,False,33.8,52,3.0,11,33.6,50.0,-2.0,0.2,two-documents,two-documents
+IDN,Indonesia,Rest of Asia,Rest of Asia,False,32.7,55,7.0,12,31.3,55.0,0.0,1.4,two-documents,two-documents
+GEO,Georgia,Rest of Asia,Rest of Asia,True,32.2,57,9.0,8,31.2,56.0,-1.0,1.0,one-document-read-twice,two-documents
+ARM,Armenia,Rest of Asia,Rest of Asia,True,31.6,59,10.0,9,30.5,59.0,0.0,1.1,one-document-read-twice,two-documents
+MNG,Mongolia,Rest of Asia,Rest of Asia,False,29.1,72,16.0,13,26.7,78.0,6.0,2.4,two-documents,two-documents
+KAZ,Kazakhstan,Rest of Asia,Rest of Asia,False,29.1,73,17.0,2,26.3,81.0,8.0,2.8,two-documents,two-documents
+BTN,Bhutan,Rest of Asia,Rest of Asia,False,28.9,74,7.0,3,,,,,two-documents,
+UZB,Uzbekistan,Rest of Asia,Rest of Asia,False,28.7,77,8.0,4,26.5,79.0,2.0,2.2,two-documents,two-documents
+AZE,Azerbaijan,Rest of Asia,Rest of Asia,True,25.8,85,26.0,16,22.9,94.0,9.0,2.9,two-documents,two-documents
+KGZ,Kyrgyzstan,Rest of Asia,Rest of Asia,False,24.1,92,12.0,6,22.6,96.0,4.0,1.5,two-documents,two-documents
+KHM,Cambodia,Rest of Asia,Rest of Asia,False,23.8,93,13.0,14,22.0,100.0,7.0,1.8,two-documents,sources-differ
+LKA,Sri Lanka,Rest of Asia,Rest of Asia,False,23.7,94,14.0,7,22.9,93.0,-1.0,0.8,one-document-read-twice,two-documents
+PAK,Pakistan,Rest of Asia,Rest of Asia,False,23.7,95,15.0,8,22.1,99.0,4.0,1.6,two-documents,two-documents
+BRN,Brunei,Rest of Asia,Rest of Asia,False,23.0,98,53.0,15,24.5,88.0,-10.0,-1.5,one-document-read-twice,two-documents
+NPL,Nepal,Rest of Asia,Rest of Asia,False,22.3,104,19.0,9,20.2,107.0,3.0,2.1,two-documents,two-documents
+BGD,Bangladesh,Rest of Asia,Rest of Asia,False,21.5,105,20.0,10,21.0,106.0,1.0,0.5,two-documents,two-documents
+LAO,Laos,Rest of Asia,Rest of Asia,False,21.2,108,21.0,16,20.1,109.0,1.0,1.1,one-document-read-twice,two-documents
+TJK,Tajikistan,Rest of Asia,Rest of Asia,False,20.3,112,23.0,11,20.2,108.0,-4.0,0.1,one-document-read-twice,two-documents
+MMR,Myanmar,Rest of Asia,Rest of Asia,False,17.4,125,32.0,17,17.3,122.0,-3.0,0.1,one-document-read-twice,two-documents
+MUS,Mauritius,Rest of Africa,Rest of Africa,False,34.1,50,5.0,1,32.5,53.0,3.0,1.6,two-documents,two-documents
+ZAF,South Africa,Rest of Africa,Rest of Africa,False,30.9,63,12.0,2,30.1,61.0,-2.0,0.8,two-documents,two-documents
+BWA,Botswana,Rest of Africa,Rest of Africa,False,27.1,82,24.0,3,24.6,87.0,5.0,2.5,two-documents,two-documents
+SEN,Senegal,Rest of Africa,Rest of Africa,False,24.4,90,11.0,4,23.8,89.0,-1.0,0.6,two-documents,two-documents
+RWA,Rwanda,Rest of Africa,Rest of Africa,False,23.3,96,1.0,5,21.1,104.0,8.0,2.2,two-documents,two-documents
+KEN,Kenya,Rest of Africa,Rest of Africa,False,23.0,97,16.0,6,21.4,102.0,5.0,1.6,two-documents,sources-differ
+GHA,Ghana,Rest of Africa,Rest of Africa,False,22.6,101,17.0,7,21.9,101.0,0.0,0.7,one-document-read-twice,two-documents
+NAM,Namibia,Rest of Africa,Rest of Africa,False,22.5,102,18.0,8,23.5,91.0,-11.0,-1.0,one-document-read-twice,two-documents
+CPV,Cape Verde,Rest of Africa,Rest of Africa,False,22.4,103,31.0,9,22.6,95.0,-8.0,-0.2,one-document-read-twice,two-documents
+CIV,Ivory Coast,Rest of Africa,Rest of Africa,False,20.8,110,22.0,10,19.7,110.0,0.0,1.1,one-document-read-twice,two-documents
+MDG,Madagascar,Rest of Africa,Rest of Africa,False,20.2,113,2.0,11,17.6,120.0,7.0,2.6,two-documents,two-documents
+ZMB,Zambia,Rest of Africa,Rest of Africa,False,19.5,115,25.0,12,19.6,112.0,-3.0,-0.1,one-document-read-twice,two-documents
+BEN,Benin,Rest of Africa,Rest of Africa,False,19.1,117,27.0,13,17.8,118.0,1.0,1.3,one-document-read-twice,two-documents
+NGA,Nigeria,Rest of Africa,Rest of Africa,False,19.1,118,28.0,14,21.1,105.0,-13.0,-2.0,two-documents,two-documents
+TZA,Tanzania,Rest of Africa,Rest of Africa,False,19.0,119,29.0,15,17.5,121.0,2.0,1.5,one-document-read-twice,two-documents
+CMR,Cameroon,Rest of Africa,Rest of Africa,False,18.9,121,30.0,16,18.2,116.0,-5.0,0.7,one-document-read-twice,two-documents
+TGO,Togo,Rest of Africa,Rest of Africa,False,18.7,122,3.0,17,18.1,117.0,-5.0,0.6,one-document-read-twice,two-documents
+UGA,Uganda,Rest of Africa,Rest of Africa,False,18.4,123,4.0,18,17.1,124.0,1.0,1.3,one-document-read-twice,two-documents
+MWI,Malawi,Rest of Africa,Rest of Africa,False,17.2,126,5.0,19,16.0,125.0,-1.0,1.2,one-document-read-twice,two-documents
+LSO,Lesotho,Rest of Africa,Rest of Africa,False,16.5,128,33.0,20,14.9,132.0,4.0,1.6,one-document-read-twice,two-documents
+MOZ,Mozambique,Rest of Africa,Rest of Africa,False,16.1,129,6.0,21,15.4,128.0,-1.0,0.7,two-documents,two-documents
+BFA,Burkina Faso,Rest of Africa,Rest of Africa,False,16.1,130,7.0,22,15.9,126.0,-4.0,0.2,one-document-read-twice,two-documents
+MRT,Mauritania,Rest of Africa,Rest of Africa,False,16.1,131,34.0,23,15.4,131.0,0.0,0.7,one-document-read-twice,two-documents
+ZWE,Zimbabwe,Rest of Africa,Rest of Africa,False,16.1,132,35.0,24,15.4,129.0,-3.0,0.7,two-documents,two-documents
+ETH,Ethiopia,Rest of Africa,Rest of Africa,False,15.7,133,,25,14.4,134.0,1.0,1.3,one-document-read-twice,two-documents
+MLI,Mali,Rest of Africa,Rest of Africa,False,15.2,134,8.0,26,14.0,135.0,1.0,1.2,one-document-read-twice,two-documents
+BDI,Burundi,Rest of Africa,Rest of Africa,False,15.1,135,9.0,27,15.8,127.0,-8.0,-0.7,one-document-read-twice,two-documents
+AGO,Angola,Rest of Africa,Rest of Africa,False,13.0,136,36.0,28,13.0,138.0,2.0,0.0,one-document-read-twice,two-documents
+COD,DR Congo,Rest of Africa,Rest of Africa,False,12.6,137,10.0,29,,,,,one-document-read-twice,
+NER,Niger,Rest of Africa,Rest of Africa,False,12.1,138,11.0,30,11.9,139.0,1.0,0.2,one-document-read-twice,two-documents
+TCD,Chad,Rest of Africa,Rest of Africa,False,9.5,139,12.0,31,,,,,one-document-read-twice,
+USA,United States,North America,North America,False,62.3,3,3.0,1,61.7,3.0,0.0,0.6,two-documents,two-documents
+CAN,Canada,North America,North America,False,51.1,16,15.0,2,51.1,17.0,1.0,0.0,two-documents,two-documents
+MEX,Mexico,North America,North America,False,30.6,65,13.0,3,30.5,58.0,-7.0,0.1,two-documents,two-documents
+CRI,Costa Rica,North America,North America,False,29.8,70,50.0,5,28.4,72.0,2.0,1.4,two-documents,two-documents
+JAM,Jamaica,North America,North America,False,24.9,87,27.0,9,25.2,83.0,-4.0,-0.3,one-document-read-twice,two-documents
+PAN,Panama,North America,North America,False,24.4,89,51.0,10,25.9,82.0,-7.0,-1.5,one-document-read-twice,two-documents
+BRB,Barbados,North America,North America,False,24.2,91,52.0,11,25.1,84.0,-7.0,-0.9,one-document-read-twice,two-documents
+DOM,Dominican Republic,North America,North America,False,22.9,99,29.0,12,22.6,97.0,-2.0,0.3,one-document-read-twice,two-documents
+SLV,El Salvador,North America,North America,False,22.8,100,30.0,13,22.2,98.0,-2.0,0.6,one-document-read-twice,two-documents
+TTO,Trinidad and Tobago,North America,North America,False,21.2,107,54.0,15,19.3,114.0,7.0,1.9,two-documents,two-documents
+HND,Honduras,North America,North America,False,19.2,116,26.0,18,17.7,119.0,3.0,1.5,two-documents,two-documents
+GTM,Guatemala,North America,North America,False,19.0,120,35.0,19,17.1,123.0,3.0,1.9,two-documents,two-documents
+NIC,Nicaragua,North America,North America,False,18.0,124,31.0,20,15.4,130.0,6.0,2.6,two-documents,two-documents
+CHL,Chile,South America,South America,False,33.8,51,44.0,1,33.1,51.0,0.0,0.7,two-documents,two-documents
+BRA,Brazil,South America,South America,False,33.5,53,6.0,2,32.9,52.0,-1.0,0.6,two-documents,two-documents
+URY,Uruguay,South America,South America,False,30.5,66,48.0,4,28.8,68.0,2.0,1.7,two-documents,two-documents
+ARG,Argentina,South America,South America,False,28.8,75,18.0,6,26.8,77.0,2.0,2.0,one-document-read-twice,two-documents
+COL,Colombia,South America,South America,False,28.6,78,20.0,7,28.5,71.0,-7.0,0.1,one-document-read-twice,two-documents
+PER,Peru,South America,South America,False,27.9,80,22.0,8,26.5,80.0,0.0,1.4,two-documents,two-documents
+ECU,Ecuador,South America,South America,False,21.3,106,32.0,14,19.5,113.0,7.0,1.8,two-documents,two-documents
+PRY,Paraguay,South America,South America,False,21.1,109,33.0,16,21.4,103.0,-6.0,-0.3,one-document-read-twice,sources-differ
+BOL,Bolivia,South America,South America,False,19.7,114,24.0,17,19.6,111.0,-3.0,0.1,one-document-read-twice,two-documents
+VEN,Venezuela,South America,South America,False,16.7,127,,21,13.7,136.0,9.0,3.0,two-documents,two-documents
+AUS,Australia,Oceania,Oceania,False,49.6,20,19.0,6,48.0,22.0,2.0,1.6,two-documents,two-documents
+NZL,New Zealand,Oceania,Oceania,False,46.4,24,23.0,7,45.5,26.0,2.0,0.9,two-documents,sources-differ

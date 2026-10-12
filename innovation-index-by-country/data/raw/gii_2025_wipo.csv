@@ -1,0 +1,140 @@
+gii_rank,economy,score,income_group_rank,region_rank
+1,Switzerland,66.0,1,1
+2,Sweden,62.6,2,2
+3,United States,61.7,3,1
+4,Republic of Korea,60.0,4,1
+5,Singapore,59.9,5,2
+6,United Kingdom,59.1,6,3
+7,Finland,57.7,7,4
+8,Netherlands (Kingdom of the),57.0,8,5
+9,Denmark,56.9,9,6
+10,China,56.6,1,3
+11,Germany,55.5,10,7
+12,Japan,53.6,11,4
+13,France,53.4,12,8
+14,Israel,52.3,13,1
+15,"Hong Kong, China",51.5,14,5
+16,Estonia,51.1,15,9
+17,Canada,51.1,16,2
+18,Ireland,50.4,17,10
+19,Austria,50.1,18,11
+20,Norway,49.2,19,12
+21,Belgium,48.5,20,13
+22,Australia,48.0,21,6
+23,Luxembourg,47.3,22,14
+24,Iceland,47.0,23,15
+25,Cyprus,45.5,24,2
+26,New Zealand,45.5,25,7
+27,Malta,45.4,26,16
+28,Italy,44.9,27,17
+29,Spain,44.6,28,18
+30,United Arab Emirates,44.2,29,3
+31,Portugal,43.9,30,19
+32,Czech Republic,42.0,31,20
+33,Lithuania,40.8,32,21
+34,Malaysia,40.6,2,8
+35,Slovenia,40.1,33,22
+36,Hungary,40.0,34,23
+37,Bulgaria,39.1,35,24
+38,India,38.2,1,1
+39,Poland,37.7,36,25
+40,Croatia,37.7,37,26
+41,Latvia,37.5,38,27
+42,Greece,37.4,39,28
+43,Türkiye,37.2,3,4
+44,Viet Nam,37.1,2,9
+45,Thailand,36.7,4,10
+46,Saudi Arabia,36.0,40,5
+47,Slovakia,35.5,41,29
+48,Qatar,34.6,42,6
+49,Romania,34.3,43,30
+50,Philippines,33.6,3,11
+51,Chile,33.1,44,1
+52,Brazil,32.9,5,2
+53,Mauritius,32.5,6,1
+54,Serbia,31.7,7,31
+55,Indonesia,31.3,8,12
+56,Georgia,31.2,9,7
+57,Morocco,31.1,4,8
+58,Mexico,30.5,10,3
+59,Armenia,30.5,11,9
+60,Russian Federation,30.3,45,32
+61,South Africa,30.1,12,2
+62,Bahrain,30.0,46,10
+63,North Macedonia,29.8,13,33
+64,Montenegro,29.8,14,34
+65,Jordan,29.7,5,11
+66,Ukraine,29.7,15,35
+67,Albania,29.6,16,36
+68,Uruguay,28.8,47,4
+69,Oman,28.7,48,12
+70,Iran (Islamic Republic of),28.5,17,2
+71,Colombia,28.5,18,5
+72,Costa Rica,28.4,19,6
+73,Kuwait,28.2,49,13
+74,Republic of Moldova,27.4,20,37
+75,Seychelles,27.2,50,3
+76,Tunisia,27.0,6,14
+77,Argentina,26.8,21,7
+78,Mongolia,26.7,22,13
+79,Uzbekistan,26.5,7,3
+80,Peru,26.5,23,8
+81,Kazakhstan,26.3,24,4
+82,Panama,25.9,51,9
+83,Jamaica,25.2,25,10
+84,Barbados,25.1,52,11
+85,Belarus,25.1,26,38
+86,Egypt,24.7,8,15
+87,Botswana,24.6,27,4
+88,Brunei Darussalam,24.5,53,14
+89,Senegal,23.8,9,5
+90,Lebanon,23.6,10,16
+91,Namibia,23.5,28,6
+92,Bosnia and Herzegovina,23.4,29,39
+93,Sri Lanka,22.9,11,5
+94,Azerbaijan,22.9,30,17
+95,Cabo Verde,22.6,12,7
+96,Kyrgyzstan,22.6,13,6
+97,Dominican Republic,22.6,31,12
+98,El Salvador,22.2,32,13
+99,Pakistan,22.1,14,7
+100,Cambodia,22.0,15,15
+101,Ghana,21.9,16,8
+102,Kenya,21.4,17,9
+103,Paraguay,21.4,33,14
+104,Rwanda,21.1,1,10
+105,Nigeria,21.1,18,11
+106,Bangladesh,21.0,19,8
+107,Nepal,20.2,20,9
+108,Tajikistan,20.2,21,10
+109,Lao People's Democratic Republic,20.1,22,16
+110,Côte d'Ivoire,19.7,23,12
+111,Bolivia (Plurinational State of),19.6,24,15
+112,Zambia,19.6,25,13
+113,Ecuador,19.5,34,16
+114,Trinidad and Tobago,19.3,54,17
+115,Algeria,18.9,35,18
+116,Cameroon,18.2,26,14
+117,Togo,18.1,2,15
+118,Benin,17.8,27,16
+119,Honduras,17.7,28,18
+120,Madagascar,17.6,3,17
+121,United Republic of Tanzania,17.5,29,18
+122,Myanmar,17.3,30,17
+123,Guatemala,17.1,36,19
+124,Uganda,17.1,4,19
+125,Malawi,16.0,5,20
+126,Burkina Faso,15.9,6,21
+127,Burundi,15.8,7,22
+128,Mozambique,15.4,8,23
+129,Zimbabwe,15.4,31,24
+130,Nicaragua,15.4,32,20
+131,Mauritania,15.4,33,25
+132,Lesotho,14.9,34,26
+133,Guinea,14.9,35,27
+134,Ethiopia,14.4,9,28
+135,Mali,14.0,10,29
+136,Venezuela (Bolivarian Republic of),13.7,,21
+137,Congo,13.6,36,30
+138,Angola,13.0,37,31
+139,Niger,11.9,11,32

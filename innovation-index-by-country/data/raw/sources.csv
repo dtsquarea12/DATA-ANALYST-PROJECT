@@ -1,0 +1,8 @@
+source_id,publisher,title,url,used_for
+wipo_gii_2026_exec,WIPO,Global Innovation Index 2026 Executive Version (table on printed page 7),https://www.wipo.int/web-publications/global-innovation-index-2026-executive-version/assets/87166/2000-GII-2026 Executive Version - EN_150dpi.pdf,"2026 score, rank, income-group rank, region rank for 139 economies (read twice: gii_2026_reading_a.csv and gii_2026_reading_b.md)"
+wipo_gii_2026_web,WIPO,GII 2026 results (web publication),https://www.wipo.int/web-publications-preview/global-innovation-index-2026/en/gii-2026-results.html,2026 ranks named in the text for 77 economies (gii_2026_web_page_ranks.csv)
+wipo_gii_2025_exec,WIPO,Global Innovation Index 2025 Executive Version,https://tind.wipo.int/record/58871/files/wipo-pub-2000-2025-exec-en-global-innovation-index-2025%5B1%5D.pdf,2025 score and rank for 139 economies (gii_2025_wipo.csv)
+wikipedia_gii,Wikipedia,Global Innovation Index,https://en.wikipedia.org/wiki/Global_Innovation_Index,2025 score and rank for 139 economies (gii_2025_wikipedia.csv)
+wipo_profile_ae_2026,WIPO,GII 2026 economy profile: United Arab Emirates,https://www.wipo.int/edocs/gii-ranking/2026/ae.pdf,UAE rank by year and pillar ranks
+muscat_daily_2026,Muscat Daily,Oman ranks 69th in Global Innovation Index 2026 (29 September 2026),https://www.muscatdaily.com/2026/09/29/oman-ranks-69th-in-global-innovation-index-2026/,2026 ranks of the six Gulf states
+arab_news_2025,Arab News,Saudi Arabia climbs to 46th in UN Global Innovation Index,https://www.arabnews.com/node/2615632/business-economy,2025 ranks of seven Middle East economies

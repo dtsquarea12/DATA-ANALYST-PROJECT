@@ -1,0 +1,17 @@
+source_id,country,edition,metric,published,table,agrees
+muscat_daily_2026,Oman,2026,gii_rank,69,69.0,True
+muscat_daily_2026,United Arab Emirates,2026,gii_rank,25,25.0,True
+muscat_daily_2026,Saudi Arabia,2026,gii_rank,42,42.0,True
+muscat_daily_2026,Qatar,2026,gii_rank,47,47.0,True
+muscat_daily_2026,Kuwait,2026,gii_rank,62,62.0,True
+muscat_daily_2026,Bahrain,2026,gii_rank,64,64.0,True
+wipo_profile_ae_2026,United Arab Emirates,2026,gii_rank,25,25.0,True
+wipo_profile_ae_2026,United Arab Emirates,2025,gii_rank,30,30.0,True
+wipo_profile_ae_2026,United Arab Emirates,2026,region_rank,2,2.0,True
+arab_news_2025,Saudi Arabia,2025,gii_rank,46,46.0,True
+arab_news_2025,United Arab Emirates,2025,gii_rank,30,30.0,True
+arab_news_2025,Qatar,2025,gii_rank,48,48.0,True
+arab_news_2025,Morocco,2025,gii_rank,57,57.0,True
+arab_news_2025,Bahrain,2025,gii_rank,62,62.0,True
+arab_news_2025,Jordan,2025,gii_rank,65,65.0,True
+arab_news_2025,Kuwait,2025,gii_rank,73,73.0,True

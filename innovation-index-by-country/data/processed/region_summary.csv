@@ -1,0 +1,14 @@
+level,group,economies,mean_score_2026,median_rank_2026,best,best_rank,moved_up,moved_down,unchanged,new_in_2026,in_top_50
+world,World,139,32.32,70.0,Switzerland,1,60,49,27,3,50
+region,Middle East,15,33.05,62.0,Israel,15,10,4,1,0,5
+region,Europe,40,43.42,31.5,Switzerland,1,12,16,12,0,31
+region,Rest of Asia,28,33.46,72.5,South Korea,4,13,6,8,1,9
+region,Rest of Africa,31,19.2,121.0,Mauritius,50,13,13,3,2,1
+region,North America,13,28.49,91.0,United States,3,6,6,1,0,2
+region,South America,10,26.19,79.0,Chile,51,4,4,2,0,0
+region,Oceania,2,48.0,22.0,Australia,20,2,0,0,0,2
+middle_east_sub_region,Gulf,6,35.43,54.5,United Arab Emirates,25,4,1,1,0,3
+middle_east_sub_region,Levant and Iraq,3,36.43,60.0,Israel,15,2,1,0,0,1
+middle_east_sub_region,"Iran, Turkey and Yemen",2,32.55,63.0,Turkey,45,0,2,0,0,1
+middle_east_sub_region,North Africa,4,27.17,77.0,Morocco,54,4,0,0,0,0
+wipo_region,Northern Africa and Western Asia (WIPO),18,33.5,59.5,Israel,15,11,5,2,0,6
