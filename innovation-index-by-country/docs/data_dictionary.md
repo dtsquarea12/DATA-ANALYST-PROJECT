@@ -64,7 +64,7 @@ The 15 Middle East economies in the index, Gulf first. Columns iso3, country, su
 | File | Columns |
 |---|---|
 | gii_2026_reading_a.csv | gii_rank, economy (WIPO name), score, income_group_rank, region_rank |
-| gii_2026_reading_b.md | Markdown table: Economy, Score, GII rank, Rank within income group, Rank within region |
+| gii_2026_reading_b.csv | economy, score, gii_rank, income_group_rank, region_rank |
 | gii_2026_web_page_ranks.csv | gii_rank, economy as named in the web page text |
 | gii_2025_wipo.csv | gii_rank, economy, score, income_group_rank, region_rank |
 | gii_2025_wikipedia.csv | economy (Wikipedia name), rank_2025, score_2025 |

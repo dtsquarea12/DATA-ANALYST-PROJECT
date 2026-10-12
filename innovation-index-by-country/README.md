@@ -124,7 +124,7 @@ For **analysts using the index**:
 | File | Rows | What it holds |
 |---|---|---|
 | `data/raw/gii_2026_reading_a.csv` | 139 | GII 2026 table, first reading (CSV) |
-| `data/raw/gii_2026_reading_b.md` | 139 | GII 2026 table, second reading (table), same document |
+| `data/raw/gii_2026_reading_b.csv` | 139 | GII 2026 table, second reading, same document |
 | `data/raw/gii_2026_web_page_ranks.csv` | 77 | 2026 ranks named in the text of WIPO's GII 2026 results web page |
 | `data/raw/gii_2025_wipo.csv` | 139 | GII 2025 table, WIPO executive version |
 | `data/raw/gii_2025_wikipedia.csv` | 139 | GII 2025 table as printed on Wikipedia |

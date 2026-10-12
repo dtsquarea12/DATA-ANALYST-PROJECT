@@ -1,7 +1,7 @@
 """Build the analysis tables for the innovation index by country project.
 
 Run from the project folder:  python scripts/build_data.py
-Reads  data/raw/gii_2026_reading_a.csv, gii_2026_reading_b.md, gii_2026_web_page_ranks.csv,
+Reads  data/raw/gii_2026_reading_a.csv, gii_2026_reading_b.csv, gii_2026_web_page_ranks.csv,
        gii_2025_wipo.csv, gii_2025_wikipedia.csv, published_figures.csv, country_reference.csv
 Writes data/processed/gii_tidy.csv, data/processed/middle_east.csv,
        data/processed/region_summary.csv, data/processed/source_checks.csv
@@ -53,19 +53,6 @@ def name(s):
     return ALIAS.get(s, s)
 
 
-def read_md(path):
-    rows = []
-    with open(path, encoding="utf-8") as f:
-        for line in f:
-            cells = [c.strip() for c in line.strip().strip("|").split("|")]
-            if len(cells) < 3 or cells[0] in ("Economy", "") or set(cells[0]) <= set("-"):
-                continue
-            rows.append({"economy": cells[0], "score": float(cells[1]), "gii_rank": int(cells[2]),
-                         "income_group_rank": None if cells[3] in ("—", "") else int(cells[3]),
-                         "region_rank": int(cells[4])})
-    return pd.DataFrame(rows)
-
-
 def check_order(df, label):
     """Published ranks must follow the scores: a higher rank never has a higher score."""
     d = df.sort_values("gii_rank")
@@ -76,7 +63,7 @@ def check_order(df, label):
 
 def load_2026():
     a = pd.read_csv(os.path.join(RAW, "gii_2026_reading_a.csv"))
-    b = read_md(os.path.join(RAW, "gii_2026_reading_b.md"))
+    b = pd.read_csv(os.path.join(RAW, "gii_2026_reading_b.csv"))
     for df, label in ((a, "2026 reading A"), (b, "2026 reading B")):
         assert len(df) == N_ECONOMIES, f"{label}: expected {N_ECONOMIES} rows"
         check_order(df, label)
