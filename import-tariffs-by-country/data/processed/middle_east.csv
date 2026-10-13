@@ -1,0 +1,21 @@
+country,iso3,sub_region,in_table,wto_member,mfn_year,mfn_applied_avg,bound_avg,rank_low_to_high,economies_higher,share_economies_lower_pct,readings,wto_profile_check
+Kuwait,KWT,Gulf,True,True,2025.0,4.6,98.0,29.0,103.0,21.2,two,confirmed: same value and year
+Bahrain,BHR,Gulf,True,True,2025.0,4.7,34.9,30.0,101.0,22.0,two,confirmed: same value and year
+Qatar,QAT,Gulf,True,True,2025.0,4.7,15.6,30.0,101.0,22.0,two,confirmed: same value and year
+United Arab Emirates,ARE,Gulf,True,True,2025.0,4.8,14.4,32.0,100.0,23.5,two,differs: profile shows another year
+Oman,OMN,Gulf,True,True,2025.0,5.5,14.1,39.0,89.0,28.8,two,differs: profile shows another year
+Saudi Arabia,SAU,Gulf,True,True,2025.0,5.9,11.0,47.0,84.0,34.8,two,confirmed value: profile labels another year
+Israel,ISR,Levant and Iraq,True,True,2025.0,1.1,22.5,8.0,124.0,5.3,two,not checked
+Jordan,JOR,Levant and Iraq,True,True,2025.0,4.0,16.2,24.0,108.0,17.4,two,not checked
+Palestine,PSE,Levant and Iraq,False,,,,,,,,,
+Iraq,IRQ,Levant and Iraq,False,,,,,,,,,
+Lebanon,LBN,Levant and Iraq,False,,,,,,,,,
+Syria,SYR,Levant and Iraq,False,,,,,,,,,
+Turkey,TUR,"Iran, Turkey and Yemen",True,True,2025.0,17.3,28.9,127.0,5.0,95.5,two,differs: profile shows another year
+Yemen,YEM,"Iran, Turkey and Yemen",True,True,,,21.7,,,,two,not checked
+Iran,IRN,"Iran, Turkey and Yemen",False,,,,,,,,,
+Libya,LBY,North Africa,True,False,2025.0,4.5,,28.0,104.0,20.5,two,confirmed value: profile labels another year
+Morocco,MAR,North Africa,True,True,2025.0,12.9,41.3,115.0,17.0,86.4,two,not checked
+Tunisia,TUN,North Africa,True,True,2025.0,19.4,57.9,131.0,1.0,98.5,two,differs: profile shows another year
+Egypt,EGY,North Africa,True,True,,,36.8,,,,two,not checked
+Algeria,DZA,North Africa,False,,,,,,,,,

@@ -1,0 +1,153 @@
+economy,country,iso3,region,sub_region,wto_member,mfn_year,mfn_applied_avg,bound_avg,binding_coverage,rank_low_to_high,economies_higher,share_economies_lower_pct,readings,wto_profile_check
+Israel,Israel,ISR,Middle East,Levant and Iraq,True,2025,1.1,22.5,75.8,8,124,5.3,two,not checked
+Jordan,Jordan,JOR,Middle East,Levant and Iraq,True,2025,4.0,16.2,100.0,24,108,17.4,two,not checked
+Libya,Libya,LBY,Middle East,North Africa,False,2025,4.5,,,28,104,20.5,two,confirmed value: profile labels another year
+"Kuwait, the State of",Kuwait,KWT,Middle East,Gulf,True,2025,4.6,98.0,99.9,29,103,21.2,two,confirmed: same value and year
+"Bahrain, Kingdom of",Bahrain,BHR,Middle East,Gulf,True,2025,4.7,34.9,70.0,30,101,22.0,two,confirmed: same value and year
+Qatar,Qatar,QAT,Middle East,Gulf,True,2025,4.7,15.6,100.0,30,101,22.0,two,confirmed: same value and year
+United Arab Emirates,United Arab Emirates,ARE,Middle East,Gulf,True,2025,4.8,14.4,100.0,32,100,23.5,two,differs: profile shows another year
+Oman,Oman,OMN,Middle East,Gulf,True,2025,5.5,14.1,100.0,39,89,28.8,two,differs: profile shows another year
+"Saudi Arabia, Kingdom of",Saudi Arabia,SAU,Middle East,Gulf,True,2025,5.9,11.0,100.0,47,84,34.8,two,confirmed value: profile labels another year
+Morocco,Morocco,MAR,Middle East,North Africa,True,2025,12.9,41.3,100.0,115,17,86.4,two,not checked
+Türkiye,Turkey,TUR,Middle East,"Iran, Turkey and Yemen",True,2025,17.3,28.9,50.5,127,5,95.5,two,differs: profile shows another year
+Tunisia,Tunisia,TUN,Middle East,North Africa,True,2025,19.4,57.9,58.0,131,1,98.5,two,differs: profile shows another year
+Egypt,Egypt,EGY,Middle East,North Africa,True,,,36.8,99.4,,,,two,not checked
+Yemen,Yemen,YEM,Middle East,"Iran, Turkey and Yemen",True,,,21.7,100.0,,,,two,not checked
+Iceland,Iceland,ISL,Europe,,True,2025,2.8,24.0,95.0,15,117,10.6,two,not checked
+Albania,Albania,ALB,Europe,,True,2025,3.5,6.5,100.0,18,114,12.9,two,not checked
+Montenegro,Montenegro,MNE,Europe,,True,2025,3.7,5.3,100.0,19,110,13.6,two,not checked
+United Kingdom,United Kingdom,GBR,Europe,,True,2025,3.7,5.0,100.0,19,110,13.6,two,not checked
+Switzerland,Switzerland,CHE,Europe,,True,2025,3.9,7.0,99.7,23,109,16.7,two,not checked
+Ukraine,Ukraine,UKR,Europe,,True,2025,4.3,5.8,100.0,26,106,18.9,two,not checked
+Norway,Norway,NOR,Europe,,True,2025,4.4,22.2,100.0,27,105,19.7,two,not checked
+European Union,European Union,EUU,Europe,,True,2025,4.9,4.9,100.0,33,98,24.2,two,not checked
+"Moldova, Republic of",Moldova,MDA,Europe,,True,2025,5.4,6.9,100.0,38,94,28.0,two,not checked
+Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,Europe,,False,2025,6.1,,,50,82,37.1,two,not checked
+North Macedonia,North Macedonia,MKD,Europe,,True,2025,6.4,7.0,100.0,52,78,38.6,two,not checked
+Belarus,Belarus,BLR,Europe,,False,2025,6.6,,,55,76,40.9,two,not checked
+Russian Federation,Russia,RUS,Europe,,True,2025,6.6,7.6,100.0,55,76,40.9,two,not checked
+Serbia,Serbia,SRB,Europe,,False,2025,7.3,,,58,73,43.2,two,not checked
+"Hong Kong, China",Hong Kong,HKG,Rest of Asia,,True,2025,0.0,0.0,49.7,1,127,0.0,two,not checked
+"Macao, China",Macao,MAC,Rest of Asia,,True,2025,0.0,0.0,30.4,1,127,0.0,two,not checked
+Singapore,Singapore,SGP,Rest of Asia,,True,2025,0.0,8.9,72.0,1,127,0.0,two,not checked
+Brunei Darussalam,Brunei,BRN,Rest of Asia,,True,2025,0.5,25.5,95.5,6,126,3.8,two,not checked
+Georgia,Georgia,GEO,Rest of Asia,,True,2025,1.4,7.0,100.0,9,123,6.1,two,not checked
+Timor-Leste,Timor-Leste,TLS,Rest of Asia,,True,2025,2.4,11.5,100.0,13,119,9.1,two,not checked
+Japan,Japan,JPN,Rest of Asia,,True,2025,3.7,4.0,99.7,19,110,13.6,two,not checked
+Mongolia,Mongolia,MNG,Rest of Asia,,True,2025,5.2,17.4,100.0,37,95,27.3,two,not checked
+Kazakhstan,Kazakhstan,KAZ,Rest of Asia,,True,2025,5.5,6.4,100.0,39,89,28.8,two,not checked
+Malaysia,Malaysia,MYS,Rest of Asia,,True,2025,5.5,20.8,83.8,39,89,28.8,two,not checked
+Philippines,Philippines,PHL,Rest of Asia,,True,2025,5.9,24.9,67.6,47,84,34.8,two,not checked
+Chinese Taipei,Taiwan,TWN,Rest of Asia,,True,2025,6.3,6.7,,51,81,37.9,one (B),not checked
+Armenia,Armenia,ARM,Rest of Asia,,True,2025,6.4,8.7,100.0,52,78,38.6,two,not checked
+Kyrgyz Republic,Kyrgyzstan,KGZ,Rest of Asia,,True,2025,6.4,7.5,99.9,52,78,38.6,two,not checked
+China,China,CHN,Rest of Asia,,True,2025,7.5,10.0,100.0,60,72,44.7,two,not checked
+Myanmar,Myanmar,MMR,Rest of Asia,,True,2025,7.6,83.0,18.4,61,66,45.5,two,not checked
+Azerbaijan,Azerbaijan,AZE,Rest of Asia,,False,2024,7.8,,,67,65,50.0,two,not checked
+Indonesia,Indonesia,IDN,Rest of Asia,,True,2025,8.0,37.1,96.3,68,64,50.8,two,not checked
+Sri Lanka,Sri Lanka,LKA,Rest of Asia,,True,2025,8.3,32.3,40.5,70,62,52.3,two,not checked
+Lao People's Democratic Republic,Laos,LAO,Rest of Asia,,True,2024,8.6,18.6,100.0,73,58,54.5,two,not checked
+Cambodia,Cambodia,KHM,Rest of Asia,,True,2025,9.0,19.3,100.0,75,55,56.1,two,not checked
+Bhutan,Bhutan,BTN,Rest of Asia,,False,2025,9.3,,,78,53,58.3,two,not checked
+Pakistan,Pakistan,PAK,Rest of Asia,,True,2025,9.5,60.9,98.5,80,51,59.8,two,not checked
+Viet Nam,Vietnam,VNM,Rest of Asia,,True,2025,9.5,11.7,100.0,80,51,59.8,two,not checked
+Thailand,Thailand,THA,Rest of Asia,,True,2025,9.9,26.6,76.9,82,50,61.4,two,not checked
+Maldives,Maldives,MDV,Rest of Asia,,True,2025,11.8,37.8,94.7,92,40,68.9,two,not checked
+Nepal,Nepal,NPL,Rest of Asia,,True,2025,13.0,26.0,99.5,116,16,87.1,two,not checked
+"Korea, Republic of",South Korea,KOR,Rest of Asia,,True,2025,13.5,18.2,93.6,117,15,87.9,two,not checked
+Bangladesh,Bangladesh,BGD,Rest of Asia,,True,2025,14.1,155.1,17.6,120,12,90.2,two,not checked
+India,India,IND,Rest of Asia,,True,2025,16.0,50.8,74.3,126,6,94.7,two,not checked
+Afghanistan,Afghanistan,AFG,Rest of Asia,,True,,,13.3,96.8,,,,two,not checked
+Tajikistan,Tajikistan,TJK,Rest of Asia,,True,,,7.8,100.0,,,,two,not checked
+Mauritius,Mauritius,MUS,Rest of Africa,,True,2025,0.8,86.6,20.4,7,125,4.5,two,not checked
+Seychelles,Seychelles,SYC,Rest of Africa,,True,2025,2.6,9.8,100.0,14,118,9.8,two,not checked
+Botswana,Botswana,BWA,Rest of Africa,,True,2025,7.6,18.6,94.1,61,66,45.5,two,not checked
+Eswatini,Eswatini,SWZ,Rest of Africa,,True,2025,7.6,19.0,93.8,61,66,45.5,two,not checked
+Lesotho,Lesotho,LSO,Rest of Africa,,True,2025,7.6,79.1,100.0,61,66,45.5,two,not checked
+Namibia,Namibia,NAM,Rest of Africa,,True,2025,7.6,18.9,94.1,61,66,45.5,two,not checked
+South Africa,South Africa,ZAF,Rest of Africa,,True,2025,7.6,19.0,93.8,61,66,45.5,two,not checked
+Mozambique,Mozambique,MOZ,Rest of Africa,,True,2025,10.3,97.8,14.1,83,49,62.1,two,not checked
+Cabo Verde,Cape Verde,CPV,Rest of Africa,,True,2024,11.9,15.9,100.0,93,38,69.7,two,not checked
+Benin,Benin,BEN,Rest of Africa,,True,2025,12.0,28.8,38.9,95,23,71.2,two,not checked
+Burkina Faso,Burkina Faso,BFA,Rest of Africa,,True,2025,12.0,43.0,38.9,95,23,71.2,two,not checked
+Côte d'Ivoire,Ivory Coast,CIV,Rest of Africa,,True,2025,12.0,11.2,33.6,95,23,71.2,two,not checked
+Ghana,Ghana,GHA,Rest of Africa,,True,2025,12.0,91.9,14.9,95,23,71.2,two,not checked
+Guinea,Guinea,GIN,Rest of Africa,,True,2025,12.0,20.5,38.5,95,23,71.2,two,not checked
+Guinea-Bissau,Guinea-Bissau,GNB,Rest of Africa,,True,2025,12.0,48.6,97.5,95,23,71.2,two,not checked
+Liberia,Liberia,LBR,Rest of Africa,,True,2025,12.0,26.7,100.0,95,23,71.2,two,not checked
+Mali,Mali,MLI,Rest of Africa,,True,2025,12.0,29.1,40.0,95,23,71.2,two,not checked
+Niger,Niger,NER,Rest of Africa,,True,2025,12.0,45.0,97.0,95,23,71.2,two,not checked
+Nigeria,Nigeria,NGA,Rest of Africa,,True,2024,12.0,120.0,19.5,95,23,71.2,two,not checked
+Senegal,Senegal,SEN,Rest of Africa,,True,2025,12.0,30.0,100.0,95,23,71.2,two,not checked
+Sierra Leone,Sierra Leone,SLE,Rest of Africa,,True,2025,12.0,47.3,100.0,95,23,71.2,two,not checked
+The Gambia,Gambia,GMB,Rest of Africa,,True,2025,12.0,103.3,14.3,95,23,71.2,two,not checked
+Togo,Togo,TGO,Rest of Africa,,True,2025,12.0,80.0,14.4,95,23,71.2,two,not checked
+Madagascar,Madagascar,MDG,Rest of Africa,,True,2025,12.2,27.2,31.6,110,21,82.6,two,not checked
+South Sudan,South Sudan,SSD,Rest of Africa,,False,2025,12.2,,,110,21,82.6,two,not checked
+Angola,Angola,AGO,Rest of Africa,,True,2025,12.7,59.1,100.0,113,18,84.8,two,not checked
+Rwanda,Rwanda,RWA,Rest of Africa,,True,2025,13.9,89.5,100.0,118,14,88.6,two,not checked
+Burundi,Burundi,BDI,Rest of Africa,,True,2025,14.0,68.7,22.3,119,13,89.4,two,not checked
+Tanzania,Tanzania,TZA,Rest of Africa,,True,2025,14.4,120.0,13.9,121,11,90.9,two,not checked
+Zambia,Zambia,ZMB,Rest of Africa,,True,2025,14.5,106.7,17.2,122,10,91.7,two,not checked
+Kenya,Kenya,KEN,Rest of Africa,,True,2025,15.2,93.9,16.0,123,9,92.4,two,not checked
+Somalia,Somalia,SOM,Rest of Africa,,False,2025,15.6,,,124,8,93.2,two,not checked
+Uganda,Uganda,UGA,Rest of Africa,,True,2025,15.8,72.3,16.6,125,7,93.9,two,not checked
+Chad,Chad,TCD,Rest of Africa,,True,2025,17.8,79.9,14.1,128,4,96.2,two,not checked
+Central African Republic,Central African Republic,CAF,Rest of Africa,,True,2024,18.1,35.8,61.9,129,2,97.0,two,not checked
+Gabon,Gabon,GAB,Rest of Africa,,True,2024,18.1,23.6,100.0,129,2,97.0,two,not checked
+Cameroon,Cameroon,CMR,Rest of Africa,,True,,,79.9,13.8,,,,two,not checked
+Comoros,Comoros,COM,Rest of Africa,,True,,,19.6,100.0,,,,two,not checked
+Congo,Congo,COG,Rest of Africa,,True,,,27.2,16.9,,,,two,not checked
+Democratic Republic of the Congo,DR Congo,COD,Rest of Africa,,True,,,96.0,100.0,,,,two,not checked
+Djibouti,Djibouti,DJI,Rest of Africa,,True,,,41.3,100.0,,,,two,not checked
+Malawi,Malawi,MWI,Rest of Africa,,True,,,72.7,35.0,,,,two,not checked
+Mauritania,Mauritania,MRT,Rest of Africa,,True,,,20.5,39.9,,,,two,not checked
+Zimbabwe,Zimbabwe,ZWE,Rest of Africa,,True,,,84.1,24.5,,,,two,not checked
+United States of America,United States,USA,North America,,True,2025,3.3,3.4,100.0,17,115,12.1,two,differs: same year
+Canada,Canada,CAN,North America,,True,2025,3.7,6.5,99.7,19,110,13.6,two,not checked
+Haiti,Haiti,HTI,North America,,True,2024,4.9,18.7,87.6,33,98,24.2,two,not checked
+Panama,Panama,PAN,North America,,True,2024,5.1,22.6,100.0,36,96,26.5,two,not checked
+Costa Rica,Costa Rica,CRI,North America,,True,2025,5.5,43.1,100.0,39,89,28.8,two,not checked
+Guatemala,Guatemala,GTM,North America,,True,2025,5.5,41.3,100.0,39,89,28.8,two,not checked
+El Salvador,El Salvador,SLV,North America,,True,2025,5.6,37.0,100.0,44,87,32.6,two,not checked
+Nicaragua,Nicaragua,NIC,North America,,True,2025,5.6,40.9,100.0,44,87,32.6,two,not checked
+Honduras,Honduras,HND,North America,,True,2025,5.8,31.9,100.0,46,86,34.1,two,not checked
+Dominican Republic,Dominican Republic,DOM,North America,,True,2025,7.3,34.0,100.0,58,73,43.2,two,not checked
+Jamaica,Jamaica,JAM,North America,,True,2025,8.5,50.0,100.0,71,60,53.0,two,not checked
+Mexico,Mexico,MEX,North America,,True,2025,8.5,36.2,100.0,71,60,53.0,two,not checked
+Saint Kitts and Nevis,Saint Kitts and Nevis,KNA,North America,,True,2025,9.3,76.5,95.2,78,53,58.3,two,not checked
+Dominica,Dominica,DMA,North America,,True,2025,10.7,59.3,92.2,85,45,63.6,two,not checked
+Grenada,Grenada,GRD,North America,,True,2024,11.0,57.0,100.0,89,43,66.7,two,not checked
+Belize,Belize,BLZ,North America,,True,2025,11.9,58.9,96.2,93,38,69.7,two,not checked
+Bahamas,Bahamas,BHS,North America,,False,2025,30.0,,,132,0,99.2,two,not checked
+Antigua and Barbuda,Antigua and Barbuda,ATG,North America,,True,,,59.3,95.4,,,,two,not checked
+Barbados,Barbados,BRB,North America,,True,,,78.9,95.4,,,,two,not checked
+Cuba,Cuba,CUB,North America,,True,,,21.1,32.5,,,,two,not checked
+Saint Lucia,Saint Lucia,LCA,North America,,True,,,64.6,99.5,,,,two,not checked
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VCT,North America,,True,,,65.2,99.7,,,,two,not checked
+Trinidad and Tobago,Trinidad and Tobago,TTO,North America,,True,,,55.7,100.0,,,,two,not checked
+Peru,Peru,PER,South America,,True,2025,2.3,29.6,100.0,12,120,8.3,two,not checked
+Chile,Chile,CHL,South America,,True,2025,6.0,25.1,100.0,49,83,36.4,two,not checked
+Colombia,Colombia,COL,South America,,True,2025,6.8,41.7,100.0,57,75,42.4,two,not checked
+Paraguay,Paraguay,PRY,South America,,True,2024,8.6,33.4,100.0,73,58,54.5,two,not checked
+Uruguay,Uruguay,URY,South America,,True,2024,9.0,31.5,100.0,75,55,56.1,two,not checked
+Suriname,Suriname,SUR,South America,,True,2024,10.4,18.0,27.5,84,48,62.9,two,not checked
+Ecuador,Ecuador,ECU,South America,,True,2025,10.9,21.7,100.0,88,44,65.9,two,not checked
+"Bolivia, Plurinational State of",Bolivia,BOL,South America,,True,2025,11.7,40.0,100.0,91,41,68.2,two,not checked
+Brazil,Brazil,BRA,South America,,True,2025,12.0,31.3,100.0,95,23,71.2,two,not checked
+Argentina,Argentina,ARG,South America,,True,2025,12.4,31.8,100.0,112,20,84.1,two,not checked
+"Venezuela, Bolivarian Republic of",Venezuela,VEN,South America,,True,2025,12.7,36.5,100.0,113,18,84.8,two,not checked
+Guyana,Guyana,GUY,South America,,True,,,57.0,100.0,,,,two,not checked
+Kiribati,Kiribati,KIR,Oceania,,False,2025,0.0,,,1,127,0.0,two,not checked
+Palau,Palau,PLW,Oceania,,False,2025,0.0,,,1,127,0.0,two,not checked
+New Zealand,New Zealand,NZL,Oceania,,True,2025,1.9,9.5,100.0,10,122,6.8,two,not checked
+Australia,Australia,AUS,Oceania,,True,2025,2.1,9.4,97.2,11,121,7.6,two,not checked
+Cook Islands,Cook Islands,COK,Oceania,,False,2025,3.1,,,16,116,11.4,two,not checked
+Papua New Guinea,Papua New Guinea,PNG,Oceania,,True,2025,4.1,32.7,100.0,25,107,18.2,two,not checked
+"Micronesia, Federated States of",Federated States of Micronesia,FSM,Oceania,,False,2025,5.0,,,35,97,25.8,two,not checked
+Fiji,Fiji,FJI,Oceania,,True,2025,8.2,41.0,49.5,69,63,51.5,two,not checked
+Vanuatu,Vanuatu,VUT,Oceania,,True,2025,9.0,40.1,100.0,75,55,56.1,two,not checked
+Nauru,Nauru,NRU,Oceania,,False,2025,10.7,,,85,45,63.6,two,not checked
+Tonga,Tonga,TON,Oceania,,True,2025,10.7,17.6,100.0,85,45,63.6,two,not checked
+Samoa,Samoa,WSM,Oceania,,True,2025,11.1,21.3,100.0,90,42,67.4,two,not checked
+Solomon Islands,Solomon Islands,SLB,Oceania,,True,,,78.5,100.0,,,,two,not checked

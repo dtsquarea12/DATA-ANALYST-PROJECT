@@ -1,0 +1,155 @@
+# World Tariff Profiles 2026 (WTO, ITC, UNCTAD), Part I Summary table "All products".
+# Reading B: second copy at https://static.poder360.com.br/uploads/2026/07/tariff-profiles-2026.pdf, read on 13 Oct 2026
+# with a different request: only the first four numbers on each row (year included when printed).
+"Afghanistan",96.8,13.3,9.0,0.7
+"Albania",2025,100,6.5,3.5
+"Angola",2025,100,59.1,12.7
+"Antigua and Barbuda",95.4,59.3,0,0
+"Argentina",2025,100,31.8,12.4
+"Armenia",2025,100,8.7,6.4
+"Australia",2025,97.2,9.4,2.1
+"Azerbaijan",2024,7.8,37.2,1.7
+"Bahamas",2025,30.0,19.1,0.0
+"Bahrain, Kingdom of",2025,70.0,34.9,4.7
+"Bangladesh",2025,17.6,155.1,14.1
+"Barbados",95.4,78.9,0,0
+"Belarus",2025,6.6,15.9,8.8
+"Belize",2025,96.2,58.9,11.9
+"Benin",2025,38.9,28.8,12.0
+"Bhutan",2025,9.3,11.1,0
+"Bolivia, Plurinational State of",2025,100,40.0,11.7
+"Bosnia and Herzegovina",2025,6.1,31.4,2.9
+"Botswana",2025,94.1,18.6,7.6
+"Brazil",2025,100,31.3,12.0
+"Brunei Darussalam",2025,95.5,25.5,0.5
+"Burkina Faso",2025,38.9,43.0,12.0
+"Burundi",2025,22.3,68.7,14.0
+"Cabo Verde",2024,100.0,15.9,11.9
+"Cambodia",2025,100,19.3,9.0
+"Cameroon",13.8,79.9,0,0
+"Canada",2025,99.7,6.5,3.7
+"Central African Republic",2024,61.9,35.8,18.1
+"Chad",2025,14.1,79.9,17.8
+"Chile",2025,100,25.1,6.0
+"China",2025,100,10.0,7.5
+"Colombia",2025,100,41.7,6.8
+"Comoros",100,19.6,4.6,0.0
+"Congo",16.9,27.2,0,0
+"Cook Islands",2025,3.1,98.8,0.9
+"Costa Rica",2025,100,43.1,5.5
+"Côte d'Ivoire",2025,33.6,11.2,12.0
+"Cuba",32.5,21.1,2.2,0
+"Democratic Republic of the Congo",100,96.0,0,0
+"Djibouti",100,41.3,0.0,0
+"Dominica",2025,92.2,59.3,10.7
+"Dominican Republic",2025,100,34.0,7.3
+"Ecuador",2025,100,21.7,10.9
+"Egypt",99.4,36.8,1.8,0.2
+"El Salvador",2025,100,37.0,5.6
+"Eswatini",2025,93.8,19.0,7.6
+"European Union",2025,100,4.9,4.9
+"Fiji",2025,49.5,41.0,8.2
+"Gabon",2024,100,23.6,18.1
+"The Gambia",2025,14.3,103.3,12.0
+"Georgia",2025,100,7.0,1.4
+"Ghana",2025,14.9,91.9,12.0
+"Grenada",2024,100,57.0,11.0
+"Guatemala",2025,100,41.3,5.5
+"Guinea",2025,38.5,20.5,12.0
+"Guinea-Bissau",2025,97.5,48.6,12.0
+"Guyana",100,57.0,0,0
+"Haiti",2024,87.6,18.7,4.9
+"Honduras",2025,100,31.9,5.8
+"Hong Kong, China",2025,49.7,0,0
+"Iceland",2025,95.0,24.0,2.8
+"India",2025,74.3,50.8,16.0
+"Indonesia",2025,96.3,37.1,8.0
+"Israel",2025,75.8,22.5,1.1
+"Jamaica",2025,100,50.0,8.5
+"Japan",2025,99.7,4.0,3.7
+"Jordan",2025,100,16.2,4.0
+"Kazakhstan",2025,100,6.4,5.5
+"Kenya",2025,16.0,93.9,15.2
+"Kiribati",2025,0,100.0,0
+"Korea, Republic of",2025,93.6,18.2,13.5
+"Kuwait, the State of",2025,99.9,98.0,4.6
+"Kyrgyz Republic",2025,99.9,7.5,6.4
+"Lao People's Democratic Republic",2024,100,18.6,8.6
+"Lesotho",2025,100,79.1,7.6
+"Liberia",2025,100,26.7,12.0
+"Libya",2025,4.5,17.0,1.0
+"Macao, China",2025,30.4,0,0
+"Madagascar",2025,31.6,27.2,12.2
+"Malawi",35.0,72.7,0,0
+"Malaysia",2025,83.8,20.8,5.5
+"Maldives",2025,94.7,37.8,11.8
+"Mali",2025,40.0,29.1,12.0
+"Mauritania",39.9,20.5,0.7,0
+"Mauritius",2025,20.4,86.6,0.8
+"Mexico",2025,100,36.2,8.5
+"Micronesia, Federated States of",2025,5.0,0,0.3
+"Moldova, Republic of",2025,100,6.9,5.4
+"Mongolia",2025,100,17.4,5.2
+"Montenegro",2025,100,5.3,3.7
+"Morocco",2025,100,41.3,12.9
+"Mozambique",2025,14.1,97.8,10.3
+"Myanmar",2025,18.4,83.0,7.6
+"Namibia",2025,94.1,18.9,7.6
+"Nauru",2025,10.7,4.5,0.9
+"Nepal",2025,99.5,26.0,13.0
+"New Zealand",2025,100,9.5,1.9
+"Nicaragua",2025,100,40.9,5.6
+"Niger",2025,97.0,45.0,12.0
+"Nigeria",2024,19.5,120.0,12.0
+"North Macedonia",2025,100,7.0,6.4
+"Norway",2025,100,22.2,4.4
+"Oman",2025,100,14.1,5.5
+"Pakistan",2025,98.5,60.9,9.5
+"Palau",2025,0.0,99.6,0.0
+"Panama",2024,100,22.6,5.1
+"Papua New Guinea",2025,100,32.7,4.1
+"Paraguay",2024,100,33.4,8.6
+"Peru",2025,100,29.6,2.3
+"Philippines",2025,67.6,24.9,5.9
+"Qatar",2025,100,15.6,4.7
+"Russian Federation",2025,100,7.6,6.6
+"Rwanda",2025,100,89.5,13.9
+"Saint Kitts and Nevis",2025,95.2,76.5,9.3
+"Saint Lucia",99.5,64.6,0,0
+"Saint Vincent and the Grenadines",99.7,65.2,0,0
+"Samoa",2025,100,21.3,11.1
+"Saudi Arabia, Kingdom of",2025,100,11.0,5.9
+"Senegal",2025,100,30.0,12.0
+"Serbia",2025,7.3,1.3,0.0
+"Seychelles",2025,100,9.8,2.6
+"Sierra Leone",2025,100,47.3,12.0
+"Singapore",2025,72.0,8.9,0.0
+"Solomon Islands",100,78.5,0,1.3
+"Somalia",2025,15.6,0,0.8
+"South Africa",2025,93.8,19.0,7.6
+"South Sudan",2025,12.2,0.1,0
+"Sri Lanka",2025,40.5,32.3,8.3
+"Suriname",2024,27.5,18.0,10.4
+"Switzerland",2025,99.7,7.0,3.9
+"Chinese Taipei",2025,100,6.7,6.3
+"Tajikistan",100,7.8,13.1,0.4
+"Tanzania",2025,13.9,120.0,14.4
+"Thailand",2025,76.9,26.6,9.9
+"Timor-Leste",2025,100,11.5,2.4
+"Togo",2025,14.4,80.0,12.0
+"Tonga",2025,100.0,17.6,10.7
+"Trinidad and Tobago",100,55.7,1.5,0
+"Tunisia",2025,58.0,57.9,19.4
+"Türkiye",2025,50.5,28.9,17.3
+"Uganda",2025,16.6,72.3,15.8
+"Ukraine",2025,100,5.8,4.3
+"United Arab Emirates",2025,100,14.4,4.8
+"United Kingdom",2025,100,5.0,3.7
+"United States of America",2025,100.0,3.4,3.3
+"Uruguay",2024,100,31.5,9.0
+"Vanuatu",2025,100,40.1,9.0
+"Venezuela, Bolivarian Republic of",2025,100,36.5,12.7
+"Viet Nam",2025,100,11.7,9.5
+"Yemen",100,21.7,0.1,1.1
+"Zambia",2025,17.2,106.7,14.5
+"Zimbabwe",24.5,84.1,3.4,0.6
