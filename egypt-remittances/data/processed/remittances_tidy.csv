@@ -1,0 +1,34 @@
+measure,period,period_start,period_end,value_usd_bn,n_documents,n_publishers,source_check,source_ids
+calendar_year,2024,2024-01-01,2024-12-31,29.6,4,4,two-publishers,amwal_2026_02;ahram_2026_06;egypttoday_2026_09;businesstoday_2026_03
+calendar_year,2025,2025-01-01,2025-12-31,41.5,5,5,two-publishers,amwal_2026_02;ahram_2026_06;egypttoday_2026_09;intelpoint_2026;businesstoday_2026_03
+cumulative_fy,FY2024/25 Jul-Dec,2024-07-01,2024-12-31,17.1,2,2,two-publishers,amwal_2026_02;businesstoday_2026_03
+cumulative_fy,FY2024/25 Jul-Mar,2024-07-01,2025-03-31,26.4,1,1,one-document,ahram_2026_06
+cumulative_fy,FY2025/26 Jul-Dec,2025-07-01,2025-12-31,22.1,2,2,two-publishers,amwal_2026_02;businesstoday_2026_03
+cumulative_fy,FY2025/26 Jul-Jan,2025-07-01,2026-01-31,25.6,2,2,two-publishers,ahram_2026_06;businesstoday_2026_03
+cumulative_fy,FY2025/26 Jul-Mar,2025-07-01,2026-03-31,34.9,1,1,one-document,ahram_2026_06
+fiscal_year,FY2018/19,2018-07-01,2019-06-30,25.2,1,1,one-document-plus-rounded-second,amwal_2020_08;enterprise_2019_10(rounded)
+fiscal_year,FY2019/20,2019-07-01,2020-06-30,27.8,2,2,two-publishers,amwal_2020_08;ahram_2021_10
+fiscal_year,FY2020/21,2020-07-01,2021-06-30,31.4,3,3,two-publishers,ahram_2021_10;agbi_2022_08;businesstoday_2022_08
+fiscal_year,FY2021/22,2021-07-01,2022-06-30,31.9,4,4,two-publishers,agbi_2022_08;businesstoday_2022_08;almonitor_2023_06;amwal_2024_06
+fiscal_year,FY2022/23,2022-07-01,2023-06-30,22.1,2,2,two-publishers,amwal_2024_06;weetracker_2025_10
+fiscal_year,FY2023/24,2023-07-01,2024-06-30,21.9,2,2,two-publishers,dailynewsegypt_2025_08;weetracker_2025_10
+fiscal_year,FY2024/25,2024-07-01,2025-06-30,36.5,5,5,two-publishers,dailynewsegypt_2025_08;enterprise_2025_08;weetracker_2025_10;zawya_2026_08;egypttoday_2026_09
+fiscal_year,FY2025/26,2025-07-01,2026-06-30,47.3,4,4,two-publishers,zawya_2026_08;thestar_2026_08;arabfinance_2026_08;egypttoday_2026_09
+month,2019-06,2019-06-01,2019-06-30,1.9,1,1,one-document,amwal_2020_08
+month,2020-06,2020-06-01,2020-06-30,2.6,2,2,two-publishers,amwal_2020_08;ahram_2021_10
+month,2021-06,2021-06-01,2021-06-30,2.9,2,2,two-publishers,ahram_2021_10;businesstoday_2022_08
+month,2022-06,2022-06-01,2022-06-30,2.8,1,1,one-document,businesstoday_2022_08
+month,2024-12,2024-12-01,2024-12-31,3.2,2,2,two-publishers,amwal_2026_02;businesstoday_2026_03
+month,2025-01,2025-01-01,2025-01-31,2.9,1,1,one-document,businesstoday_2026_03
+month,2025-06,2025-06-01,2025-06-30,3.6,4,4,two-publishers,dailynewsegypt_2025_08;enterprise_2025_08;weetracker_2025_10;zawya_2026_08
+month,2025-07,2025-07-01,2025-07-31,3.8,2,2,two-publishers,weetracker_2025_10;egypttoday_2026_09
+month,2025-12,2025-12-01,2025-12-31,4.0,2,2,two-publishers,amwal_2026_02;businesstoday_2026_03
+month,2026-01,2026-01-01,2026-01-31,3.5,1,1,one-document,businesstoday_2026_03
+month,2026-06,2026-06-01,2026-06-30,4.2,3,3,two-publishers,zawya_2026_08;thestar_2026_08;egypttoday_2026_09
+month,2026-07,2026-07-01,2026-07-31,4.5,1,1,one-document,egypttoday_2026_09
+quarter,Apr-Jun 2019,2019-04-01,2019-06-30,6.9,1,1,one-document,amwal_2020_08
+quarter,Apr-Jun 2020,2020-04-01,2020-06-30,6.2,2,2,two-publishers,amwal_2020_08;ahram_2021_10
+quarter,Apr-Jun 2021,2021-04-01,2021-06-30,8.1,3,3,two-publishers,ahram_2021_10;agbi_2022_08;businesstoday_2022_08
+quarter,Apr-Jun 2022,2022-04-01,2022-06-30,8.3,2,2,two-publishers,agbi_2022_08;businesstoday_2022_08
+quarter,Apr-Jun 2024,2024-04-01,2024-06-30,7.5,2,2,two-publishers,dailynewsegypt_2025_08;weetracker_2025_10
+quarter,Apr-Jun 2025,2025-04-01,2025-06-30,10.0,3,3,two-publishers,dailynewsegypt_2025_08;enterprise_2025_08;weetracker_2025_10

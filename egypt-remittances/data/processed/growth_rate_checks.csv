@@ -1,0 +1,18 @@
+measure,period,compared_with,growth_pct,source_id,computed_lo,computed_hi,result
+fiscal_year,FY2019/20,FY2018/19,10.4,amwal_2020_08,9.9,10.74,pass
+fiscal_year,FY2020/21,FY2019/20,13.0,ahram_2021_10,12.57,13.33,pass
+fiscal_year,FY2021/22,FY2020/21,1.6,agbi_2022_08,1.27,1.91,pass
+fiscal_year,FY2024/25,FY2023/24,66.2,dailynewsegypt_2025_08,66.06,67.28,pass
+fiscal_year,FY2025/26,FY2024/25,29.6,zawya_2026_08,29.27,29.9,pass
+calendar_year,2025,2024,40.5,amwal_2026_02,39.8,40.61,pass
+calendar_year,2025,2024,40.5,egypttoday_2026_09,39.8,40.61,pass
+calendar_year,2025,2024,40.2,intelpoint_2026,39.8,40.61,pass
+month,2025-06,2024-06,40.7,dailynewsegypt_2025_08,,,base not in table
+month,2026-06,2025-06,15.6,zawya_2026_08,13.7,19.72,pass
+month,2026-07,2025-07,20.0,egypttoday_2026_09,15.58,21.33,pass
+month,2025-12,2024-12,24.0,amwal_2026_02,21.54,28.57,pass
+quarter,Apr-Jun 2025,Apr-Jun 2024,34.2,dailynewsegypt_2025_08,31.79,34.9,pass
+cumulative_fy,FY2025/26 Jul-Dec,FY2024/25 Jul-Dec,29.6,amwal_2026_02,28.57,29.91,pass
+cumulative_fy,FY2025/26 Jul-Mar,FY2024/25 Jul-Mar,32.0,ahram_2026_06,31.76,32.64,pass
+month,2026-01,2025-01,21.0,businesstoday_2026_03,16.95,24.56,pass
+cumulative_fy,FY2025/26 Jul-Jan,FY2024/25 Jul-Jan,28.4,businesstoday_2026_03,,,base not in table

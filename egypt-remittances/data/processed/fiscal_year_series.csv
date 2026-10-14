@@ -1,0 +1,9 @@
+period,period_start,period_end,value_usd_bn,change_usd_bn,change_pct,index_fy2018_19_100,is_record_so_far,source_check,source_ids
+FY2018/19,2018-07-01,2019-06-30,25.2,,,100.0,True,one-document-plus-rounded-second,amwal_2020_08;enterprise_2019_10(rounded)
+FY2019/20,2019-07-01,2020-06-30,27.8,2.6,10.3,110.3,True,two-publishers,amwal_2020_08;ahram_2021_10
+FY2020/21,2020-07-01,2021-06-30,31.4,3.6,12.9,124.6,True,two-publishers,ahram_2021_10;agbi_2022_08;businesstoday_2022_08
+FY2021/22,2021-07-01,2022-06-30,31.9,0.5,1.6,126.6,True,two-publishers,agbi_2022_08;businesstoday_2022_08;almonitor_2023_06;amwal_2024_06
+FY2022/23,2022-07-01,2023-06-30,22.1,-9.8,-30.7,87.7,False,two-publishers,amwal_2024_06;weetracker_2025_10
+FY2023/24,2023-07-01,2024-06-30,21.9,-0.2,-0.9,86.9,False,two-publishers,dailynewsegypt_2025_08;weetracker_2025_10
+FY2024/25,2024-07-01,2025-06-30,36.5,14.6,66.7,144.8,True,two-publishers,dailynewsegypt_2025_08;enterprise_2025_08;weetracker_2025_10;zawya_2026_08;egypttoday_2026_09
+FY2025/26,2025-07-01,2026-06-30,47.3,10.8,29.6,187.7,True,two-publishers,zawya_2026_08;thestar_2026_08;arabfinance_2026_08;egypttoday_2026_09

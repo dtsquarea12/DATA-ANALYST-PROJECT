@@ -1,0 +1,4 @@
+identity,left,right,difference,tolerance,result
+calendar 2025 = (FY2024/25 - Jul-Dec 2024) + Jul-Dec 2025,41.5,41.5,0.0,0.15,pass
+Apr-Jun 2025 = FY2024/25 - Jul-Mar FY2024/25,10.1,10.0,0.1,0.15,pass
+Jan 2026 = Jul-Jan FY2025/26 - Jul-Dec FY2025/26,3.5,3.5,0.0,0.15,pass

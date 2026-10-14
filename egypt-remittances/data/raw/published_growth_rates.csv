@@ -1,0 +1,18 @@
+measure,period,compared_with,growth_pct,source_id
+fiscal_year,FY2019/20,FY2018/19,10.4,amwal_2020_08
+fiscal_year,FY2020/21,FY2019/20,13,ahram_2021_10
+fiscal_year,FY2021/22,FY2020/21,1.6,agbi_2022_08
+fiscal_year,FY2024/25,FY2023/24,66.2,dailynewsegypt_2025_08
+fiscal_year,FY2025/26,FY2024/25,29.6,zawya_2026_08
+calendar_year,2025,2024,40.5,amwal_2026_02
+calendar_year,2025,2024,40.5,egypttoday_2026_09
+calendar_year,2025,2024,40.2,intelpoint_2026
+month,2025-06,2024-06,40.7,dailynewsegypt_2025_08
+month,2026-06,2025-06,15.6,zawya_2026_08
+month,2026-07,2025-07,20,egypttoday_2026_09
+month,2025-12,2024-12,24.0,amwal_2026_02
+quarter,Apr-Jun 2025,Apr-Jun 2024,34.2,dailynewsegypt_2025_08
+cumulative_fy,FY2025/26 Jul-Dec,FY2024/25 Jul-Dec,29.6,amwal_2026_02
+cumulative_fy,FY2025/26 Jul-Mar,FY2024/25 Jul-Mar,32,ahram_2026_06
+month,2026-01,2025-01,21,businesstoday_2026_03
+cumulative_fy,FY2025/26 Jul-Jan,FY2024/25 Jul-Jan,28.4,businesstoday_2026_03
