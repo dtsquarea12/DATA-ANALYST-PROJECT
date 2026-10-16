@@ -1,0 +1,29 @@
+year,origin_group,external_pilgrims,share_pct_printed,source_id
+2018,GCC countries,34140,,gastat_2018
+2018,Other Arab countries,395410,,gastat_2018
+2018,Non-Arab Asia,1049496,,gastat_2018
+2018,Non-Arab Africa,166083,,gastat_2018
+2018,Europe,88601,,gastat_2018
+2018,Americas and Australia,24992,,gastat_2018
+2018,GCC countries,34140,,africanews_2018
+2018,Other Arab countries,395410,,africanews_2018
+2018,Non-Arab Asia,1049496,,africanews_2018
+2018,Non-Arab Africa,166083,,africanews_2018
+2018,Europe,88601,,africanews_2018
+2018,Americas and Australia,24992,,africanews_2018
+2019,GCC countries,31884,,gastat_2019
+2019,Other Arab countries,414750,,gastat_2019
+2019,Non-Arab Asia,1126633,,gastat_2019
+2019,Non-Arab Africa,187414,,gastat_2019
+2019,Europe,67054,,gastat_2019
+2019,Americas and Australia,26892,,gastat_2019
+2017,GCC countries,32600,,alarabiya_2017
+2017,Other Arab countries,383044,,alarabiya_2017
+2017,Non-Arab Asia,1042335,,alarabiya_2017
+2017,Non-Arab Africa,186873,,alarabiya_2017
+2017,Europe,84894,,alarabiya_2017
+2017,Americas and Australia,22268,,alarabiya_2017
+2024,Arab countries (as printed),,22.3,gastat_2024
+2024,Non-Arab Asia,,63.3,gastat_2024
+2024,Non-Arab Africa,,11.3,gastat_2024
+2024,"Europe, Americas, Australia and other",,3.2,gastat_2024
