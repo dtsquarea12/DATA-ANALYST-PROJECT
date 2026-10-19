@@ -1,0 +1,21 @@
+ranking,rank_2025,airport_code,airport,country,region,passengers_2025,pct_change_vs_2024,source_id,check
+total,1,ATL,Hartsfield-Jackson Atlanta International,United States,North America,106302208,-1.6,ACI_BLOG;CNN_ACI,two-documents
+total,2,DXB,Dubai International,United Arab Emirates,Middle East,95192160,3.1,ACI_BLOG;CNN_ACI,two-documents
+total,3,HND,Tokyo Haneda,Japan,Asia-Pacific,91679814,6.7,ACI_BLOG;CNN_ACI,two-documents
+total,4,DFW,Dallas/Fort Worth International,United States,North America,85660127,-2.5,ACI_BLOG;CNN_ACI,two-documents
+total,5,PVG,Shanghai Pudong International,China,Asia-Pacific,84994227,10.7,ACI_BLOG;CNN_ACI,two-documents
+total,6,ORD,Chicago O'Hare International,United States,North America,84814099,6.0,ACI_BLOG;CNN_ACI,two-documents
+total,7,LHR,London Heathrow,United Kingdom,Europe,84482126,0.7,ACI_BLOG;CNN_ACI,two-documents
+total,8,IST,Istanbul Airport,Turkey,Middle East,84437710,5.5,ACI_BLOG;CNN_ACI,two-documents
+total,9,CAN,Guangzhou Baiyun International,China,Asia-Pacific,83582952,9.5,ACI_BLOG;CNN_ACI,two-documents
+total,10,DEN,Denver International,United States,North America,82427962,0.1,ACI_BLOG;CNN_ACI,two-documents
+international,1,DXB,Dubai International,United Arab Emirates,Middle East,95192160,,ACI_BLOG;MDR_ACI,two-documents
+international,2,LHR,London Heathrow,United Kingdom,Europe,79874784,,ACI_BLOG;MDR_ACI,two-documents
+international,3,ICN,Incheon International,South Korea,Asia-Pacific,73554772,,ACI_BLOG;MDR_ACI,two-documents
+international,4,SIN,Singapore Changi,Singapore,Asia-Pacific,69402000,,ACI_BLOG,one-document
+international,5,AMS,Amsterdam Schiphol,Netherlands,Europe,68767548,,ACI_BLOG,one-document
+international,6,IST,Istanbul Airport,Turkey,Middle East,66608849,,ACI_BLOG,one-document
+international,7,CDG,Paris Charles de Gaulle,France,Europe,66135938,,ACI_BLOG,one-document
+international,8,HKG,Hong Kong International,China SAR,Asia-Pacific,60824359,,ACI_BLOG,one-document
+international,9,FRA,Frankfurt,Germany,Europe,57528528,,ACI_BLOG,one-document
+international,10,DOH,Hamad International,Qatar,Middle East,54338667,,ACI_BLOG,one-document

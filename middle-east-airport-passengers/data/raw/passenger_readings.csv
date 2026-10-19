@@ -1,0 +1,81 @@
+airport_code,airport,city,country,subregion,year,measure,passengers,printed_as,rounding_unit,use,source_id,note
+DXB,Dubai International,Dubai,United Arab Emirates,Gulf,2025,total,95192160,"95,192,160",1,yes,ACI_BLOG,ACI World preliminary 2025 ranking
+DXB,Dubai International,Dubai,United Arab Emirates,Gulf,2025,total,95200000,95.2 million,100000,yes,DMO_2026,Operator release via Dubai Media Office
+DXB,Dubai International,Dubai,United Arab Emirates,Gulf,2025,total,95200000,95.2 million,100000,yes,CNN_ACI,
+DXB,Dubai International,Dubai,United Arab Emirates,Gulf,2025,total,95200000,95.2 million,100000,yes,TDN_DXB,
+DXB,Dubai International,Dubai,United Arab Emirates,Gulf,2024,total,92300000,92.3 million,100000,yes,DMO_2025,Operator release via Dubai Media Office
+DXB,Dubai International,Dubai,United Arab Emirates,Gulf,2024,total,92300000,92.3 million,100000,yes,GN_ACI,
+DXB,Dubai International,Dubai,United Arab Emirates,Gulf,2024,total,92300000,92.3 million,100000,yes,AB_DXB24,
+DXB,Dubai International,Dubai,United Arab Emirates,Gulf,2019,total,86396757,"86,396,757",1,yes,DXBA_2020,Operator media centre
+DXB,Dubai International,Dubai,United Arab Emirates,Gulf,2019,total,86396757,"86,396,757",1,yes,KT_2020,
+IST,Istanbul Airport,Istanbul,Turkey,Turkey,2025,total,84437710,"84,437,710",1,yes,ACI_BLOG,ACI World preliminary 2025 ranking
+IST,Istanbul Airport,Istanbul,Turkey,Turkey,2025,total,84400000,84.4 million,100000,yes,CNN_ACI,
+IST,Istanbul Airport,Istanbul,Turkey,Turkey,2025,total,84457421,"84,457,421",1,no,NTV_2026,"National year-end count; 19,711 (0.02%) above the ACI figure; recorded, not used"
+IST,Istanbul Airport,Istanbul,Turkey,Turkey,2025,total,84000000,84 million (expected),1000000,no,HT_2025,Printed on 30 Dec 2025 as a year-end expectation
+IST,Istanbul Airport,Istanbul,Turkey,Turkey,2024,total,80400000,80.4 million,100000,yes,HT_2025,Anadolu Agency report citing DHMI
+IST,Istanbul Airport,Istanbul,Turkey,Turkey,2024,total,80400000,80.4 million,100000,yes,APP_2025,Anadolu Agency report citing DHMI
+DOH,Hamad International,Doha,Qatar,Gulf,2025,total,54300000,54.3 million,100000,yes,HIA_2026,Operator release
+DOH,Hamad International,Doha,Qatar,Gulf,2025,total,54300000,54.3 million,100000,yes,QT_2026,
+DOH,Hamad International,Doha,Qatar,Gulf,2024,total,52700000,52.7 million,100000,yes,HIA_2025,Operator release via PR Newswire
+DOH,Hamad International,Doha,Qatar,Gulf,2024,total,52700000,52.7 million,100000,yes,SEMAFOR_2025,
+DOH,Hamad International,Doha,Qatar,Gulf,2024,total,52700000,52.7 million,100000,yes,LIST_2026,
+DOH,Hamad International,Doha,Qatar,Gulf,2019,total,38786422,"38,786,422",1,yes,GT_2020,
+DOH,Hamad International,Doha,Qatar,Gulf,2019,total,38786422,"38,786,422",1,yes,AACO_DOH19,
+JED,King Abdulaziz International,Jeddah,Saudi Arabia,Gulf,2025,total,53400000,53.4 million,100000,yes,KAIA_2026,Operator release
+JED,King Abdulaziz International,Jeddah,Saudi Arabia,Gulf,2025,total,53400000,53.4m,100000,yes,TA_JED,
+JED,King Abdulaziz International,Jeddah,Saudi Arabia,Gulf,2025,total,53400000,53.4 million,100000,yes,LIST_2026,
+JED,King Abdulaziz International,Jeddah,Saudi Arabia,Gulf,2025,total,53500000,53.5 million,100000,no,GASTAT_2026,GASTAT aviation release; 0.1 million above the operator figure; recorded for the range check
+JED,King Abdulaziz International,Jeddah,Saudi Arabia,Gulf,2024,total,49120000,49.12 million,10000,yes,MDR_SA24,
+JED,King Abdulaziz International,Jeddah,Saudi Arabia,Gulf,2024,total,49100000,more than 49.1 million,100000,yes,ARGAAM_JED24,
+SAW,Istanbul Sabiha Gokcen,Istanbul,Turkey,Turkey,2025,total,48420757,"48,420,757",1,yes,NTV_2026,National year-end count
+SAW,Istanbul Sabiha Gokcen,Istanbul,Turkey,Turkey,2025,total,48000000,more than 48 million,1000000,no,HT_2025,Printed on 30 Dec 2025 before year end; lower bound only
+SAW,Istanbul Sabiha Gokcen,Istanbul,Turkey,Turkey,2024,total,41400000,41.4 million,100000,yes,HT_2025,
+SAW,Istanbul Sabiha Gokcen,Istanbul,Turkey,Turkey,2024,total,41400000,41.4 million,100000,yes,APP_2025,
+SAW,Istanbul Sabiha Gokcen,Istanbul,Turkey,Turkey,2019,total,35470000,35.47 million,10000,yes,AA_2020,
+SAW,Istanbul Sabiha Gokcen,Istanbul,Turkey,Turkey,2019,total,35470000,35.47 million,10000,yes,HDN_2020,Anadolu wire reprint
+RUH,King Khalid International,Riyadh,Saudi Arabia,Gulf,2025,total,40800000,40.8 million,100000,yes,GASTAT_2026,
+RUH,King Khalid International,Riyadh,Saudi Arabia,Gulf,2025,total,40800000,40.8 million,100000,yes,ANPK_2026,
+RUH,King Khalid International,Riyadh,Saudi Arabia,Gulf,2025,total,40800000,40.8 million,100000,yes,AN_DMM,
+RUH,King Khalid International,Riyadh,Saudi Arabia,Gulf,2024,total,37200000,37.2 million,100000,yes,MDR_SA24,
+RUH,King Khalid International,Riyadh,Saudi Arabia,Gulf,2024,total,37000000,over 37 million,1000000,no,SAFE_RUH24,Lower bound only; consistent with 37.2 million
+CAI,Cairo International,Cairo,Egypt,North Africa,2025,total,30944269,"30,944,269",1,yes,APA_CAI,Citing the Cabinet Information and Decision Support Center
+CAI,Cairo International,Cairo,Egypt,North Africa,2025,total,30940000,30.94 million,10000,yes,BTE_CAI,Printed on 25 Dec 2025
+CAI,Cairo International,Cairo,Egypt,North Africa,2024,total,28974544,"28,974,544",1,yes,APA_CAI,
+CAI,Cairo International,Cairo,Egypt,North Africa,2024,total,28970000,28.97 million,10000,yes,BTE_CAI,
+SHJ,Sharjah International,Sharjah,United Arab Emirates,Gulf,2025,total,19480000,19.48 million,10000,yes,GN_SHJ25,
+SHJ,Sharjah International,Sharjah,United Arab Emirates,Gulf,2025,total,19480000,19.48 million,10000,yes,AACO_SHJ25,Relaying the airport release
+SHJ,Sharjah International,Sharjah,United Arab Emirates,Gulf,2024,total,17101725,"17,101,725",1,yes,GN_SHJ24,
+SHJ,Sharjah International,Sharjah,United Arab Emirates,Gulf,2024,total,17100000,17.1 million,100000,yes,GN_SHJ25,
+SHJ,Sharjah International,Sharjah,United Arab Emirates,Gulf,2024,total,17100000,17.1 million,100000,yes,AACO_SHJ25,
+SHJ,Sharjah International,Sharjah,United Arab Emirates,Gulf,2019,total,13600000,13.6 million,100000,yes,SHJ_2020,Operator release
+SHJ,Sharjah International,Sharjah,United Arab Emirates,Gulf,2019,total,13600000,13.6 million,100000,yes,GTD_2020,
+TLV,Ben Gurion,Tel Aviv,Israel,Levant,2025,total,18500000,18.5 million,100000,yes,REUTERS_TLV,Reuters via Al-Monitor citing the Israel Airports Authority (6 Jan 2026)
+TLV,Ben Gurion,Tel Aviv,Israel,Levant,2025,total,18400000,18.4 million,100000,no,JNS_TLV,Printed on 23 Dec 2025 before year end
+TLV,Ben Gurion,Tel Aviv,Israel,Levant,2024,total,13900000,13.9 million,100000,yes,REUTERS_TLV,
+DMM,King Fahd International,Dammam,Saudi Arabia,Gulf,2025,total,13700000,13.7 million,100000,yes,GASTAT_2026,
+DMM,King Fahd International,Dammam,Saudi Arabia,Gulf,2025,total,13700000,13.7 million,100000,yes,ANPK_2026,
+DMM,King Fahd International,Dammam,Saudi Arabia,Gulf,2025,total,13700000,13.7 million,100000,yes,AN_DMM,
+MCT,Muscat International,Muscat,Oman,Gulf,2025,international,11838223,"11,838,223",1,yes,AACO_MCT25,Relaying NCSI data
+MCT,Muscat International,Muscat,Oman,Gulf,2025,international,11800000,11.8 million,100000,yes,AN_MCT25,
+MCT,Muscat International,Muscat,Oman,Gulf,2025,domestic,1319336,"1,319,336",1,yes,AACO_MCT25,
+MCT,Muscat International,Muscat,Oman,Gulf,2025,domestic,1300000,1.3 million,100000,yes,AN_MCT25,
+MCT,Muscat International,Muscat,Oman,Gulf,2024,international,11681790,"11,681,790",1,yes,AACO_MCT25,
+MCT,Muscat International,Muscat,Oman,Gulf,2024,international,11700000,11.7 million,100000,yes,AACO_MCT24,
+MCT,Muscat International,Muscat,Oman,Gulf,2024,international,11600000,11.6 million,100000,no,AN_MCT25,"Prints 11.6 million against 11,681,790; set aside"
+MCT,Muscat International,Muscat,Oman,Gulf,2024,domestic,1178163,"1,178,163",1,yes,AACO_MCT25,
+MCT,Muscat International,Muscat,Oman,Gulf,2024,domestic,1200000,1.2 million,100000,yes,AACO_MCT24,
+MCT,Muscat International,Muscat,Oman,Gulf,2024,total,12900000,12.9 million,100000,yes,AACO_MCT24,
+AMM,Queen Alia International,Amman,Jordan,Levant,2025,total,9789851,"9,789,851",1,yes,PETRA_AMM25,State news agency
+AMM,Queen Alia International,Amman,Jordan,Levant,2025,total,9789851,"9,789,851",1,yes,ALB_AMM25,Operator (AIG) release
+AMM,Queen Alia International,Amman,Jordan,Levant,2025,total,9789851,"9,789,851",1,yes,AACO_AMM25,
+AMM,Queen Alia International,Amman,Jordan,Levant,2024,total,8798595,"8,798,595",1,yes,ZAWYA_AMM24,Operator (AIG) release
+AMM,Queen Alia International,Amman,Jordan,Levant,2019,total,8924080,"8,924,080",1,yes,ROUTES_AMM19,Operator (AIG) release
+AMM,Queen Alia International,Amman,Jordan,Levant,2019,total,8924080,"8,924,080",1,yes,AVP_AMM19,
+BAH,Bahrain International,Muharraq,Bahrain,Gulf,2025,total,9740000,9.74 million,10000,yes,GDN_BAH25,
+BAH,Bahrain International,Muharraq,Bahrain,Gulf,2025,total,9740000,9.74 million,10000,yes,ZAWYA_BAH25,
+BAH,Bahrain International,Muharraq,Bahrain,Gulf,2024,total,9350580,"9,350,580",1,yes,GDN_BAH24,
+BAH,Bahrain International,Muharraq,Bahrain,Gulf,2024,total,9350000,9.35 million,10000,yes,GDN_BAH25,
+BAH,Bahrain International,Muharraq,Bahrain,Gulf,2024,total,9400000,9.4 million,100000,yes,AACO_BAH24,
+BAH,Bahrain International,Muharraq,Bahrain,Gulf,2019,total,9578797,"9,578,797",1,yes,MTT_2019,Ministry of Transportation and Telecommunications annual statistics
+BAH,Bahrain International,Muharraq,Bahrain,Gulf,2019,total,9578797,"9,578,797",1,yes,GDN_BAH24,
+BAH,Bahrain International,Muharraq,Bahrain,Gulf,2019,total,9600000,9.6 million,100000,yes,GDN_BAH19,

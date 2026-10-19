@@ -1,0 +1,32 @@
+airport_code,airport,city,country,subregion,year,passengers,check,chosen_source
+AMM,Queen Alia International,Amman,Jordan,Levant,2019,8924080,two-documents,ROUTES_AMM19
+AMM,Queen Alia International,Amman,Jordan,Levant,2024,8798595,one-document,ZAWYA_AMM24
+AMM,Queen Alia International,Amman,Jordan,Levant,2025,9789851,two-documents,PETRA_AMM25
+BAH,Bahrain International,Muharraq,Bahrain,Gulf,2019,9578797,two-documents,MTT_2019
+BAH,Bahrain International,Muharraq,Bahrain,Gulf,2024,9350580,two-documents,GDN_BAH24
+BAH,Bahrain International,Muharraq,Bahrain,Gulf,2025,9740000,two-documents,GDN_BAH25
+CAI,Cairo International,Cairo,Egypt,North Africa,2024,28974544,two-documents,APA_CAI
+CAI,Cairo International,Cairo,Egypt,North Africa,2025,30944269,two-documents,APA_CAI
+DMM,King Fahd International,Dammam,Saudi Arabia,Gulf,2025,13700000,two-documents,GASTAT_2026
+DOH,Hamad International,Doha,Qatar,Gulf,2019,38786422,two-documents,GT_2020
+DOH,Hamad International,Doha,Qatar,Gulf,2024,52700000,two-documents,HIA_2025
+DOH,Hamad International,Doha,Qatar,Gulf,2025,54300000,two-documents,HIA_2026
+DXB,Dubai International,Dubai,United Arab Emirates,Gulf,2019,86396757,two-documents,DXBA_2020
+DXB,Dubai International,Dubai,United Arab Emirates,Gulf,2024,92300000,two-documents,DMO_2025
+DXB,Dubai International,Dubai,United Arab Emirates,Gulf,2025,95192160,two-documents,ACI_BLOG
+IST,Istanbul Airport,Istanbul,Turkey,Turkey,2024,80400000,two-documents,HT_2025
+IST,Istanbul Airport,Istanbul,Turkey,Turkey,2025,84437710,two-documents,ACI_BLOG
+JED,King Abdulaziz International,Jeddah,Saudi Arabia,Gulf,2024,49120000,two-documents,MDR_SA24
+JED,King Abdulaziz International,Jeddah,Saudi Arabia,Gulf,2025,53400000,two-documents,KAIA_2026
+MCT,Muscat International,Muscat,Oman,Gulf,2024,12859953,derived,AACO_MCT25
+MCT,Muscat International,Muscat,Oman,Gulf,2025,13157559,derived,AACO_MCT25
+RUH,King Khalid International,Riyadh,Saudi Arabia,Gulf,2024,37200000,one-document,MDR_SA24
+RUH,King Khalid International,Riyadh,Saudi Arabia,Gulf,2025,40800000,two-documents,GASTAT_2026
+SAW,Istanbul Sabiha Gokcen,Istanbul,Turkey,Turkey,2019,35470000,two-documents,AA_2020
+SAW,Istanbul Sabiha Gokcen,Istanbul,Turkey,Turkey,2024,41400000,two-documents,HT_2025
+SAW,Istanbul Sabiha Gokcen,Istanbul,Turkey,Turkey,2025,48420757,one-document,NTV_2026
+SHJ,Sharjah International,Sharjah,United Arab Emirates,Gulf,2019,13600000,two-documents,SHJ_2020
+SHJ,Sharjah International,Sharjah,United Arab Emirates,Gulf,2024,17101725,two-documents,GN_SHJ24
+SHJ,Sharjah International,Sharjah,United Arab Emirates,Gulf,2025,19480000,two-documents,GN_SHJ25
+TLV,Ben Gurion,Tel Aviv,Israel,Levant,2024,13900000,one-document,REUTERS_TLV
+TLV,Ben Gurion,Tel Aviv,Israel,Levant,2025,18500000,one-document,REUTERS_TLV

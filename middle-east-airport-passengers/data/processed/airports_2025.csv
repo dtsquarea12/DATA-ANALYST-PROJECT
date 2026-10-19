@@ -1,0 +1,14 @@
+airport_code,rank_2025,airport,city,country,subregion,pax_2019,pax_2024,pax_2025,check_2019,check_2024,check_2025,pax_2025_m,change_vs_2024_pct,change_vs_2019_pct,added_vs_2024_m,above_world_growth
+DXB,1,Dubai International,Dubai,United Arab Emirates,Gulf,86396757,92300000,95192160,two-documents,two-documents,two-documents,95.19,3.1,10.2,2.89,False
+IST,2,Istanbul Airport,Istanbul,Turkey,Turkey,,80400000,84437710,,two-documents,two-documents,84.44,5.0,,4.04,True
+DOH,3,Hamad International,Doha,Qatar,Gulf,38786422,52700000,54300000,two-documents,two-documents,two-documents,54.3,3.0,40.0,1.6,False
+JED,4,King Abdulaziz International,Jeddah,Saudi Arabia,Gulf,,49120000,53400000,,two-documents,two-documents,53.4,8.7,,4.28,True
+SAW,5,Istanbul Sabiha Gokcen,Istanbul,Turkey,Turkey,35470000,41400000,48420757,two-documents,two-documents,one-document,48.42,17.0,36.5,7.02,True
+RUH,6,King Khalid International,Riyadh,Saudi Arabia,Gulf,,37200000,40800000,,one-document,two-documents,40.8,9.7,,3.6,True
+CAI,7,Cairo International,Cairo,Egypt,North Africa,,28974544,30944269,,two-documents,two-documents,30.94,6.8,,1.97,True
+SHJ,8,Sharjah International,Sharjah,United Arab Emirates,Gulf,13600000,17101725,19480000,two-documents,two-documents,two-documents,19.48,13.9,43.2,2.38,True
+TLV,9,Ben Gurion,Tel Aviv,Israel,Levant,,13900000,18500000,,one-document,one-document,18.5,33.1,,4.6,True
+DMM,10,King Fahd International,Dammam,Saudi Arabia,Gulf,,,13700000,,,two-documents,13.7,,,,False
+MCT,11,Muscat International,Muscat,Oman,Gulf,,12859953,13157559,,derived,derived,13.16,2.3,,0.3,False
+AMM,12,Queen Alia International,Amman,Jordan,Levant,8924080,8798595,9789851,two-documents,one-document,two-documents,9.79,11.3,9.7,0.99,True
+BAH,13,Bahrain International,Muharraq,Bahrain,Gulf,9578797,9350580,9740000,two-documents,two-documents,two-documents,9.74,4.2,1.7,0.39,True
