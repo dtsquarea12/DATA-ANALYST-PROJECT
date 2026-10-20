@@ -1,0 +1,425 @@
+period,geography,sector,segment,segment_label,measure,value,value_basis,n_documents,n_publishers,official_report,source_check,source_ids
+Q3 2024,Al Baha,All,all,All property,level,79.8,printed,1,1,no,one-document,A1
+Q4 2024,Al Baha,All,all,All property,level,83.1,printed,1,1,no,one-document,A2
+Q1 2025,Al Baha,All,all,All property,level,83.86,printed,1,1,no,one-document,A3
+Q2 2025,Al Baha,All,all,All property,level,80.16,printed,1,1,no,one-document,A4
+Q3 2025,Al Baha,All,all,All property,level,78.62,printed,1,1,no,one-document,A5
+Q4 2025,Al Baha,All,all,All property,level,78.93,printed,1,1,no,one-document,A6
+Q1 2026,Al Baha,All,all,All property,level,76.1,printed,1,1,no,one-document,A7
+Q2 2026,Al Baha,All,all,All property,level,77.92,derived,0,0,no,derived,Q2 2025 level x (1 + Q2 2026 yoy)
+Q3 2024,Al Jouf,All,all,All property,level,98.1,printed,1,1,no,one-document,A1
+Q4 2024,Al Jouf,All,all,All property,level,93.5,printed,1,1,no,one-document,A2
+Q1 2025,Al Jouf,All,all,All property,level,96.98,printed,1,1,no,one-document,A3
+Q2 2025,Al Jouf,All,all,All property,level,96.93,printed,1,1,no,one-document,A4
+Q3 2025,Al Jouf,All,all,All property,level,93.63,printed,1,1,no,one-document,A5
+Q4 2025,Al Jouf,All,all,All property,level,93.83,printed,1,1,no,one-document,A6
+Q1 2026,Al Jouf,All,all,All property,level,95.6,printed,1,1,no,one-document,A7
+Q2 2026,Al Jouf,All,all,All property,level,107.01,derived,0,0,no,derived,Q2 2025 level x (1 + Q2 2026 yoy)
+Q3 2024,Asir,All,all,All property,level,92.4,printed,1,1,no,one-document,A1
+Q4 2024,Asir,All,all,All property,level,88.6,printed,1,1,no,one-document,A2
+Q1 2025,Asir,All,all,All property,level,87.52,printed,1,1,no,one-document,A3
+Q2 2025,Asir,All,all,All property,level,89.04,printed,1,1,no,one-document,A4
+Q3 2025,Asir,All,all,All property,level,86.53,printed,1,1,no,one-document,A5
+Q4 2025,Asir,All,all,All property,level,86.31,printed,1,1,no,one-document,A6
+Q1 2026,Asir,All,all,All property,level,88.5,printed,1,1,no,one-document,A7
+Q3 2024,Eastern,All,all,All property,level,92.0,printed,1,1,no,one-document,A1
+Q4 2024,Eastern,All,all,All property,level,93.9,printed,1,1,no,one-document,A2
+Q1 2025,Eastern,All,all,All property,level,91.45,printed,1,1,no,one-document,A3
+Q2 2025,Eastern,All,all,All property,level,98.17,printed,1,1,no,one-document,A4
+Q3 2025,Eastern,All,all,All property,level,97.62,printed,1,1,no,one-document,A5
+Q4 2025,Eastern,All,all,All property,level,97.63,printed,1,1,no,one-document,A6
+Q1 2026,Eastern,All,all,All property,level,97.8,printed,1,1,no,one-document,A7
+Q3 2024,Hail,All,all,All property,level,101.1,printed,1,1,no,one-document,A1
+Q4 2024,Hail,All,all,All property,level,103.0,printed,1,1,no,one-document,A2
+Q1 2025,Hail,All,all,All property,level,103.65,printed,1,1,no,one-document,A3
+Q2 2025,Hail,All,all,All property,level,102.65,printed,1,1,no,one-document,A4
+Q3 2025,Hail,All,all,All property,level,93.69,printed,1,1,no,one-document,A5
+Q4 2025,Hail,All,all,All property,level,93.8,printed,1,1,no,one-document,A6
+Q1 2026,Hail,All,all,All property,level,95.4,printed,1,1,no,one-document,A7
+Q2 2026,Hail,All,all,All property,level,92.28,derived,0,0,no,derived,Q2 2025 level x (1 + Q2 2026 yoy)
+Q3 2024,Jazan,All,all,All property,level,100.3,printed,1,1,no,one-document,A1
+Q4 2024,Jazan,All,all,All property,level,99.3,printed,1,1,no,one-document,A2
+Q1 2025,Jazan,All,all,All property,level,101.71,printed,1,1,no,one-document,A3
+Q2 2025,Jazan,All,all,All property,level,99.18,printed,1,1,no,one-document,A4
+Q3 2025,Jazan,All,all,All property,level,100.71,printed,1,1,no,one-document,A5
+Q4 2025,Jazan,All,all,All property,level,100.38,printed,1,1,no,one-document,A6
+Q1 2026,Jazan,All,all,All property,level,100.3,printed,1,1,no,one-document,A7
+Q3 2024,Madinah,All,all,All property,level,99.6,printed,1,1,no,one-document,A1
+Q4 2024,Madinah,All,all,All property,level,98.0,printed,1,1,no,one-document,A2
+Q1 2025,Madinah,All,all,All property,level,98.49,printed,1,1,no,one-document,A3
+Q2 2025,Madinah,All,all,All property,level,96.03,printed,1,1,no,one-document,A4
+Q3 2025,Madinah,All,all,All property,level,91.61,printed,1,1,no,one-document,A5
+Q4 2025,Madinah,All,all,All property,level,92.01,printed,1,1,no,one-document,A6
+Q1 2026,Madinah,All,all,All property,level,93.6,printed,1,1,no,one-document,A7
+Q2 2026,Madinah,All,all,All property,level,91.71,derived,0,0,no,derived,Q2 2025 level x (1 + Q2 2026 yoy)
+Q3 2024,Makkah,All,all,All property,level,98.6,printed,1,1,no,one-document,A1
+Q4 2024,Makkah,All,all,All property,level,98.2,printed,1,1,no,one-document,A2
+Q1 2025,Makkah,All,all,All property,level,100.08,printed,1,1,no,one-document,A3
+Q2 2025,Makkah,All,all,All property,level,102.07,printed,1,1,no,one-document,A4
+Q3 2025,Makkah,All,all,All property,level,100.43,printed,1,1,no,one-document,A5
+Q4 2025,Makkah,All,all,All property,level,100.65,printed,1,1,no,one-document,A6
+Q1 2026,Makkah,All,all,All property,level,99.4,printed,1,1,no,one-document,A7
+Q2 2026,Makkah,All,all,All property,level,102.48,derived,0,0,no,derived,Q2 2025 level x (1 + Q2 2026 yoy)
+Q3 2024,Najran,All,all,All property,level,97.8,printed,1,1,no,one-document,A1
+Q4 2024,Najran,All,all,All property,level,102.8,printed,1,1,no,one-document,A2
+Q1 2025,Najran,All,all,All property,level,102.06,printed,1,1,no,one-document,A3
+Q2 2025,Najran,All,all,All property,level,100.61,printed,1,1,no,one-document,A4
+Q3 2025,Najran,All,all,All property,level,101.39,printed,1,1,no,one-document,A5
+Q4 2025,Najran,All,all,All property,level,100.55,printed,1,1,no,one-document,A6
+Q1 2026,Najran,All,all,All property,level,105.6,printed,1,1,no,one-document,A7
+Q3 2024,Northern Borders,All,all,All property,level,101.8,printed,1,1,no,one-document,A1
+Q4 2024,Northern Borders,All,all,All property,level,101.3,printed,1,1,no,one-document,A2
+Q1 2025,Northern Borders,All,all,All property,level,107.05,printed,1,1,no,one-document,A3
+Q2 2025,Northern Borders,All,all,All property,level,99.29,printed,1,1,no,one-document,A4
+Q3 2025,Northern Borders,All,all,All property,level,93.94,printed,1,1,no,one-document,A5
+Q4 2025,Northern Borders,All,all,All property,level,94.41,printed,1,1,no,one-document,A6
+Q1 2026,Northern Borders,All,all,All property,level,100.0,printed,1,1,no,one-document,A7
+Q2 2026,Northern Borders,All,all,All property,level,103.86,derived,0,0,no,derived,Q2 2025 level x (1 + Q2 2026 yoy)
+Q3 2024,Qassim,All,all,All property,level,97.6,printed,1,1,no,one-document,A1
+Q4 2024,Qassim,All,all,All property,level,95.6,printed,1,1,no,one-document,A2
+Q1 2025,Qassim,All,all,All property,level,96.86,printed,1,1,no,one-document,A3
+Q2 2025,Qassim,All,all,All property,level,97.48,printed,1,1,no,one-document,A4
+Q3 2025,Qassim,All,all,All property,level,92.66,printed,1,1,no,one-document,A5
+Q4 2025,Qassim,All,all,All property,level,93.01,printed,1,1,no,one-document,A6
+Q1 2026,Qassim,All,all,All property,level,91.9,printed,1,1,no,one-document,A7
+Q2 2026,Qassim,All,all,All property,level,92.22,derived,0,0,no,derived,Q2 2025 level x (1 + Q2 2026 yoy)
+Q3 2024,Riyadh,All,all,All property,level,109.8,printed,1,1,no,one-document,A1
+Q4 2024,Riyadh,All,all,All property,level,113.3,printed,1,1,no,one-document,A2
+Q1 2025,Riyadh,All,all,All property,level,114.89,printed,1,1,no,one-document,A3
+Q2 2025,Riyadh,All,all,All property,level,111.35,printed,1,1,no,one-document,A4
+Q3 2025,Riyadh,All,all,All property,level,110.91,printed,1,1,no,one-document,A5
+Q4 2025,Riyadh,All,all,All property,level,109.88,printed,1,1,no,one-document,A6
+Q1 2026,Riyadh,All,all,All property,level,109.8,printed,1,1,no,one-document,A7
+Q2 2026,Riyadh,All,all,All property,level,116.03,derived,0,0,no,derived,Q2 2025 level x (1 + Q2 2026 yoy)
+Q4 2024,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),level,104.9,printed,1,1,no,one-document,A2
+Q1 2025,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),level,100.87,printed,1,1,no,one-document,A3
+Q2 2025,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),level,102.63,printed,1,1,no,one-document,A4
+Q3 2025,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),level,110.2,printed,1,1,no,one-document,A5
+Q4 2025,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),level,109.44,printed,1,1,no,one-document,A6
+Q1 2026,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),level,112.8,printed,1,1,no,one-document,A7
+Q1 2021,Saudi Arabia,All,all,All property,level,81.4,printed,1,1,no,one-document,A1
+Q2 2021,Saudi Arabia,All,all,All property,level,82.1,printed,1,1,no,one-document,A1
+Q3 2021,Saudi Arabia,All,all,All property,level,86.2,printed,1,1,no,one-document,A1
+Q4 2021,Saudi Arabia,All,all,All property,level,89.2,printed,1,1,no,one-document,A1
+Q1 2022,Saudi Arabia,All,all,All property,level,91.3,printed,1,1,no,one-document,A1
+Q2 2022,Saudi Arabia,All,all,All property,level,95.6,printed,1,1,no,one-document,A1
+Q3 2022,Saudi Arabia,All,all,All property,level,97.5,printed,1,1,no,one-document,A1
+Q4 2022,Saudi Arabia,All,all,All property,level,97.2,printed,1,1,no,one-document,A1
+Q1 2023,Saudi Arabia,All,all,All property,level,99.2,printed,1,1,no,one-document,A1
+Q2 2023,Saudi Arabia,All,all,All property,level,100.2,printed,1,1,no,one-document,A1
+Q3 2023,Saudi Arabia,All,all,All property,level,100.0,printed,1,1,no,one-document,A1
+Q4 2023,Saudi Arabia,All,all,All property,level,100.6,printed,2,1,no,same-publisher,A1;A2
+Q1 2024,Saudi Arabia,All,all,All property,level,100.59,printed,2,1,no,same-publisher,A1;A3
+Q2 2024,Saudi Arabia,All,all,All property,level,101.79,printed,2,1,no,same-publisher,A1;A4
+Q3 2024,Saudi Arabia,All,all,All property,level,102.5,printed,1,1,no,one-document,A1
+Q4 2024,Saudi Arabia,All,all,All property,level,104.18,printed,2,1,no,same-publisher,A2;A6
+Q1 2025,Saudi Arabia,All,all,All property,level,104.93,printed,2,1,no,same-publisher,A3;A7
+Q2 2025,Saudi Arabia,All,all,All property,level,105.0,printed,1,1,no,one-document,A4
+Q3 2025,Saudi Arabia,All,all,All property,level,103.9,derived,0,0,no,derived,Q4 2025 level / (1 + Q4 2025 qoq)
+Q4 2025,Saudi Arabia,All,all,All property,level,103.48,printed,1,1,no,one-document,A6
+Q1 2026,Saudi Arabia,All,all,All property,level,103.3,printed,1,1,no,one-document,A7
+Q2 2026,Saudi Arabia,All,all,All property,level,106.4,derived,0,0,no,derived,Q1 2026 level x (1 + Q2 2026 qoq)
+Q4 2024,Saudi Arabia,Commercial,commercial,Commercial (sector),level,109.5,printed,1,1,no,one-document,A2
+Q1 2025,Saudi Arabia,Commercial,commercial,Commercial (sector),level,107.2,printed,1,1,no,one-document,A3
+Q2 2025,Saudi Arabia,Commercial,commercial,Commercial (sector),level,115.69,printed,1,1,no,one-document,A4
+Q4 2024,Saudi Arabia,Residential,residential,Residential (sector),level,102.4,printed,1,1,no,one-document,A2
+Q1 2025,Saudi Arabia,Residential,residential,Residential (sector),level,104.26,printed,1,1,no,one-document,A3
+Q2 2025,Saudi Arabia,Residential,residential,Residential (sector),level,101.57,printed,1,1,no,one-document,A4
+Q3 2024,Tabuk,All,all,All property,level,100.2,printed,1,1,no,one-document,A1
+Q4 2024,Tabuk,All,all,All property,level,102.2,printed,1,1,no,one-document,A2
+Q1 2025,Tabuk,All,all,All property,level,100.48,printed,1,1,no,one-document,A3
+Q2 2025,Tabuk,All,all,All property,level,104.4,printed,1,1,no,one-document,A4
+Q3 2025,Tabuk,All,all,All property,level,103.53,printed,1,1,no,one-document,A5
+Q4 2025,Tabuk,All,all,All property,level,103.37,printed,1,1,no,one-document,A6
+Q1 2026,Tabuk,All,all,All property,level,102.0,printed,1,1,no,one-document,A7
+Q4 2024,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),qoq,9.8,printed,1,1,no,one-document,EM
+Q1 2025,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),qoq,-3.8,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),qoq,1.7,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),qoq,7.3,printed,1,1,no,one-document,O1
+Q4 2025,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),qoq,-0.7,printed,2,2,yes,two-publishers,S4;RD
+Q1 2026,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),qoq,3.1,printed,1,1,yes,one-document,S5
+Q2 2026,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),qoq,1.3,printed,3,3,no,two-publishers,AN;E5;O2
+Q1 2025,Saudi Arabia,Agricultural,agricultural_land,Agricultural land,qoq,-3.8,printed,1,1,yes,one-document,S2
+Q2 2025,Saudi Arabia,Agricultural,agricultural_land,Agricultural land,qoq,1.7,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Agricultural,agricultural_land,Agricultural land,qoq,7.3,printed,1,1,no,one-document,O1
+Q1 2026,Saudi Arabia,Agricultural,agricultural_land,Agricultural land,qoq,3.1,printed,1,1,yes,one-document,S5
+Q4 2024,Saudi Arabia,All,all,All property,qoq,1.6,printed,2,2,yes,two-publishers,S1;EM
+Q1 2025,Saudi Arabia,All,all,All property,qoq,0.7,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,All,all,All property,qoq,0.1,printed,2,2,yes,two-publishers,S3;T1
+Q3 2025,Saudi Arabia,All,all,All property,qoq,-1.1,printed,2,2,no,two-publishers,O1;T1
+Q4 2025,Saudi Arabia,All,all,All property,qoq,-0.4,printed,3,3,yes,two-publishers,T1;S4;RD
+Q1 2026,Saudi Arabia,All,all,All property,qoq,-0.2,printed,3,3,yes,two-publishers,S5;E4;T2
+Q2 2026,Saudi Arabia,All,all,All property,qoq,3.0,printed,5,5,no,two-publishers,AN;E5;O2;M2;T2
+Q4 2024,Saudi Arabia,Residential,apartment,Apartments,qoq,0.5,printed,1,1,yes,one-document,S1
+Q1 2025,Saudi Arabia,Residential,apartment,Apartments,qoq,0.2,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Residential,apartment,Apartments,qoq,-1.2,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Residential,apartment,Apartments,qoq,-1.1,printed,1,1,no,one-document,O1
+Q1 2026,Saudi Arabia,Residential,apartment,Apartments,qoq,1.6,printed,1,1,yes,one-document,S5
+Q2 2026,Saudi Arabia,Residential,apartment,Apartments,qoq,0.9,printed,2,2,no,two-publishers,AN;M2
+Q4 2024,Saudi Arabia,Commercial,commercial,Commercial (sector),qoq,2.7,printed,2,2,yes,two-publishers,S1;EM
+Q1 2025,Saudi Arabia,Commercial,commercial,Commercial (sector),qoq,-2.1,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Commercial,commercial,Commercial (sector),qoq,7.9,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Commercial,commercial,Commercial (sector),qoq,-1.6,printed,1,1,no,one-document,O1
+Q4 2025,Saudi Arabia,Commercial,commercial,Commercial (sector),qoq,-0.4,printed,2,2,yes,two-publishers,S4;RD
+Q1 2026,Saudi Arabia,Commercial,commercial,Commercial (sector),qoq,-2.3,printed,2,2,yes,two-publishers,S5;E4
+Q2 2026,Saudi Arabia,Commercial,commercial,Commercial (sector),qoq,1.0,printed,3,3,no,two-publishers,AN;E5;O2
+Q4 2024,Saudi Arabia,Commercial,commercial_building,Commercial buildings,qoq,-2.3,printed,1,1,yes,one-document,S1
+Q1 2025,Saudi Arabia,Commercial,commercial_building,Commercial buildings,qoq,1.6,printed,1,1,yes,one-document,S2
+Q2 2025,Saudi Arabia,Commercial,commercial_building,Commercial buildings,qoq,3.0,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Commercial,commercial_building,Commercial buildings,qoq,1.0,printed,1,1,no,one-document,O1
+Q1 2026,Saudi Arabia,Commercial,commercial_building,Commercial buildings,qoq,-1.3,printed,1,1,yes,one-document,S5
+Q2 2026,Saudi Arabia,Commercial,commercial_building,Commercial buildings,qoq,-0.3,printed,1,1,no,one-document,AN
+Q4 2024,Saudi Arabia,Commercial,commercial_land,Commercial land,qoq,3.2,printed,1,1,yes,one-document,S1
+Q1 2025,Saudi Arabia,Commercial,commercial_land,Commercial land,qoq,-2.6,printed,1,1,yes,one-document,S2
+Q2 2025,Saudi Arabia,Commercial,commercial_land,Commercial land,qoq,8.6,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Commercial,commercial_land,Commercial land,qoq,-1.8,printed,1,1,no,one-document,O1
+Q1 2026,Saudi Arabia,Commercial,commercial_land,Commercial land,qoq,-2.4,printed,1,1,yes,one-document,S5
+Q4 2024,Saudi Arabia,Residential,floor,Residential floors,qoq,0.3,printed,1,1,yes,one-document,S1
+Q1 2025,Saudi Arabia,Residential,floor,Residential floors,qoq,0.2,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Residential,floor,Residential floors,qoq,-0.9,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Residential,floor,Residential floors,qoq,0.6,printed,1,1,no,one-document,O1
+Q1 2026,Saudi Arabia,Residential,floor,Residential floors,qoq,1.0,printed,1,1,yes,one-document,S5
+Q2 2026,Saudi Arabia,Residential,floor,Residential floors,qoq,-1.1,printed,2,2,no,two-publishers,AN;E5
+Q4 2024,Saudi Arabia,Residential,residential,Residential (sector),qoq,1.0,printed,2,2,yes,two-publishers,S1;EM
+Q1 2025,Saudi Arabia,Residential,residential,Residential (sector),qoq,1.9,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Residential,residential,Residential (sector),qoq,-2.6,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Residential,residential,Residential (sector),qoq,-1.1,printed,1,1,no,one-document,O1
+Q4 2025,Saudi Arabia,Residential,residential,Residential (sector),qoq,-0.4,printed,2,2,yes,two-publishers,S4;RD
+Q1 2026,Saudi Arabia,Residential,residential,Residential (sector),qoq,0.5,printed,2,2,yes,two-publishers,S5;E4
+Q2 2026,Saudi Arabia,Residential,residential,Residential (sector),qoq,3.7,printed,4,4,no,two-publishers,AN;E5;O2;M2
+Q4 2024,Saudi Arabia,Residential,residential_land,Residential land,qoq,0.9,printed,1,1,yes,one-document,S1
+Q1 2025,Saudi Arabia,Residential,residential_land,Residential land,qoq,3.2,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Residential,residential_land,Residential land,qoq,-4.0,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Residential,residential_land,Residential land,qoq,-0.8,printed,1,1,no,one-document,O1
+Q1 2026,Saudi Arabia,Residential,residential_land,Residential land,qoq,1.7,printed,1,1,yes,one-document,S5
+Q2 2026,Saudi Arabia,Residential,residential_land,Residential land,qoq,6.1,printed,2,2,no,two-publishers,AN;M2
+Q1 2025,Saudi Arabia,Commercial,showroom_shop,Showrooms and shops,qoq,1.8,printed,1,1,yes,one-document,S2
+Q3 2025,Saudi Arabia,Commercial,showroom_shop,Showrooms and shops,qoq,-0.5,printed,1,1,no,one-document,O1
+Q1 2026,Saudi Arabia,Commercial,showroom_shop,Showrooms and shops,qoq,-2.9,printed,1,1,yes,one-document,S5
+Q2 2026,Saudi Arabia,Commercial,showroom_shop,Showrooms and shops,qoq,3.8,printed,1,1,no,one-document,AN
+Q4 2024,Saudi Arabia,Residential,villa,Villas,qoq,2.4,printed,1,1,yes,one-document,S1
+Q1 2025,Saudi Arabia,Residential,villa,Villas,qoq,-1.4,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Residential,villa,Villas,qoq,1.8,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Residential,villa,Villas,qoq,-2.5,printed,1,1,no,one-document,O1
+Q1 2026,Saudi Arabia,Residential,villa,Villas,qoq,-6.2,printed,2,2,yes,two-publishers,S5;E4
+Q2 2026,Saudi Arabia,Residential,villa,Villas,qoq,-2.1,printed,3,3,no,two-publishers,AN;E5;M2
+Q3 2024,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),weight,1.9,printed,1,1,no,one-document,A1
+Q3 2024,Saudi Arabia,Agricultural,agricultural_land,Agricultural land,weight,1.9,printed,1,1,no,one-document,A1
+Q3 2024,Saudi Arabia,Residential,apartment,Apartments,weight,15.0,printed,1,1,no,one-document,A1
+Q3 2024,Saudi Arabia,Commercial,commercial,Commercial (sector),weight,25.5,printed,1,1,no,one-document,A1
+Q2 2025,Saudi Arabia,Commercial,commercial,Commercial (sector),weight,25.4,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Commercial,commercial,Commercial (sector),weight,25.4,printed,1,1,no,one-document,O1
+Q1 2026,Saudi Arabia,Commercial,commercial,Commercial (sector),weight,25.4,printed,2,2,yes,two-publishers,S5;A7
+Q2 2026,Saudi Arabia,Commercial,commercial,Commercial (sector),weight,25.4,printed,1,1,no,one-document,E5
+Q3 2024,Saudi Arabia,Commercial,commercial_building,Commercial buildings,weight,2.0,printed,1,1,no,one-document,A1
+Q3 2024,Saudi Arabia,Commercial,commercial_land,Commercial land,weight,22.9,printed,1,1,no,one-document,A1
+Q2 2025,Saudi Arabia,Commercial,commercial_land,Commercial land,weight,22.8,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Commercial,commercial_land,Commercial land,weight,22.8,printed,1,1,no,one-document,O1
+Q3 2024,Saudi Arabia,Residential,floor,Residential floors,weight,1.4,printed,1,1,no,one-document,A1
+Q3 2024,Saudi Arabia,Residential,residential,Residential (sector),weight,72.6,printed,1,1,no,one-document,A1
+Q4 2024,Saudi Arabia,Residential,residential,Residential (sector),weight,72.7,printed,1,1,yes,one-document,S1
+Q1 2025,Saudi Arabia,Residential,residential,Residential (sector),weight,72.7,printed,1,1,yes,one-document,S2
+Q1 2026,Saudi Arabia,Residential,residential,Residential (sector),weight,72.7,printed,1,1,no,one-document,A7
+Q3 2024,Saudi Arabia,Residential,residential_land,Residential land,weight,45.7,printed,1,1,no,one-document,A1
+Q4 2024,Saudi Arabia,Residential,residential_land,Residential land,weight,45.8,printed,1,1,yes,one-document,S1
+Q1 2025,Saudi Arabia,Residential,residential_land,Residential land,weight,45.8,printed,1,1,yes,one-document,S2
+Q3 2024,Saudi Arabia,Commercial,showroom_shop,Showrooms and shops,weight,0.6,printed,1,1,no,one-document,A1
+Q3 2024,Saudi Arabia,Residential,villa,Villas,weight,10.5,printed,1,1,no,one-document,A1
+Q3 2024,Al Baha,All,all,All property,yoy,-14.3,printed,1,1,no,one-document,A1
+Q4 2024,Al Baha,All,all,All property,yoy,-16.7,printed,2,2,yes,two-publishers,S1;A2
+Q1 2025,Al Baha,All,all,All property,yoy,2.1,printed,1,1,no,one-document,A3
+Q2 2025,Al Baha,All,all,All property,yoy,-1.7,printed,1,1,no,one-document,A4
+Q3 2025,Al Baha,All,all,All property,yoy,-1.4,printed,1,1,no,one-document,A5
+Q4 2025,Al Baha,All,all,All property,yoy,-5.0,printed,1,1,no,one-document,A6
+Q1 2026,Al Baha,All,all,All property,yoy,-9.2,printed,4,4,yes,two-publishers,T1;S5;A7;E4
+Q2 2026,Al Baha,All,all,All property,yoy,-2.8,printed,4,4,no,two-publishers,AN;E5;O2;T2
+Q3 2024,Al Jouf,All,all,All property,yoy,0.8,printed,1,1,no,one-document,A1
+Q4 2024,Al Jouf,All,all,All property,yoy,-4.1,printed,1,1,no,one-document,A2
+Q1 2025,Al Jouf,All,all,All property,yoy,8.2,printed,3,3,yes,two-publishers,S2;A3;E1
+Q2 2025,Al Jouf,All,all,All property,yoy,-0.7,printed,1,1,no,one-document,A4
+Q3 2025,Al Jouf,All,all,All property,yoy,-4.5,printed,1,1,no,one-document,A5
+Q4 2025,Al Jouf,All,all,All property,yoy,0.4,printed,1,1,no,one-document,A6
+Q1 2026,Al Jouf,All,all,All property,yoy,-1.4,printed,1,1,no,one-document,A7
+Q2 2026,Al Jouf,All,all,All property,yoy,10.4,printed,4,4,no,two-publishers,AN;E5;O2;T2
+Q3 2024,Asir,All,all,All property,yoy,-9.3,printed,1,1,no,one-document,A1
+Q4 2024,Asir,All,all,All property,yoy,-7.3,printed,2,2,yes,two-publishers,S1;A2
+Q1 2025,Asir,All,all,All property,yoy,-4.4,printed,3,3,yes,two-publishers,S2;A3;E1
+Q2 2025,Asir,All,all,All property,yoy,-3.9,printed,3,3,yes,two-publishers,S3;A4;E2
+Q3 2025,Asir,All,all,All property,yoy,-6.3,printed,1,1,no,one-document,A5
+Q4 2025,Asir,All,all,All property,yoy,-2.5,printed,1,1,no,one-document,A6
+Q1 2026,Asir,All,all,All property,yoy,1.1,printed,4,4,yes,two-publishers,T1;S5;A7;E4
+Q3 2024,Eastern,All,all,All property,yoy,-8.3,printed,1,1,no,one-document,A1
+Q4 2024,Eastern,All,all,All property,yoy,-4.6,printed,2,2,yes,two-publishers,S1;A2
+Q1 2025,Eastern,All,all,All property,yoy,-5.5,printed,3,3,yes,two-publishers,S2;A3;E1
+Q2 2025,Eastern,All,all,All property,yoy,4.2,printed,3,3,yes,two-publishers,S3;A4;E2
+Q3 2025,Eastern,All,all,All property,yoy,6.1,printed,3,3,no,two-publishers,A5;E3;O1
+Q4 2025,Eastern,All,all,All property,yoy,4.0,printed,2,2,no,two-publishers,T1;A6
+Q1 2026,Eastern,All,all,All property,yoy,6.9,printed,4,4,yes,two-publishers,T1;S5;A7;E4
+Q3 2024,Hail,All,all,All property,yoy,5.0,printed,1,1,no,one-document,A1
+Q4 2024,Hail,All,all,All property,yoy,0.7,printed,1,1,no,one-document,A2
+Q1 2025,Hail,All,all,All property,yoy,4.1,printed,1,1,no,one-document,A3
+Q2 2025,Hail,All,all,All property,yoy,2.9,printed,2,2,yes,two-publishers,S3;A4
+Q3 2025,Hail,All,all,All property,yoy,-7.3,printed,3,3,no,two-publishers,A5;E3;O1
+Q4 2025,Hail,All,all,All property,yoy,-8.9,printed,2,2,no,two-publishers,T1;A6
+Q1 2026,Hail,All,all,All property,yoy,-8.0,printed,4,4,yes,two-publishers,T1;S5;A7;E4
+Q2 2026,Hail,All,all,All property,yoy,-10.1,printed,4,4,no,two-publishers,AN;E5;O2;T2
+Q3 2024,Jazan,All,all,All property,yoy,-1.3,printed,1,1,no,one-document,A1
+Q4 2024,Jazan,All,all,All property,yoy,-1.6,printed,1,1,no,one-document,A2
+Q1 2025,Jazan,All,all,All property,yoy,-2.0,printed,1,1,no,one-document,A3
+Q2 2025,Jazan,All,all,All property,yoy,-2.8,printed,2,2,yes,two-publishers,S3;A4
+Q3 2025,Jazan,All,all,All property,yoy,0.5,printed,1,1,no,one-document,A5
+Q4 2025,Jazan,All,all,All property,yoy,1.1,printed,1,1,no,one-document,A6
+Q1 2026,Jazan,All,all,All property,yoy,-1.4,printed,1,1,no,one-document,A7
+Q3 2024,Madinah,All,all,All property,yoy,-1.2,printed,1,1,no,one-document,A1
+Q4 2024,Madinah,All,all,All property,yoy,0.8,printed,1,1,no,one-document,A2
+Q1 2025,Madinah,All,all,All property,yoy,-1.4,printed,1,1,no,one-document,A3
+Q2 2025,Madinah,All,all,All property,yoy,-3.2,printed,3,3,yes,two-publishers,S3;A4;E2
+Q3 2025,Madinah,All,all,All property,yoy,-8.0,printed,3,3,no,two-publishers,A5;E3;O1
+Q4 2025,Madinah,All,all,All property,yoy,-6.1,printed,1,1,no,one-document,A6
+Q1 2026,Madinah,All,all,All property,yoy,-5.0,printed,1,1,no,one-document,A7
+Q2 2026,Madinah,All,all,All property,yoy,-4.5,printed,4,4,no,two-publishers,AN;E5;O2;T2
+Q3 2024,Makkah,All,all,All property,yoy,-1.3,printed,1,1,no,one-document,A1
+Q4 2024,Makkah,All,all,All property,yoy,-0.5,printed,1,1,yes,one-document,S1
+Q1 2025,Makkah,All,all,All property,yoy,1.5,printed,2,2,yes,two-publishers,S2;A3
+Q2 2025,Makkah,All,all,All property,yoy,3.9,printed,2,2,yes,two-publishers,S3;A4
+Q3 2025,Makkah,All,all,All property,yoy,1.9,printed,2,2,no,two-publishers,A5;O1
+Q4 2025,Makkah,All,all,All property,yoy,2.5,printed,1,1,no,one-document,A6
+Q1 2026,Makkah,All,all,All property,yoy,-0.7,printed,3,3,yes,two-publishers,S5;A7;E4
+Q2 2026,Makkah,All,all,All property,yoy,0.4,printed,3,3,no,two-publishers,AN;O2;T2
+Q3 2024,Najran,All,all,All property,yoy,-0.7,printed,1,1,no,one-document,A1
+Q4 2024,Najran,All,all,All property,yoy,4.6,printed,2,2,yes,two-publishers,S1;A2
+Q1 2025,Najran,All,all,All property,yoy,5.6,printed,2,2,yes,two-publishers,S2;A3
+Q2 2025,Najran,All,all,All property,yoy,0.4,printed,1,1,no,one-document,A4
+Q3 2025,Najran,All,all,All property,yoy,3.7,printed,3,3,no,two-publishers,A5;E3;O1
+Q4 2025,Najran,All,all,All property,yoy,-2.2,printed,1,1,no,one-document,A6
+Q1 2026,Najran,All,all,All property,yoy,3.5,printed,4,4,yes,two-publishers,T1;S5;A7;E4
+Q3 2024,Northern Borders,All,all,All property,yoy,1.7,printed,1,1,no,one-document,A1
+Q4 2024,Northern Borders,All,all,All property,yoy,-1.3,printed,1,1,no,one-document,A2
+Q1 2025,Northern Borders,All,all,All property,yoy,8.7,printed,3,3,yes,two-publishers,S2;A3;E1
+Q2 2025,Northern Borders,All,all,All property,yoy,-1.3,printed,1,1,no,one-document,A4
+Q3 2025,Northern Borders,All,all,All property,yoy,-7.7,printed,3,3,no,two-publishers,A5;E3;O1
+Q4 2025,Northern Borders,All,all,All property,yoy,-6.8,printed,1,1,no,one-document,A6
+Q1 2026,Northern Borders,All,all,All property,yoy,-6.6,printed,3,3,yes,two-publishers,S5;A7;E4
+Q2 2026,Northern Borders,All,all,All property,yoy,4.6,printed,4,4,no,two-publishers,AN;E5;O2;T2
+Q3 2024,Qassim,All,all,All property,yoy,-3.0,printed,1,1,no,one-document,A1
+Q4 2024,Qassim,All,all,All property,yoy,-3.7,printed,1,1,no,one-document,A2
+Q1 2025,Qassim,All,all,All property,yoy,0.1,printed,1,1,no,one-document,A3
+Q2 2025,Qassim,All,all,All property,yoy,1.1,printed,2,2,yes,two-publishers,S3;A4
+Q3 2025,Qassim,All,all,All property,yoy,-5.1,printed,1,1,no,one-document,A5
+Q4 2025,Qassim,All,all,All property,yoy,-2.7,printed,1,1,no,one-document,A6
+Q1 2026,Qassim,All,all,All property,yoy,-5.1,printed,4,4,yes,two-publishers,T1;S5;A7;E4
+Q2 2026,Qassim,All,all,All property,yoy,-5.4,printed,4,4,no,two-publishers,AN;E5;O2;T2
+Q3 2024,Riyadh,All,all,All property,yoy,10.2,printed,1,1,no,one-document,A1
+Q4 2024,Riyadh,All,all,All property,yoy,10.2,printed,2,2,yes,two-publishers,S1;A2
+Q1 2025,Riyadh,All,all,All property,yoy,10.7,printed,3,3,yes,two-publishers,S2;A3;E1
+Q2 2025,Riyadh,All,all,All property,yoy,3.6,printed,3,3,yes,two-publishers,S3;A4;E2
+Q3 2025,Riyadh,All,all,All property,yoy,1.0,printed,3,3,no,two-publishers,A5;E3;O1
+Q4 2025,Riyadh,All,all,All property,yoy,-3.0,printed,2,2,no,two-publishers,T1;A6
+Q1 2026,Riyadh,All,all,All property,yoy,-4.4,printed,4,3,yes,two-publishers,S5;A7;E4;E5
+Q2 2026,Riyadh,All,all,All property,yoy,4.2,printed,4,4,no,two-publishers,AN;E5;O2;T2
+Q3 2024,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),yoy,-8.7,printed,1,1,no,one-document,A1
+Q4 2024,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),yoy,2.8,printed,3,3,yes,two-publishers,S1;A2;EM
+Q1 2025,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),yoy,-1.1,printed,3,3,yes,two-publishers,S2;A3;E1
+Q2 2025,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),yoy,-0.9,printed,2,2,no,two-publishers,A4;T1
+Q3 2025,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),yoy,15.3,printed,2,2,no,two-publishers,A5;T1
+Q4 2025,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),yoy,4.3,printed,2,2,no,two-publishers,T1;A6
+Q1 2026,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),yoy,11.8,printed,3,3,yes,two-publishers,S5;A7;E4
+Q2 2026,Saudi Arabia,Agricultural,agricultural,Agricultural (sector),yoy,11.3,printed,4,4,no,two-publishers,AN;E5;O2;M2
+Q3 2024,Saudi Arabia,Agricultural,agricultural_land,Agricultural land,yoy,-8.7,printed,2,2,no,two-publishers,A1;M1
+Q1 2026,Saudi Arabia,Agricultural,agricultural_land,Agricultural land,yoy,11.8,printed,1,1,yes,one-document,S5
+Q2 2026,Saudi Arabia,Agricultural,agricultural_land,Agricultural land,yoy,11.3,printed,2,2,no,two-publishers,E5;O2
+Q1 2022,Saudi Arabia,All,all,All property,yoy,12.2,printed,1,1,no,one-document,A1
+Q2 2022,Saudi Arabia,All,all,All property,yoy,16.4,printed,1,1,no,one-document,A1
+Q3 2022,Saudi Arabia,All,all,All property,yoy,13.1,printed,1,1,no,one-document,A1
+Q4 2022,Saudi Arabia,All,all,All property,yoy,9.1,printed,1,1,no,one-document,A1
+Q1 2023,Saudi Arabia,All,all,All property,yoy,8.7,printed,1,1,no,one-document,A1
+Q2 2023,Saudi Arabia,All,all,All property,yoy,4.8,printed,1,1,no,one-document,A1
+Q3 2023,Saudi Arabia,All,all,All property,yoy,2.5,printed,1,1,no,one-document,A1
+Q4 2023,Saudi Arabia,All,all,All property,yoy,3.4,printed,1,1,no,one-document,A1
+Q1 2024,Saudi Arabia,All,all,All property,yoy,1.4,printed,1,1,no,one-document,A1
+Q2 2024,Saudi Arabia,All,all,All property,yoy,1.6,printed,1,1,no,one-document,A1
+Q3 2024,Saudi Arabia,All,all,All property,yoy,2.6,printed,2,2,no,two-publishers,A1;M1
+Q4 2024,Saudi Arabia,All,all,All property,yoy,3.6,printed,3,3,yes,two-publishers,S1;A2;EM
+Q1 2025,Saudi Arabia,All,all,All property,yoy,4.3,printed,3,3,yes,two-publishers,S2;A3;E1
+Q2 2025,Saudi Arabia,All,all,All property,yoy,3.2,printed,4,4,yes,two-publishers,S3;A4;E2;T1
+Q3 2025,Saudi Arabia,All,all,All property,yoy,1.3,printed,3,3,no,two-publishers,A5;E3;T1
+Q4 2025,Saudi Arabia,All,all,All property,yoy,-0.7,printed,4,4,yes,two-publishers,T1;S4;RD;A6
+Q1 2026,Saudi Arabia,All,all,All property,yoy,-1.6,printed,4,4,yes,two-publishers,S5;A7;E4;T2
+Q2 2026,Saudi Arabia,All,all,All property,yoy,1.3,printed,5,5,no,two-publishers,AN;E5;O2;M2;T2
+Q3 2024,Saudi Arabia,Residential,apartment,Apartments,yoy,1.9,printed,2,2,no,two-publishers,A1;M1
+Q4 2024,Saudi Arabia,Residential,apartment,Apartments,yoy,2.9,printed,1,1,yes,one-document,S1
+Q1 2025,Saudi Arabia,Residential,apartment,Apartments,yoy,1.2,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Residential,apartment,Apartments,yoy,-0.7,printed,2,2,yes,two-publishers,S3;E2
+Q3 2025,Saudi Arabia,Residential,apartment,Apartments,yoy,-1.7,printed,3,3,no,two-publishers,A5;E3;O1
+Q4 2025,Saudi Arabia,Residential,apartment,Apartments,yoy,-2.5,printed,4,4,yes,two-publishers,T1;S4;RD;A6
+Q1 2026,Saudi Arabia,Residential,apartment,Apartments,yoy,-1.1,printed,4,4,yes,two-publishers,T1;S5;A7;E4
+Q2 2026,Saudi Arabia,Residential,apartment,Apartments,yoy,1.1,printed,5,5,no,two-publishers,AN;E5;O2;M2;T2
+Q3 2024,Saudi Arabia,Commercial,commercial,Commercial (sector),yoy,6.4,printed,2,2,no,two-publishers,A1;M1
+Q4 2024,Saudi Arabia,Commercial,commercial,Commercial (sector),yoy,5.0,printed,3,3,yes,two-publishers,S1;A2;EM
+Q1 2025,Saudi Arabia,Commercial,commercial,Commercial (sector),yoy,2.5,printed,3,3,yes,two-publishers,S2;A3;E1
+Q2 2025,Saudi Arabia,Commercial,commercial,Commercial (sector),yoy,11.7,printed,4,4,yes,two-publishers,S3;A4;E2;T1
+Q3 2025,Saudi Arabia,Commercial,commercial,Commercial (sector),yoy,6.8,printed,4,4,no,two-publishers,A5;E3;O1;T1
+Q4 2025,Saudi Arabia,Commercial,commercial,Commercial (sector),yoy,3.6,printed,2,2,no,two-publishers,T1;A6
+Q1 2026,Saudi Arabia,Commercial,commercial,Commercial (sector),yoy,3.4,printed,4,4,yes,two-publishers,S5;A7;E4;T2
+Q2 2026,Saudi Arabia,Commercial,commercial,Commercial (sector),yoy,-3.2,printed,5,5,no,two-publishers,AN;E5;O2;M2;T2
+Q3 2024,Saudi Arabia,Commercial,commercial_building,Commercial buildings,yoy,8.6,printed,2,2,no,two-publishers,A1;M1
+Q4 2024,Saudi Arabia,Commercial,commercial_building,Commercial buildings,yoy,5.1,printed,2,2,yes,two-publishers,S1;EM
+Q1 2025,Saudi Arabia,Commercial,commercial_building,Commercial buildings,yoy,3.1,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Commercial,commercial_building,Commercial buildings,yoy,2.7,printed,2,2,yes,two-publishers,S3;E2
+Q3 2025,Saudi Arabia,Commercial,commercial_building,Commercial buildings,yoy,3.3,printed,2,2,no,two-publishers,E3;O1
+Q1 2026,Saudi Arabia,Commercial,commercial_building,Commercial buildings,yoy,2.6,printed,2,2,yes,two-publishers,S5;E4
+Q2 2026,Saudi Arabia,Commercial,commercial_building,Commercial buildings,yoy,-0.6,printed,5,5,no,two-publishers,AN;E5;O2;M2;T2
+Q3 2024,Saudi Arabia,Commercial,commercial_land,Commercial land,yoy,6.3,printed,2,2,no,two-publishers,A1;M1
+Q4 2024,Saudi Arabia,Commercial,commercial_land,Commercial land,yoy,5.2,printed,2,2,yes,two-publishers,S1;EM
+Q1 2025,Saudi Arabia,Commercial,commercial_land,Commercial land,yoy,2.4,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Commercial,commercial_land,Commercial land,yoy,12.7,printed,1,1,yes,one-document,S3
+Q3 2025,Saudi Arabia,Commercial,commercial_land,Commercial land,yoy,7.2,printed,3,3,no,two-publishers,A5;E3;O1
+Q4 2025,Saudi Arabia,Commercial,commercial_land,Commercial land,yoy,3.5,printed,1,1,no,one-document,A6
+Q1 2026,Saudi Arabia,Commercial,commercial_land,Commercial land,yoy,3.6,printed,3,3,yes,two-publishers,S5;A7;E4
+Q2 2026,Saudi Arabia,Commercial,commercial_land,Commercial land,yoy,-3.5,printed,5,5,no,two-publishers,AN;E5;O2;M2;T2
+Q3 2024,Saudi Arabia,Residential,floor,Residential floors,yoy,-1.8,printed,1,1,no,one-document,A1
+Q4 2024,Saudi Arabia,Residential,floor,Residential floors,yoy,-0.7,printed,1,1,yes,one-document,S1
+Q1 2025,Saudi Arabia,Residential,floor,Residential floors,yoy,2.8,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Residential,floor,Residential floors,yoy,1.5,printed,2,2,yes,two-publishers,S3;E2
+Q3 2025,Saudi Arabia,Residential,floor,Residential floors,yoy,0.3,printed,2,2,no,two-publishers,E3;O1
+Q4 2025,Saudi Arabia,Residential,floor,Residential floors,yoy,-0.2,printed,3,3,yes,two-publishers,T1;S4;RD
+Q1 2026,Saudi Arabia,Residential,floor,Residential floors,yoy,0.6,printed,2,2,yes,two-publishers,S5;E4
+Q2 2026,Saudi Arabia,Residential,floor,Residential floors,yoy,0.4,printed,5,5,no,two-publishers,AN;E5;O2;M2;T2
+Q3 2024,Saudi Arabia,Residential,residential,Residential (sector),yoy,1.6,printed,2,2,no,two-publishers,A1;M1
+Q4 2024,Saudi Arabia,Residential,residential,Residential (sector),yoy,3.1,printed,3,3,yes,two-publishers,S1;A2;EM
+Q1 2025,Saudi Arabia,Residential,residential,Residential (sector),yoy,5.1,printed,3,3,yes,two-publishers,S2;A3;E1
+Q2 2025,Saudi Arabia,Residential,residential,Residential (sector),yoy,0.4,printed,4,4,yes,two-publishers,S3;A4;E2;T1
+Q3 2025,Saudi Arabia,Residential,residential,Residential (sector),yoy,-0.9,printed,4,4,no,two-publishers,A5;E3;O1;T1
+Q4 2025,Saudi Arabia,Residential,residential,Residential (sector),yoy,-2.2,printed,4,4,yes,two-publishers,T1;S4;RD;A6
+Q1 2026,Saudi Arabia,Residential,residential,Residential (sector),yoy,-3.6,printed,4,4,yes,two-publishers,S5;A7;E4;T2
+Q2 2026,Saudi Arabia,Residential,residential,Residential (sector),yoy,2.6,printed,5,5,no,two-publishers,AN;E5;O2;M2;T2
+Q3 2024,Saudi Arabia,Residential,residential_land,Residential land,yoy,1.6,printed,2,2,no,two-publishers,A1;M1
+Q4 2024,Saudi Arabia,Residential,residential_land,Residential land,yoy,2.5,printed,1,1,yes,one-document,S1
+Q1 2025,Saudi Arabia,Residential,residential_land,Residential land,yoy,5.3,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Residential,residential_land,Residential land,yoy,0.2,printed,2,2,yes,two-publishers,S3;E2
+Q3 2025,Saudi Arabia,Residential,residential_land,Residential land,yoy,-0.9,printed,3,3,no,two-publishers,A5;E3;O1
+Q4 2025,Saudi Arabia,Residential,residential_land,Residential land,yoy,-2.4,printed,4,4,yes,two-publishers,T1;S4;RD;A6
+Q1 2026,Saudi Arabia,Residential,residential_land,Residential land,yoy,-3.9,printed,4,4,yes,two-publishers,T1;S5;A7;E4
+Q2 2026,Saudi Arabia,Residential,residential_land,Residential land,yoy,6.3,printed,5,5,no,two-publishers,AN;E5;O2;M2;T2
+Q3 2024,Saudi Arabia,Commercial,showroom_shop,Showrooms and shops,yoy,-1.1,printed,2,2,no,two-publishers,A1;M1
+Q4 2024,Saudi Arabia,Commercial,showroom_shop,Showrooms and shops,yoy,-1.7,printed,2,2,yes,two-publishers,S1;EM
+Q1 2025,Saudi Arabia,Commercial,showroom_shop,Showrooms and shops,yoy,5.1,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Commercial,showroom_shop,Showrooms and shops,yoy,4.1,printed,2,2,yes,two-publishers,S3;E2
+Q3 2025,Saudi Arabia,Commercial,showroom_shop,Showrooms and shops,yoy,1.1,printed,2,2,no,two-publishers,E3;O1
+Q1 2026,Saudi Arabia,Commercial,showroom_shop,Showrooms and shops,yoy,-3.5,printed,2,2,yes,two-publishers,S5;E4
+Q2 2026,Saudi Arabia,Commercial,showroom_shop,Showrooms and shops,yoy,0.4,printed,5,5,no,two-publishers,AN;E5;O2;M2;T2
+Q3 2024,Saudi Arabia,Residential,villa,Villas,yoy,1.5,printed,2,2,no,two-publishers,A1;M1
+Q4 2024,Saudi Arabia,Residential,villa,Villas,yoy,6.5,printed,1,1,yes,one-document,S1
+Q1 2025,Saudi Arabia,Residential,villa,Villas,yoy,10.3,printed,2,2,yes,two-publishers,S2;E1
+Q2 2025,Saudi Arabia,Residential,villa,Villas,yoy,3.2,printed,2,2,yes,two-publishers,S3;E2
+Q3 2025,Saudi Arabia,Residential,villa,Villas,yoy,0.2,printed,2,2,no,two-publishers,E3;O1
+Q4 2025,Saudi Arabia,Residential,villa,Villas,yoy,-1.3,printed,3,3,yes,two-publishers,T1;S4;RD
+Q1 2026,Saudi Arabia,Residential,villa,Villas,yoy,-6.1,printed,3,3,yes,two-publishers,T1;S5;E4
+Q2 2026,Saudi Arabia,Residential,villa,Villas,yoy,-9.7,printed,5,5,no,two-publishers,AN;E5;O2;M2;T2
+Q3 2024,Tabuk,All,all,All property,yoy,-3.4,printed,1,1,no,one-document,A1
+Q4 2024,Tabuk,All,all,All property,yoy,1.1,printed,2,2,yes,two-publishers,S1;A2
+Q1 2025,Tabuk,All,all,All property,yoy,1.2,printed,1,1,no,one-document,A3
+Q2 2025,Tabuk,All,all,All property,yoy,4.7,printed,3,3,yes,two-publishers,S3;A4;E2
+Q3 2025,Tabuk,All,all,All property,yoy,3.4,printed,3,3,no,two-publishers,A5;E3;O1
+Q4 2025,Tabuk,All,all,All property,yoy,1.1,printed,1,1,no,one-document,A6
+Q1 2026,Tabuk,All,all,All property,yoy,1.5,printed,4,4,yes,two-publishers,T1;S5;A7;E4
