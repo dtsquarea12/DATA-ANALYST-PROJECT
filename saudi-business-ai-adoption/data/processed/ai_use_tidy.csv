@@ -1,0 +1,39 @@
+year,isic_section,sector,pct_using_ai,n_documents,n_publishers,verification,sources
+2024,A,"Agriculture, forestry and fishing",25.4,1,1,one-document,S2
+2024,ALL,All establishments,27.6,5,5,official-and-press,S10;S2;S5;S8;S9
+2024,B,Mining and quarrying,32.4,3,3,official-and-press,S10;S2;S8
+2024,C,Manufacturing,26.0,3,3,official-and-press,S10;S2;S8
+2024,D,Electricity and gas supply,25.7,3,3,official-and-press,S10;S2;S8
+2024,E,Water supply and sewerage,25.8,1,1,one-document,S2
+2024,F,Construction,29.0,1,1,one-document,S2
+2024,G,Wholesale and retail trade; repair of motor vehicles,25.0,3,3,official-and-press,S10;S2;S8
+2024,H,Transportation and storage,38.3,3,3,official-and-press,S10;S2;S8
+2024,I,Accommodation and food service,26.2,1,1,one-document,S2
+2024,J,Information and communication,52.8,4,4,official-and-press,S10;S2;S8;S9
+2024,K,Financial and insurance,44.7,4,4,official-and-press,S10;S2;S8;S9
+2024,L,Real estate,28.2,3,3,official-and-press,S10;S2;S8
+2024,M,"Professional, scientific and technical",39.2,3,3,official-and-press,S10;S2;S8
+2024,N,Administrative and support service,25.2,3,3,official-and-press,S10;S2;S8
+2024,P,Education,42.1,4,4,official-and-press,S10;S2;S8;S9
+2024,Q,Human health and social work,31.8,1,1,one-document,S2
+2024,R,"Arts, entertainment and recreation",29.9,1,1,one-document,S2
+2024,S,Other service activities,20.1,1,1,one-document,S2
+2025,A,"Agriculture, forestry and fishing",33.2,1,1,one-document,S1
+2025,ALL,All establishments,33.1,6,6,official-and-press,S1;S3;S4;S5;S6;S7
+2025,B,Mining and quarrying,41.8,1,1,one-document,S1
+2025,C,Manufacturing,30.7,1,1,one-document,S1
+2025,D,Electricity and gas supply,35.4,1,1,one-document,S1
+2025,E,Water supply and sewerage,34.9,1,1,one-document,S1
+2025,F,Construction,33.8,1,1,one-document,S1
+2025,G,Wholesale and retail trade; repair of motor vehicles,30.2,1,1,one-document,S1
+2025,H,Transportation and storage,44.4,5,5,official-and-press,S1;S3;S4;S5;S7
+2025,I,Accommodation and food service,33.5,1,1,one-document,S1
+2025,J,Information and communication,61.1,6,6,official-and-press,S1;S3;S4;S5;S6;S7
+2025,K,Financial and insurance,52.9,6,6,official-and-press,S1;S3;S4;S5;S6;S7
+2025,L,Real estate,31.8,1,1,one-document,S1
+2025,M,"Professional, scientific and technical",43.9,5,5,official-and-press,S1;S3;S4;S5;S7
+2025,N,Administrative and support service,30.4,1,1,one-document,S1
+2025,P,Education,51.0,6,6,official-and-press,S1;S3;S4;S5;S6;S7
+2025,Q,Human health and social work,35.6,1,1,one-document,S1
+2025,R,"Arts, entertainment and recreation",36.3,1,1,one-document,S1
+2025,S,Other service activities,26.7,1,1,one-document,S1

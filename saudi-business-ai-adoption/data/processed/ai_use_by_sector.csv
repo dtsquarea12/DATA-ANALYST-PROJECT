@@ -1,0 +1,20 @@
+isic_section,sector,pct_2024,pct_2025,verification_2024,verification_2025,change_pts,change_rel_pct,rank_2025,rank_2024,gap_to_national_2025_pts
+ALL,All establishments,27.6,33.1,official-and-press,official-and-press,5.5,19.9,,,
+J,Information and communication,52.8,61.1,official-and-press,official-and-press,8.3,15.7,1.0,1.0,28.0
+K,Financial and insurance,44.7,52.9,official-and-press,official-and-press,8.2,18.3,2.0,2.0,19.8
+P,Education,42.1,51.0,official-and-press,official-and-press,8.9,21.1,3.0,3.0,17.9
+H,Transportation and storage,38.3,44.4,official-and-press,official-and-press,6.1,15.9,4.0,5.0,11.3
+M,"Professional, scientific and technical",39.2,43.9,official-and-press,official-and-press,4.7,12.0,5.0,4.0,10.8
+B,Mining and quarrying,32.4,41.8,official-and-press,one-document,9.4,29.0,6.0,6.0,8.7
+R,"Arts, entertainment and recreation",29.9,36.3,one-document,one-document,6.4,21.4,7.0,8.0,3.2
+Q,Human health and social work,31.8,35.6,one-document,one-document,3.8,11.9,8.0,7.0,2.5
+D,Electricity and gas supply,25.7,35.4,official-and-press,one-document,9.7,37.7,9.0,14.0,2.3
+E,Water supply and sewerage,25.8,34.9,one-document,one-document,9.1,35.3,10.0,13.0,1.8
+F,Construction,29.0,33.8,one-document,one-document,4.8,16.6,11.0,9.0,0.7
+I,Accommodation and food service,26.2,33.5,one-document,one-document,7.3,27.9,12.0,11.0,0.4
+A,"Agriculture, forestry and fishing",25.4,33.2,one-document,one-document,7.8,30.7,13.0,15.0,0.1
+L,Real estate,28.2,31.8,official-and-press,one-document,3.6,12.8,14.0,10.0,-1.3
+C,Manufacturing,26.0,30.7,official-and-press,one-document,4.7,18.1,15.0,12.0,-2.4
+N,Administrative and support service,25.2,30.4,official-and-press,one-document,5.2,20.6,16.0,16.0,-2.7
+G,Wholesale and retail trade; repair of motor vehicles,25.0,30.2,official-and-press,one-document,5.2,20.8,17.0,17.0,-2.9
+S,Other service activities,20.1,26.7,one-document,one-document,6.6,32.8,18.0,18.0,-6.4
