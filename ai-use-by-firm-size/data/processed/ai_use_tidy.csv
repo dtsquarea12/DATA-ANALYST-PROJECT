@@ -1,0 +1,42 @@
+economy,year,measure,item,value,n_sources,verification,source_ids
+Turkey,2021,ai_use,All (10+ employees),2.7,3,two-or-more-documents,T1;T2;T3
+Turkey,2021,ai_use,Small (10-49),2.3,3,two-or-more-documents,T1;T2;T3
+Turkey,2021,ai_use,Medium (50-249),3.6,3,two-or-more-documents,T1;T2;T3
+Turkey,2021,ai_use,Large (250+),9.6,3,two-or-more-documents,T1;T2;T3
+Turkey,2025,ai_use,All (10+ employees),7.5,4,two-or-more-documents,T1;T2;T3;T4
+Turkey,2025,ai_use,Small (10-49),6.6,4,two-or-more-documents,T1;T2;T3;T4
+Turkey,2025,ai_use,Medium (50-249),9.6,3,two-or-more-documents,T1;T2;T3
+Turkey,2025,ai_use,Large (250+),24.1,4,two-or-more-documents,T1;T2;T3;T4
+Turkey,2025,considered_not_used,All (10+ employees),9.0,2,two-or-more-documents,T1;T2
+Turkey,2025,considered_not_used,Small (10-49),8.4,2,two-or-more-documents,T1;T2
+Turkey,2025,considered_not_used,Medium (50-249),10.4,2,two-or-more-documents,T1;T2
+Turkey,2025,considered_not_used,Large (250+),18.2,2,two-or-more-documents,T1;T2
+Turkey,2025,reason_not_used,Lack of relevant expertise,74.2,3,two-or-more-documents,T1;T2;T3
+Turkey,2025,reason_not_used,Costs too high,67.4,3,two-or-more-documents,T1;T2;T3
+Turkey,2025,reason_not_used,Legal uncertainty about liability for harm caused by AI,62.4,3,two-or-more-documents,T1;T2;T3
+Turkey,2025,purpose,Marketing or sales,46.5,3,two-or-more-documents,T1;T2;T3
+Turkey,2025,purpose,Production or service processes,41.1,3,two-or-more-documents,T1;T2;T3
+Turkey,2025,purpose,R&D or innovation,41.0,3,two-or-more-documents,T1;T2;T3
+Turkey,2025,purpose,Business administration and management,40.0,3,two-or-more-documents,T1;T2;T3
+Turkey,2025,purpose,"Accounting, control or financial management",33.7,3,two-or-more-documents,T1;T2;T3
+Turkey,2025,purpose,ICT security,22.6,3,two-or-more-documents,T1;T2;T3
+Turkey,2025,purpose,Logistics,13.6,3,two-or-more-documents,T1;T2;T3
+EU-27,2023,ai_use,All (10+ employees),8.0,3,two-or-more-documents,E5;E6;E7
+EU-27,2024,ai_use,All (10+ employees),13.48,5,two-or-more-documents,E5;E6;E7;E8;E9
+EU-27,2024,ai_use,Small (10-49),11.21,3,two-or-more-documents,E6;E7;E8
+EU-27,2024,ai_use,Medium (50-249),20.97,2,two-or-more-documents,E7;E8
+EU-27,2024,ai_use,Large (250+),41.17,3,two-or-more-documents,E7;E8;E9
+EU-27,2025,ai_use,All (10+ employees),19.95,3,two-or-more-documents,E1;E2;E3
+EU-27,2025,ai_use,Small (10-49),17.0,3,two-or-more-documents,E1;E2;E3
+EU-27,2025,ai_use,Medium (50-249),30.36,2,two-or-more-documents,E1;E3
+EU-27,2025,ai_use,Large (250+),55.03,3,two-or-more-documents,E1;E2;E3
+EU-27,2025,considered_not_used,All (10+ employees),14.21,1,one-document,E1
+EU-27,2025,considered_not_used,Small (10-49),12.65,1,one-document,E1
+EU-27,2025,considered_not_used,Medium (50-249),22.26,1,one-document,E1
+EU-27,2025,considered_not_used,Large (250+),36.54,1,one-document,E1
+EU-27,2025,reason_not_used,Lack of relevant expertise,70.89,2,two-or-more-documents,E1;E4
+EU-27,2025,reason_not_used,Legal uncertainty about consequences,52.52,2,two-or-more-documents,E1;E4
+EU-27,2025,reason_not_used,Data protection and privacy concerns,48.83,2,two-or-more-documents,E1;E4
+EU-27,2025,purpose,Marketing or sales,34.7,1,one-document,E1
+EU-27,2025,purpose,Business administration and management,31.05,1,one-document,E1
+EU-27,2025,purpose,Logistics,6.08,1,one-document,E1
