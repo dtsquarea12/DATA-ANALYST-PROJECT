@@ -1,0 +1,76 @@
+study_id,version,measure,group,value_printed,source_id,note
+support,QJE 2025,sample_size,all,5172,S3,
+support,QJE 2025,sample_size,all,5172,S4,
+support,QJE 2025,sample_size,all,5172,S5,
+support,QJE 2025,resolutions_per_hour_change_pct,all,15,S3,
+support,QJE 2025,resolutions_per_hour_change_pct,all,15,S4,
+support,QJE 2025,resolutions_per_hour_change_pct,all,15,S5,
+support,QJE 2025,resolutions_per_hour_change_pct,least_experienced,30,S4,
+support,QJE 2025,resolutions_per_hour_change_pct,least_experienced,30,S5,
+support,WP 2023,sample_size,all,5179,S1,
+support,WP 2023,sample_size,all,5179,S2,
+support,WP 2023,sample_size,all,5179,S5,
+support,WP 2023,resolutions_per_hour_change_pct,all,14,S1,
+support,WP 2023,resolutions_per_hour_change_pct,all,14,S2,
+support,WP 2023,resolutions_per_hour_change_pct,all,14,S5,
+support,WP 2023,resolutions_per_hour_change_pct,least_experienced,34,S1,
+support,WP 2023,resolutions_per_hour_change_pct,least_experienced,34,S2,
+support,WP 2023,resolutions_per_hour_change_pct,least_experienced,34,S5,
+writing,Science 2023,sample_size,all,453,W1,
+writing,Science 2023,sample_size,all,453,W2,
+writing,Science 2023,time_change_pct,all,-40,W1,
+writing,Science 2023,time_change_pct,all,-40,W2,
+writing,Science 2023,quality_change_pct,all,18,W1,
+writing,Science 2023,quality_change_pct,all,18,W2,
+coding_test,arXiv 2023,sample_size,all,95,C1,recruited; 35 treated and 35 control completed
+coding_test,arXiv 2023,time_change_pct,all,-55.8,C1,
+coding_test,arXiv 2023,time_change_pct,all,-55.8,C2,
+coding_test,arXiv 2023,minutes_to_complete,with_ai,71.17,C1,
+coding_test,arXiv 2023,minutes_to_complete,without_ai,160.89,C1,
+consulting,Org Science 2025,sample_size,all,758,B1,
+consulting,Org Science 2025,sample_size,all,758,B2,
+consulting,Org Science 2025,sample_size,all,758,B3,
+consulting,Org Science 2025,sample_size,all,758,B4,
+consulting,Org Science 2025,sample_size,all,758,B5,
+consulting,Org Science 2025,tasks_completed_change_pct,all,12.2,B1,
+consulting,Org Science 2025,tasks_completed_change_pct,all,12.2,B2,
+consulting,Org Science 2025,tasks_completed_change_pct,all,12.2,B3,
+consulting,Org Science 2025,tasks_completed_change_pct,all,12.2,B4,
+consulting,Org Science 2025,speed_gain_pct,all,25.1,B1,
+consulting,Org Science 2025,speed_gain_pct,all,25.1,B2,
+consulting,Org Science 2025,speed_gain_pct,all,25.1,B3,
+consulting,Org Science 2025,speed_gain_pct,all,25.1,B4,
+consulting,Org Science 2025,quality_change_pct,all,40,B2,
+consulting,Org Science 2025,quality_change_pct,all,40,B3,
+consulting,Org Science 2025,quality_change_pct,all,40,B4,
+consulting,Org Science 2025,quality_change_pct,all,40,B5,"set_aside: printed as 'over 40%', a lower bound"
+consulting,Org Science 2025,performance_change_pct,least_experienced,43,B2,below-average performers
+consulting,Org Science 2025,performance_change_pct,least_experienced,43,B3,below-average performers
+consulting,Org Science 2025,performance_change_pct,least_experienced,43,B4,below-average performers
+consulting,Org Science 2025,performance_change_pct,most_experienced,17,B3,top performers
+consulting,Org Science 2025,performance_change_pct,most_experienced,17,B4,top performers
+consulting,Org Science 2025,correct_answer_change_pts,outside_frontier,-19,B1,task outside what the AI could do well
+developers_field,Management Science 2025,sample_size,all,4867,D1,
+developers_field,Management Science 2025,sample_size,all,4867,D2,
+developers_field,Management Science 2025,tasks_completed_change_pct,all,26.08,D1,
+developers_field,Management Science 2025,tasks_completed_change_pct,all,26.08,D2,
+developers_field,Management Science 2025,tasks_completed_change_pct,all,26,D3,
+developers_field,Management Science 2025,tasks_completed_change_pct_low,least_experienced,27,D3,"recent hires and junior developers, range low end"
+developers_field,Management Science 2025,tasks_completed_change_pct_high,least_experienced,39,D3,"recent hires and junior developers, range high end"
+developers_field,Management Science 2025,tasks_completed_change_pct_low,most_experienced,8,D3,"senior developers, range low end"
+developers_field,Management Science 2025,tasks_completed_change_pct_high,most_experienced,13,D3,"senior developers, range high end"
+us_survey,St. Louis Fed 2025,time_saved_share_of_hours_pct,ai_users,5.4,F1,
+us_survey,St. Louis Fed 2025,time_saved_share_of_hours_pct,ai_users,5.4,F2,
+us_survey,St. Louis Fed 2025,time_saved_share_of_hours_pct,all_workers,1.4,F1,
+us_survey,St. Louis Fed 2025,hours_saved_per_40h_week,ai_users,2.2,F1,
+us_survey,St. Louis Fed 2025,hours_saved_per_40h_week,ai_users,2.2,F2,
+denmark,BFI WP 2025,time_saved_share_of_hours_pct,ai_users,2.8,K1,
+denmark,BFI WP 2025,time_saved_share_of_hours_pct,ai_users,2.8,K2,
+denmark,BFI WP 2025,sample_size,all,25000,K1,workers
+denmark,BFI WP 2025,sample_size,all,25000,K2,workers
+denmark,BFI WP 2025,workplaces,all,7000,K1,
+denmark,BFI WP 2025,workplaces,all,7000,K2,
+denmark,BFI WP 2025,occupations,all,11,K1,
+denmark,BFI WP 2025,occupations,all,11,K2,
+denmark,BFI WP 2025,earnings_effect_upper_bound_pct,all,1,K1,average effects on earnings and hours larger than 1% ruled out
+denmark,BFI WP 2025,earnings_effect_upper_bound_pct,all,1,K2,average effects on earnings and hours larger than 1% ruled out

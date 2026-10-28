@@ -1,0 +1,4 @@
+study_id,study,least_low,least_high,most_low,most_high,note
+consulting,Consultants (graded performance),43.0,43.0,17.0,17.0,below-average vs top performers
+developers_field,Software developers (tasks per week),27.0,39.0,8.0,13.0,recent hires and juniors vs seniors; ranges across the three experiments
+support,Customer support (chats per hour),30.0,30.0,,,"most experienced: 'small gains in speed and small declines in quality', no figure printed"

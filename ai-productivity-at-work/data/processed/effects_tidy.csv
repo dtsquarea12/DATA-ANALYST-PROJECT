@@ -1,0 +1,35 @@
+study_id,version,measure,group,value,n_sources,verification,source_ids,note
+support,QJE 2025,sample_size,all,5172.0,3,two-or-more-documents,S3;S4;S5,
+support,QJE 2025,resolutions_per_hour_change_pct,all,15.0,3,two-or-more-documents,S3;S4;S5,
+support,QJE 2025,resolutions_per_hour_change_pct,least_experienced,30.0,2,two-or-more-documents,S4;S5,
+support,WP 2023,sample_size,all,5179.0,3,two-or-more-documents,S1;S2;S5,
+support,WP 2023,resolutions_per_hour_change_pct,all,14.0,3,two-or-more-documents,S1;S2;S5,
+support,WP 2023,resolutions_per_hour_change_pct,least_experienced,34.0,3,two-or-more-documents,S1;S2;S5,
+writing,Science 2023,sample_size,all,453.0,2,two-or-more-documents,W1;W2,
+writing,Science 2023,time_change_pct,all,-40.0,2,two-or-more-documents,W1;W2,
+writing,Science 2023,quality_change_pct,all,18.0,2,two-or-more-documents,W1;W2,
+coding_test,arXiv 2023,sample_size,all,95.0,1,one-document,C1,recruited; 35 treated and 35 control completed
+coding_test,arXiv 2023,time_change_pct,all,-55.8,2,two-or-more-documents,C1;C2,
+coding_test,arXiv 2023,minutes_to_complete,with_ai,71.17,1,one-document,C1,
+coding_test,arXiv 2023,minutes_to_complete,without_ai,160.89,1,one-document,C1,
+consulting,Org Science 2025,sample_size,all,758.0,5,two-or-more-documents,B1;B2;B3;B4;B5,
+consulting,Org Science 2025,tasks_completed_change_pct,all,12.2,4,two-or-more-documents,B1;B2;B3;B4,
+consulting,Org Science 2025,speed_gain_pct,all,25.1,4,two-or-more-documents,B1;B2;B3;B4,
+consulting,Org Science 2025,quality_change_pct,all,40.0,3,two-or-more-documents,B2;B3;B4,
+consulting,Org Science 2025,performance_change_pct,least_experienced,43.0,3,two-or-more-documents,B2;B3;B4,below-average performers
+consulting,Org Science 2025,performance_change_pct,most_experienced,17.0,2,two-or-more-documents,B3;B4,top performers
+consulting,Org Science 2025,correct_answer_change_pts,outside_frontier,-19.0,1,one-document,B1,task outside what the AI could do well
+developers_field,Management Science 2025,sample_size,all,4867.0,2,two-or-more-documents,D1;D2,
+developers_field,Management Science 2025,tasks_completed_change_pct,all,26.08,3,two-or-more-documents,D1;D2;D3,
+developers_field,Management Science 2025,tasks_completed_change_pct_low,least_experienced,27.0,1,one-document,D3,"recent hires and junior developers, range low end"
+developers_field,Management Science 2025,tasks_completed_change_pct_high,least_experienced,39.0,1,one-document,D3,"recent hires and junior developers, range high end"
+developers_field,Management Science 2025,tasks_completed_change_pct_low,most_experienced,8.0,1,one-document,D3,"senior developers, range low end"
+developers_field,Management Science 2025,tasks_completed_change_pct_high,most_experienced,13.0,1,one-document,D3,"senior developers, range high end"
+us_survey,St. Louis Fed 2025,time_saved_share_of_hours_pct,ai_users,5.4,2,two-or-more-documents,F1;F2,
+us_survey,St. Louis Fed 2025,time_saved_share_of_hours_pct,all_workers,1.4,1,one-document,F1,
+us_survey,St. Louis Fed 2025,hours_saved_per_40h_week,ai_users,2.2,2,two-or-more-documents,F1;F2,
+denmark,BFI WP 2025,time_saved_share_of_hours_pct,ai_users,2.8,2,two-or-more-documents,K1;K2,
+denmark,BFI WP 2025,sample_size,all,25000.0,2,two-or-more-documents,K1;K2,workers
+denmark,BFI WP 2025,workplaces,all,7000.0,2,two-or-more-documents,K1;K2,
+denmark,BFI WP 2025,occupations,all,11.0,2,two-or-more-documents,K1;K2,
+denmark,BFI WP 2025,earnings_effect_upper_bound_pct,all,1.0,2,two-or-more-documents,K1;K2,average effects on earnings and hours larger than 1% ruled out

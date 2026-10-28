@@ -1,0 +1,8 @@
+study_id,study,published,scope,design,measure,effect_label,gain_pct,sample_size,verification,n_sources
+coding_test,Programming test task with an AI coding assistant,"arXiv, 2023",single task,randomised experiment,time_change_pct,less time on one coding task,55.8,95.0,two-or-more-documents,2
+writing,Professional writing tasks,"Science, 2023",single task,randomised experiment,time_change_pct,less time per writing task,40.0,453.0,two-or-more-documents,2
+developers_field,Software developers at three companies,"Management Science, 2025",day-to-day coding work,three randomised field experiments,tasks_completed_change_pct,more tasks completed per week,26.08,4867.0,two-or-more-documents,3
+consulting,Consultants on realistic consulting tasks,"Organization Science, 2025 (HBS working paper, 2023)",single task,randomised experiment,speed_gain_pct,faster on consulting tasks,25.1,758.0,two-or-more-documents,4
+support,Customer support agents with an AI assistant,"Quarterly Journal of Economics 140(2), 2025 (NBER WP 31161, 2023)",single task,staggered roll-out at one firm,resolutions_per_hour_change_pct,more chats resolved per hour,15.0,5172.0,two-or-more-documents,3
+us_survey,US workers who use generative AI,"Federal Reserve Bank of St. Louis, 2025",whole job,national survey,time_saved_share_of_hours_pct,"of work hours saved, US workers using AI",5.4,,two-or-more-documents,2
+denmark,Danish workers in 11 exposed occupations,"Becker Friedman Institute working paper, 2025",whole job,surveys linked to administrative records,time_saved_share_of_hours_pct,"of work hours saved, Danish workers using AI",2.8,25000.0,two-or-more-documents,2

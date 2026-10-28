@@ -1,0 +1,22 @@
+source_id,study_id,publisher,kind,title,date,url
+S1,support,National Bureau of Economic Research,paper page,"Generative AI at Work (NBER Working Paper 31161, with QJE 2025 publication details)",2023-04,https://www.nber.org/papers/w31161
+S2,support,Stanford Institute for Economic Policy Research,paper page,Generative AI at Work (working paper),2023-04,https://siepr.stanford.edu/publications/working-paper/generative-ai-work
+S3,support,SUFE Academic Newsletter,abstract reprint,"Generative AI at Work (Quarterly Journal of Economics 140(2), 2025, abstract)",2025,https://academicnewsletter.sufe.edu.cn/info/344659
+S4,support,Quantum Zeitgeist,news,"AI Boosts Productivity 15%, New Study Shows",2025,https://quantumzeitgeist.com/generative-ai-at-work/
+S5,support,Silicon Canals,news,AI productivity gains for novice workers (working paper and QJE versions compared),2026,https://siliconcanals.com/t-ai-productivity-novice-workers-skill-compression/
+W1,writing,MIT News,news,Study finds ChatGPT boosts worker productivity for some writing tasks,2023-07-14,https://news.mit.edu/2023/study-finds-chatgpt-boosts-worker-productivity-writing-0714
+W2,writing,Stanford SCALE,paper page,Experimental evidence on the productivity effects of generative artificial intelligence (Science 2023),2023,https://scale.stanford.edu/publications/experimental-evidence-productivity-effects-generative-artificial-intelligence
+C1,coding_test,arXiv,paper,The Impact of AI on Developer Productivity: Evidence from GitHub Copilot (arXiv 2302.06590),2023-02-13,https://arxiv.org/pdf/2302.06590
+C2,coding_test,DX (getdx.com),paper summary,Impact of AI on developer productivity: evidence from Copilot,2023,https://getdx.com/research/impact-of-ai-on-developer-productivity-evidence-from-copilot/
+B1,consulting,Organization Science (INFORMS),paper,Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality,2025,https://pubsonline.informs.org/doi/full/10.1287/orsc.2025.21838
+B2,consulting,One Useful Thing (Ethan Mollick),author summary,Centaurs and Cyborgs on the Jagged Frontier,2023-09,https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged
+B3,consulting,The Decoder,news,GPT-4 could be the great skill leveler for consultants,2023-09,https://the-decoder.com/gpt-4-could-be-the-great-skill-leveler-for-consultants/
+B4,consulting,The 80/20 newsletter,newsletter,Consulting and generative AI,2023,https://the8020newsletter.substack.com/p/consulting-generative-ai
+B5,consulting,Harvard Business School AI Institute,project page,Navigating the Jagged Technological Frontier,2023,https://aiinstitute.hbs.edu/navigating-the-jagged-technological-frontier/
+D1,developers_field,Microsoft Research,paper page,The Effects of Generative AI on High-Skilled Work: Evidence from Three Field Experiments with Software Developers,2024,https://www.microsoft.com/en-us/research/?p=1148213
+D2,developers_field,CO/AI (getcoai.com),news,AI boosts developer productivity by 26% in landmark study,2024-09-06,https://getcoai.com/news/ai-boosts-developer-productivity-by-26-in-landmark-study
+D3,developers_field,MIT Sloan Ideas Made to Matter,news,How generative AI affects highly skilled workers,2024,https://mitsloan.mit.edu/ideas-made-to-matter/how-generative-ai-affects-highly-skilled-workers
+F1,us_survey,Federal Reserve Bank of St. Louis,research note,The Impact of Generative AI on Work Productivity,2025-02,https://www.stlouisfed.org/on-the-economy/2025/feb/impact-generative-ai-work-productivity
+F2,us_survey,Federal Reserve Bank of St. Louis,article,"Generative AI, Productivity and the Future of Work",2025-10,https://www.stlouisfed.org/open-vault/2025/oct/generative-ai-productivity-future-work
+K1,denmark,Marginal Revolution,blog (quotes abstract),"Large Language Models, Small Labor Market Effects",2025-04,https://marginalrevolution.com/marginalrevolution/2025/04/large-language-models-small-labor-market-effects.html
+K2,denmark,Techstrong.ai,news,AI hasn't impacted jobs or wages yet: study,2025-05-06,https://techstrong.ai/agentic-ai/ai-hasnt-impacted-jobs-or-wages-yet-study/
