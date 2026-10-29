@@ -1,0 +1,23 @@
+region,country,ai_share_pct_2025,rank,n_sources,verification
+Middle East,United Arab Emirates,2.87,7,3,two-or-more-documents
+Asia,Singapore,4.69,1,2,two-or-more-documents
+Asia,Hong Kong,3.48,2,2,two-or-more-documents
+Europe,Luxembourg,3.43,3,2,two-or-more-documents
+Europe,Spain,3.31,4,2,two-or-more-documents
+Europe,Poland,2.92,6,1,one-document
+Europe,Sweden,2.77,8,1,one-document
+Europe,United Kingdom,1.93,11,2,two-or-more-documents
+Europe,Switzerland,1.59,13,1,one-document
+Europe,Belgium,1.36,15,1,one-document
+Europe,Italy,1.33,16,1,one-document
+Europe,Germany,1.13,17,1,one-document
+Europe,Netherlands,1.04,18,1,one-document
+Europe,France,0.99,19,1,one-document
+Europe,Austria,0.84,20,1,one-document
+Europe,Croatia,0.38,22,1,one-document
+Americas,Canada,3.0,5,1,one-document
+Americas,United States,2.56,9,2,two-or-more-documents
+Americas,Chile,2.41,10,2,two-or-more-documents
+Americas,Mexico,1.38,14,1,one-document
+Oceania,Australia,1.78,12,1,one-document
+Oceania,New Zealand,0.81,21,1,one-document

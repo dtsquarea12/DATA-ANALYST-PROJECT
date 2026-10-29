@@ -1,0 +1,12 @@
+sector,published_ratio,ratio_pct,exact_pct,exact_is_upper_bound,ratio_sources,exact_sources
+Technology,1 in 3,33.33,31.6,False,9,1
+Banking,1 in 15,6.67,8.1,False,9,1
+Audit,1 in 15,6.67,5.8,False,9,1
+Oil and gas,1 in 30,3.33,3.6,False,8,1
+Real estate,1 in 30,3.33,2.6,False,8,1
+Construction,1 in 100 or fewer,1.0,,True,7,1
+Retail,1 in 100 or fewer,1.0,,True,7,1
+Healthcare,1 in 100 or fewer,1.0,,True,7,1
+Manufacturing,1 in 100 or fewer,1.0,,True,7,1
+Education,1 in 100 or fewer,1.0,,True,7,1
+Hospitality,1 in 100 or fewer,1.0,,True,7,1

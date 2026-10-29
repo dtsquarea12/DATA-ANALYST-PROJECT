@@ -1,0 +1,105 @@
+dataset,geography,segment,period,measure,value,ratio_printed,n_sources,verification,source_ids,note
+gulftalent,"UAE, Saudi Arabia, Qatar",all professional vacancies,2022,share_pct,1.2,,10,two-or-more-documents,G1;G10;G2;G3;G4;G5;G6;G7;G8;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",all professional vacancies,2026H1,share_pct,3.4,,10,two-or-more-documents,G1;G10;G2;G3;G4;G5;G6;G7;G8;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",all professional vacancies,2026H1,share_ratio,3.33,1 in 30,10,two-or-more-documents,G1;G10;G2;G3;G4;G5;G6;G7;G8;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",sample,2022-01 to 2026-06,vacancies_analysed,118000.0,,9,two-or-more-documents,G1;G10;G2;G3;G4;G5;G6;G8;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",AI-connected vacancies classified,2026H1,vacancies_classified,420.0,,5,two-or-more-documents,G2;G3;G5;G6;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",Technology,2026H1,share_ratio,33.33,1 in 3,9,two-or-more-documents,G10;G2;G3;G4;G5;G6;G7;G8;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",Technology,2026H1,share_pct,31.6,,1,one-document,G1,
+gulftalent,"UAE, Saudi Arabia, Qatar",Banking,2026H1,share_ratio,6.67,1 in 15,9,two-or-more-documents,G10;G2;G3;G4;G5;G6;G7;G8;G9,banking and audit printed together
+gulftalent,"UAE, Saudi Arabia, Qatar",Banking,2026H1,share_pct,8.1,,1,one-document,G1,
+gulftalent,"UAE, Saudi Arabia, Qatar",Audit,2026H1,share_ratio,6.67,1 in 15,9,two-or-more-documents,G10;G2;G3;G4;G5;G6;G7;G8;G9,banking and audit printed together
+gulftalent,"UAE, Saudi Arabia, Qatar",Audit,2026H1,share_pct,5.8,,1,one-document,G1,
+gulftalent,"UAE, Saudi Arabia, Qatar",Oil and gas,2026H1,share_ratio,3.33,1 in 30,8,two-or-more-documents,G2;G3;G4;G5;G6;G7;G8;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",Oil and gas,2026H1,share_pct,3.6,,1,one-document,G1,
+gulftalent,"UAE, Saudi Arabia, Qatar",Real estate,2026H1,share_ratio,3.33,1 in 30,8,two-or-more-documents,G2;G3;G4;G5;G6;G7;G8;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",Real estate,2026H1,share_pct,2.6,,1,one-document,G1,
+gulftalent,"UAE, Saudi Arabia, Qatar",Construction,2026H1,share_ratio,1.0,1 in 100 or fewer,7,two-or-more-documents,G2;G3;G5;G6;G7;G8;G9,printed as one group
+gulftalent,"UAE, Saudi Arabia, Qatar",Construction,2026H1,share_pct_max,1.0,,1,one-document,G1,printed as '1% or less' for the group
+gulftalent,"UAE, Saudi Arabia, Qatar",Retail,2026H1,share_ratio,1.0,1 in 100 or fewer,7,two-or-more-documents,G2;G3;G5;G6;G7;G8;G9,printed as one group
+gulftalent,"UAE, Saudi Arabia, Qatar",Retail,2026H1,share_pct_max,1.0,,1,one-document,G1,printed as '1% or less' for the group
+gulftalent,"UAE, Saudi Arabia, Qatar",Healthcare,2026H1,share_ratio,1.0,1 in 100 or fewer,7,two-or-more-documents,G2;G3;G5;G6;G7;G8;G9,printed as one group
+gulftalent,"UAE, Saudi Arabia, Qatar",Healthcare,2026H1,share_pct_max,1.0,,1,one-document,G1,printed as '1% or less' for the group
+gulftalent,"UAE, Saudi Arabia, Qatar",Manufacturing,2026H1,share_ratio,1.0,1 in 100 or fewer,7,two-or-more-documents,G2;G3;G5;G6;G7;G8;G9,printed as one group
+gulftalent,"UAE, Saudi Arabia, Qatar",Manufacturing,2026H1,share_pct_max,1.0,,1,one-document,G1,printed as '1% or less' for the group
+gulftalent,"UAE, Saudi Arabia, Qatar",Education,2026H1,share_ratio,1.0,1 in 100 or fewer,7,two-or-more-documents,G2;G3;G5;G6;G7;G8;G9,printed as one group
+gulftalent,"UAE, Saudi Arabia, Qatar",Education,2026H1,share_pct_max,1.0,,1,one-document,G1,printed as '1% or less' for the group
+gulftalent,"UAE, Saudi Arabia, Qatar",Hospitality,2026H1,share_ratio,1.0,1 in 100 or fewer,7,two-or-more-documents,G2;G3;G5;G6;G7;G8;G9,printed as one group
+gulftalent,"UAE, Saudi Arabia, Qatar",Hospitality,2026H1,share_pct_max,1.0,,1,one-document,G1,printed as '1% or less' for the group
+gulftalent,"UAE, Saudi Arabia, Qatar",Individual contributor roles,2026H1,share_ratio,3.33,1 in 30,9,two-or-more-documents,G1;G2;G3;G4;G5;G6;G7;G8;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",Senior leadership roles,2026H1,share_ratio,8.33,1 in 12,9,two-or-more-documents,G1;G2;G3;G4;G5;G6;G7;G8;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",AI-connected vacancies: Implementing AI,2026H1,role_share_pct,35.0,,2,two-or-more-documents,G4;G7,
+gulftalent,"UAE, Saudi Arabia, Qatar",AI-connected vacancies: Using AI in the job,2026H1,role_share_pct,31.0,,2,two-or-more-documents,G4;G7,
+gulftalent,"UAE, Saudi Arabia, Qatar",AI-connected vacancies: Selling AI products and services,2026H1,role_share_pct,25.0,,2,two-or-more-documents,G4;G7,
+gulftalent,"UAE, Saudi Arabia, Qatar",AI-connected vacancies: Building and training AI models,2026H1,role_share_pct,9.0,,2,two-or-more-documents,G4;G7,
+gulftalent,"UAE, Saudi Arabia, Qatar",AI-connected vacancies: Implementing AI,2026H1,role_share_ratio,33.33,1 in 3,8,two-or-more-documents,G1;G10;G2;G3;G5;G6;G8;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",AI-connected vacancies: Using AI in the job,2026H1,role_share_ratio,33.33,1 in 3,8,two-or-more-documents,G1;G10;G2;G3;G5;G6;G8;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",AI-connected vacancies: Selling AI products and services,2026H1,role_share_ratio,25.0,1 in 4,8,two-or-more-documents,G1;G10;G2;G3;G5;G6;G8;G9,
+gulftalent,"UAE, Saudi Arabia, Qatar",AI-connected vacancies: Building and training AI models,2026H1,role_share_ratio,10.0,fewer than 1 in 10,8,two-or-more-documents,G1;G10;G2;G3;G5;G6;G8;G9,
+pwc_lightcast,United Arab Emirates,all postings,2021,share_pct,1.0,,2,two-or-more-documents,P1;P2,
+pwc_lightcast,United Arab Emirates,all postings,2025,share_pct,3.2,,12,two-or-more-documents,G1;G10;G2;G3;G4;G5;G6;G7;G8;G9;P1;P2,GulfTalent articles quote PwC
+pwc_lightcast,World (27-country average),all postings,2021,share_pct,1.8,,1,one-document,P2,
+pwc_lightcast,World (27-country average),all postings,2025,share_pct,3.2,,1,one-document,P2,
+pwc_lightcast,India,all postings,2021,share_pct,4.4,,1,one-document,P2,
+pwc_lightcast,India,all postings,2025,share_pct,8.1,,1,one-document,P2,
+pwc_lightcast,China (Mainland),all postings,2021,share_pct,5.2,,1,one-document,P2,
+pwc_lightcast,China (Mainland),all postings,2025,share_pct,6.4,,1,one-document,P2,
+pwc_lightcast,United Arab Emirates,AI-skill postings,2021,postings_thousand,4.6,,1,one-document,P2,
+pwc_lightcast,United Arab Emirates,AI-skill postings,2022,postings_thousand,8.2,,1,one-document,P2,
+pwc_lightcast,United Arab Emirates,AI-skill postings,2023,postings_thousand,8.8,,1,one-document,P2,
+pwc_lightcast,United Arab Emirates,AI-skill postings,2024,postings_thousand,9.5,,1,one-document,P2,
+pwc_lightcast,United Arab Emirates,AI-skill postings,2025,postings_thousand,12.2,,1,one-document,P2,
+pwc_lightcast,United Arab Emirates,AI-skill postings,2024 to 2025,postings_change_thousand,2.7,,2,two-or-more-documents,P1;P2,"printed as 'around 2,700' and '~2.7k'"
+pwc_lightcast,United Arab Emirates,"Technology, Media and Telecoms",2025,share_pct_approx,10.0,,1,one-document,P1,printed as 'nearly 10%'
+ai_index_lightcast,Singapore,all postings,2025,share_pct,4.69,,2,two-or-more-documents,A1;A2,read three times from the PDF; all readings agree
+ai_index_lightcast,Hong Kong,all postings,2025,share_pct,3.48,,2,two-or-more-documents,A1;A2,read three times from the PDF; all readings agree
+ai_index_lightcast,Luxembourg,all postings,2025,share_pct,3.43,,2,two-or-more-documents,A1;A2,read three times from the PDF; all readings agree
+ai_index_lightcast,Spain,all postings,2025,share_pct,3.31,,2,two-or-more-documents,A1;A2,read three times from the PDF; all readings agree
+ai_index_lightcast,Canada,all postings,2025,share_pct,3.0,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,Poland,all postings,2025,share_pct,2.92,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,United Arab Emirates,all postings,2025,share_pct,2.87,,3,two-or-more-documents,A1;A3;A4,read three times from the PDF; all readings agree
+ai_index_lightcast,Sweden,all postings,2025,share_pct,2.77,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,United States,all postings,2025,share_pct,2.56,,2,two-or-more-documents,A1;A2,read three times from the PDF; all readings agree
+ai_index_lightcast,Chile,all postings,2025,share_pct,2.41,,2,two-or-more-documents,A1;A2,read three times from the PDF; all readings agree
+ai_index_lightcast,United Kingdom,all postings,2025,share_pct,1.93,,2,two-or-more-documents,A1;A2,read three times from the PDF; all readings agree
+ai_index_lightcast,Australia,all postings,2025,share_pct,1.78,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,Switzerland,all postings,2025,share_pct,1.59,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,Mexico,all postings,2025,share_pct,1.38,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,Belgium,all postings,2025,share_pct,1.36,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,Italy,all postings,2025,share_pct,1.33,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,Germany,all postings,2025,share_pct,1.13,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,Netherlands,all postings,2025,share_pct,1.04,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,France,all postings,2025,share_pct,0.99,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,Austria,all postings,2025,share_pct,0.84,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,New Zealand,all postings,2025,share_pct,0.81,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,Croatia,all postings,2025,share_pct,0.38,,1,one-document,A1,read three times from the PDF; all readings agree
+ai_index_lightcast,United States,Information,2024,share_pct,7.82,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Information,2025,share_pct,13.22,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,"Professional, scientific, and technical services",2024,share_pct,4.41,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,"Professional, scientific, and technical services",2025,share_pct,6.49,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Finance and insurance,2024,share_pct,3.27,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Finance and insurance,2025,share_pct,5.33,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Manufacturing,2024,share_pct,3.35,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Manufacturing,2025,share_pct,4.66,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Management of companies and enterprises,2024,share_pct,1.62,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Management of companies and enterprises,2025,share_pct,3.28,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Utilities,2024,share_pct,2.0,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Utilities,2025,share_pct,2.89,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Educational services,2024,share_pct,2.03,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Educational services,2025,share_pct,2.42,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Real estate and rental and leasing,2024,share_pct,1.08,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Real estate and rental and leasing,2025,share_pct,2.08,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Wholesale trade,2024,share_pct,1.06,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Wholesale trade,2025,share_pct,1.93,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,"Mining, quarrying, and oil and gas extraction",2024,share_pct,1.74,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,"Mining, quarrying, and oil and gas extraction",2025,share_pct,1.87,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Public administration,2024,share_pct,1.19,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Public administration,2025,share_pct,1.69,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Retail trade,2024,share_pct,1.04,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Retail trade,2025,share_pct,1.67,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,"Agriculture, forestry, fishing and hunting",2024,share_pct,0.99,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,"Agriculture, forestry, fishing and hunting",2025,share_pct,1.32,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Transportation and warehousing,2024,share_pct,0.81,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Transportation and warehousing,2025,share_pct,1.26,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Waste management and administrative support services,2024,share_pct,0.35,,1,one-document,A1,Figure 4.4.9; read twice
+ai_index_lightcast,United States,Waste management and administrative support services,2025,share_pct,0.46,,1,one-document,A1,Figure 4.4.9; read twice
